@@ -76,8 +76,8 @@ Un entorno de escritorio por lo general consiste de iconos, ventanas, barras de 
 Posteriormente, nos aparece una pantalla de fondo azul que nos pide un usuario y contraseña. Introducimos los siguientes datos:
 
 
->+ Usuario: invitado
->+ Contraseña: invitado
+>+ Usuario: lo que sea
+>+ Contraseña: lo que sea
 	
 
 Es posible que el sistema tarde cierto tiempo en cargarse completamente.
@@ -101,7 +101,7 @@ Tal y como se muestra en la siguiente imagen:
 Aparecerá una ventana en la que no se nos permitirá modificar nada. Para poder cambiar los valores tenemos que pulsar sobre el escudo que se muestra en la parte inferior de esta ventana. Pedirá una contraseña. En este caso hay que introducir la contraseña de superusuario (explicado en el apartado Administración del sistema / Cuenta de superusuario):
 
 
-+ Contraseña: osloslugr
+>+ Contraseña: la que sea
 	
 
  3 
@@ -246,13 +246,13 @@ Como vemos la información se representa como si fuera un árbol invertido, dond
 Por ejemplo si accedemos a una foto llamada “osl.png” perteneciente al usuario “serafin” el sistema operativo pasaría por la ruta de acceso:
 
 
-/home/serafin/Fotos/osl.png
+>+ /home/serafin/Fotos/osl.png
 	
 
 Bien pues la carpeta personal del usuario “invitado” se encuentra en la ruta:
 
 
-+ /home/invitado/
+>+ /home/invitado/
 
 
 ###Cuenta de superusuario
@@ -260,8 +260,8 @@ Bien pues la carpeta personal del usuario “invitado” se encuentra en la ruta
 Los sistemas Linux como el que ha sido instalado en el ordenador que tenga tienen distintos roles de usuario, al igual que en una empresa que se encuentra el director, los subdirectores y nos encontraríamos por ejemplo ya los empleados, cada uno de ellos con diferentes privilegios para hacer o deshacer cosas, en Linux existe lo que se llama el superusuario (sería como el director de la empresa), que es el usuario que tiene todos los privilegios para administrar y manejar el sistema a diferencia de un usuario normal (como el usuario invitado) que tiene acceso limitado a una serie de aplicaciones y de opciones de administración. 
 
 
->+ Usuario: root
->+ Contraseña: osloslugr
+>+ Usuario: la que sea
+>+ Contraseña: la que se ponga
 	
 
 Para hacer uso de la cuenta de superusuario, tenemos que abrir una terminal y en ella escribir la palabra **su** y como contraseña la indicada en el recuadro anterior, quedando como en la imagen:
@@ -280,13 +280,13 @@ Cuando queremos instalar algún programa nuevo podemos hacerlo de muchas formas.
 Recordamos que la contraseña que hay que introducir es:
 
 
->+ Contraseña: osloslugr
+>+ Contraseña: la que toque
 
 Desde gestor de paquetes **Synaptic**
 Esta aplicación, es una de las más usadas para instalar aplicaciones y es la que de hecho se recomienda para esta tarea. Nos iremos a:
 
 
-+ Aplicaciones / Herramientas del sistema / Administración / Gestor de paquetes Synaptic
+>+ Aplicaciones / Herramientas del sistema / Administración / Gestor de paquetes Synaptic
 	
 
 En el panel izquierdo disponemos de las categorías de los programas para instalar, así que si seleccionamos una de ellas, se nos reflejará en el panel derecho el listado de aplicaciones relacionadas con esa categoría.
@@ -318,7 +318,7 @@ En primer lugar debemos de identificarnos como superusuario escribiendo en conso
 A continuación nos pide una contraseña y debemos escribir la contraseña de superusuario.
 
 
->+ osloslugr
+>+ la que se ponga
 	
 
 Para hacer uso de esta forma para instalar programas debemos usar dos órdenes, una para buscar el programa en cuestión y luego otra orden para instalar la aplicación.
@@ -363,7 +363,7 @@ Existen diversos tipos tales como ext2, ext3 que son los tipos nativos de Linux 
 La carpeta del administrador se encuentra en:
 
 
-+ /root
+>+ /root
 	
 
 
