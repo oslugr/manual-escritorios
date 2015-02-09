@@ -1,3 +1,3 @@
-# Crear manuales para campañas de donación de distintas shell
+# Crear manuales para campañas de donación con distintos escritorios (shell)
 
 
