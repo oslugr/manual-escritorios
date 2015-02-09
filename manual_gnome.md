@@ -76,8 +76,8 @@ Un entorno de escritorio por lo general consiste de iconos, ventanas, barras de 
 Posteriormente, nos aparece una pantalla de fondo azul que nos pide un usuario y contraseña. Introducimos los siguientes datos:
 
 
-+ Usuario: invitado
-* Contraseña: invitado
+>+ Usuario: invitado
+>+ Contraseña: invitado
 	
 
 Es posible que el sistema tarde cierto tiempo en cargarse completamente.
@@ -101,33 +101,39 @@ Tal y como se muestra en la siguiente imagen:
 Aparecerá una ventana en la que no se nos permitirá modificar nada. Para poder cambiar los valores tenemos que pulsar sobre el escudo que se muestra en la parte inferior de esta ventana. Pedirá una contraseña. En este caso hay que introducir la contraseña de superusuario (explicado en el apartado Administración del sistema / Cuenta de superusuario):
 
 
-Contraseña: osloslugr
++ Contraseña: osloslugr
 	
 
  3 
 
 
 
-        Ahora podemos poner la hora y la fecha actuales. Si vuelve a pedir una contraseña se debe de introducir la de superusuario, indicada en el recuadro anterior.
-Programas básicos instalados
+Ahora podemos poner la hora y la fecha actuales. Si vuelve a pedir una contraseña se debe de introducir la de superusuario, indicada en el recuadro anterior.
+
+##Programas básicos instalados
+
 El equipo tiene instalados por defecto diversas aplicaciones libres que abarcan distintas necesidades a la hora de trabajar o de utilizar el ordenador. A continuación puede conocer mejor alguno de los más básicos y útiles.
-IceWeasel
-             Iceweasel es uno de los navegadores que viene con el equipo, su funcionalidad prácticamente idéntica a la del gran navegador Firefox, ya que con este navegador podremos acceder a internet además de poder abrir incluso ficheros de texto y más.  
+
+###IceWeasel
+
+Iceweasel es uno de los navegadores que viene con el equipo, su funcionalidad prácticamente idéntica a la del gran navegador Firefox, ya que con este navegador podremos acceder a internet además de poder abrir incluso ficheros de texto y más.  
 
 
 Para usar la aplicación diríjase a:
 
 
-Aplicaciones / Internet / Iceweasel
++ Aplicaciones / Internet / Iceweasel
 	
 
 Para más información, diríjase al folleto formativo nº 3 proporcionado.
-                   LibreOffice 
+
+###LibreOffice 
+
 Esta suite ofimática incluye una serie de aplicaciones tales como Writer, Impress, Draw, Calc y Base. Estas aplicaciones le permitirán trabajar con textos, presentaciones y hojas de cálculos entre otras.  
 Para usar la aplicación diríjase a:
 
 
-Aplicaciones / Oficina / LibreOffice Writer
++ Aplicaciones / Oficina / LibreOffice Writer
 	
 
 Seleccione en este último lugar la aplicación que desee según quiera trabajar con textos (Writer), hojas de cálculo (Calc), presentaciones (Impress), dibujos (Draw) o bases de datos. Para más información, diríjase a los folletos formativos nº 5, 6, 7 proporcionados.
