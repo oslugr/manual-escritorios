@@ -1,2 +1,3 @@
-# manual-escritorios
-Manual sobre los escritorios para equipos donación.
+# Crear manuales para campañas de donación de distintas shell
+
+
