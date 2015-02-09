@@ -1,2 +1,2 @@
-# Manual escritorios campañas donación
+# Manual Gnome
 Manual sobre los escritorios para equipos donación.
