@@ -225,8 +225,9 @@ Aparte de esta terminal, existen otras terminales (se les llaman terminales virt
       * cal
    * exit Bien nos sirve para cerrar la terminal o para cerrar la sesión del superusuario.
       * exit
-      * 
-        Incluso tenemos atajos en la terminal y más cosas al respecto pero eso ya se escapa de este manual.
+       
+Incluso tenemos atajos en la terminal y más cosas al respecto pero eso ya se escapa de este manual.
+
         
 ###Administración del sistema
 
@@ -251,7 +252,8 @@ Por ejemplo si accedemos a una foto llamada “osl.png” perteneciente al usuar
 Bien pues la carpeta personal del usuario “invitado” se encuentra en la ruta:
 
 
-/home/invitado/
++ /home/invitado/
+
 
 ###Cuenta de superusuario
 
@@ -270,7 +272,7 @@ Para hacer uso de la cuenta de superusuario, tenemos que abrir una terminal y en
 Una vez estemos como superusuario podremos hacer todo lo que queramos, desde poder modificar ficheros tales como el que almacena la información de los repositorios, instalar aplicaciones o incluso modificar el menú de Grub para el arranque del sistema.
 Al terminar de hacer las tareas que quisiéramos debemos finalizar la sesión para evitar que ningún usuario malintencionado haga mal uso del equipo, para ello escribiremos el comando:
 
-+ exit
+>+ exit
 
 ###Instalar programas
 
@@ -278,7 +280,7 @@ Cuando queremos instalar algún programa nuevo podemos hacerlo de muchas formas.
 Recordamos que la contraseña que hay que introducir es:
 
 
-+ Contraseña: osloslugr
+>+ Contraseña: osloslugr
 
 Desde gestor de paquetes **Synaptic**
 Esta aplicación, es una de las más usadas para instalar aplicaciones y es la que de hecho se recomienda para esta tarea. Nos iremos a:
@@ -310,38 +312,38 @@ Hay una forma muy sencilla de instalar un programa y es utilizando la consola qu
 En primer lugar debemos de identificarnos como superusuario escribiendo en consola:
 
 
-+ su
+>+ su
 	
 
 A continuación nos pide una contraseña y debemos escribir la contraseña de superusuario.
 
 
-+ osloslugr
+>+ osloslugr
 	
 
 Para hacer uso de esta forma para instalar programas debemos usar dos órdenes, una para buscar el programa en cuestión y luego otra orden para instalar la aplicación.
 Como acabamos de decir lo primero es buscar el programa, para ello en la terminal escribiremos el comando:
 
 
-+ apt-cache search <patrón de búsqueda>
+>+ apt-cache search <patrón de búsqueda>
 	
 
 Con patrón de búsqueda se indica que podemos poner una cadena de texto y buscar todas las aplicaciones que tienen en su nombre esa coincidencia, por ejemplo si queremos buscar el navegador web Chromium escribiremos:
 
 
-+ apt-cache search chromium
+>+ apt-cache search chromium
 	
 
 Con ellos nos aparecerá un listado de aplicaciones que coinciden con ese nombre, entre ellas estará el navegador.
 Luego la orden que instala un programa es apt-get install y la podemos usar de la siguiente forma:
                 
-+ apt-get install <nombre de la aplicación>
+>+ apt-get install <nombre de la aplicación>
 	
 
 Donde <nombre de la aplicación> es el nombre de la aplicación o programa a instalar. Por ejemplo:
 
 
-+ apt-get install chromium-browser
+>+ apt-get install chromium-browser
 	
 
 Sin embargo, es posible que no encuentre el programa indicado. Es debido a que el sistema necesita saber dónde puede encontrar ese programa para instalarlo y no siempre se sabe dónde se encuentra. En estos casos hay que añadir “la dirección al lugar” desde el cual el sistema puede descargar e instalar el programa. Estos “lugares” se llaman repositorios y el sistema tiene por defecto algunos desde los que tiene acceso a un gran número de programas y aplicaciones conocidas.
@@ -349,7 +351,7 @@ Para que nos resulte más fácil indicar el programa con la orden **apt-get inst
         >+ Si queremos instalar el navegador Chromium escribimos:
 
 
-+ apt-get install chr
+>+ apt-get install chr
 	
 
 Y pulsamos tabulador, en consola se mostrarán aplicaciones que comienzan por chr y entre ellas la que estamos buscando, permitiéndonos completar el nombre del programa.
@@ -361,15 +363,15 @@ Existen diversos tipos tales como ext2, ext3 que son los tipos nativos de Linux 
 La carpeta del administrador se encuentra en:
 
 
-/root
++ /root
 	
 
 
-*Contacto*
+##Contacto
 
-En caso de tener alguna pregunta sobre el funcionamiento de los equipos donados puede ponerse en contacto con la oficina de Software Libre:
+*En caso de tener alguna pregunta sobre el funcionamiento de los equipos donados puede ponerse en contacto con la oficina de Software Libre:*
 
->+ Blog de la OSL: osl.ugr.es
+>+ Blog de la OSL: http://osl.ugr.es
 >+ Oficina: c/ Real de Cartuja nº 36-38
         
 Con el director de la Oficina de Software Libre:
