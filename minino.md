@@ -1,6 +1,6 @@
 ﻿Minino: Manual de usuario
 
-XIII Campaña Ordenadores Libres con Software Libre
+Campañas Ordenadores Libres con Software Libre
 
 ![by-nc.eu\_petit.png](images/image01.png) 
 
@@ -695,25 +695,18 @@ donados puede ponerse en contacto con la oficina de Software Libre:
 
         
 
-        Con el director o la subdirectora de la Oficina de Software
-Libre:
+        Con el director o la subdirectora de la Oficina de Software Libre:
 
-Juan Julián Merelo Guervós: [dirosl@ugr.es](mailto:dirosl@ugr.es)
+>+ Juan Julián Merelo Guervós: [dirosl@ugr.es](mailto:dirosl@ugr.es)
 
-Nuria Rico Castro:
-[subdireccionosl@ugr.es](mailto:subdireccionosl@ugr.es) 
+>+ Nuria Rico Castro:[subdireccionosl@ugr.es](mailto:subdireccionosl@ugr.es) 
 
-Teléfono: 958243000 Extensión: 20207
+>+ Teléfono: 958243000 Extensión: 20207
 
 O con los técnicos informáticos encargados de los equipos donados:
 
-Manuel Cogolludo:
-[makova](mailto:makovasl@openmailbox.org)[sl@openmailbox.org](mailto:makovasl@openmailbox.org)
+>+ Manuel Cogolludo:[makovalibre@gmail.com](mailto:makovalibre@gmail.com)
 
-José Alonso Arias:
-[toblerone554@gmail.com](mailto:toblerone554@gmail.com)
+>+ José Alonso Arias:[toblerone554@gmail.com](mailto:toblerone554@gmail.com)
 
-Renato Ramirez: [renatolrr@gmail.com](mailto:renatolrr@gmail.com)
-
-
-
+>+ Renato Ramirez:[renatolrr@gmail.com](mailto:renatolrr@gmail.com)
