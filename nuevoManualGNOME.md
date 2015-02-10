@@ -14,7 +14,7 @@ class="c1 c26 c37">usuario Gnome</span>
 
 <span
 style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 88.00px; height: 31.00px;">![](images/image00.png)</span><span
-class="c1"> </span>
+class="c1"> </span>
 
 <span class="c1">Esta obra está bajo una </span><span
 class="c7 c1">[licencia Creative Commons
@@ -79,8 +79,7 @@ aplicación](#h.kth6rpdumw3o)</span>
 
 
 
-<span>Iniciar el equipo</span> 
-==============================
+## Iniciar el equipo
 
 Al arrancar el equipo deberá de aparecer una imagen de
 la Oficina de Software Libre con dos opciones de arranque.
@@ -111,16 +110,16 @@ style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0
 
 <span class="c1">Un </span><span class="c7 c1">[sistema
 operativo](http://www.google.com/url?q=http%3A%2F%2Fes.wikipedia.org%2Fwiki%2FSistema_operativo&sa=D&sntz=1&usg=AFQjCNEtWOudBBPRFaT4xqu2XpKDl5ZiGA)</span><span
-class="c1"> es el conjunto de programas básicos y utilidades que hacen
+class="c1"> es el conjunto de programas básicos y utilidades que hacen
 que funcione su equipo. El sistema operativo instalado es un
 </span><span
 class="c7 c1">[Debian](http://www.google.com/url?q=http%3A%2F%2Fwww.debian.org%2Findex.es.html&sa=D&sntz=1&usg=AFQjCNFxyDgMl_RUu6sQA8mKEIB8WHSqxQ)</span><span
-class="c1"> que es una versión de Linux. Este sistema operativo es
+class="c1"> que es una versión de Linux. Este sistema operativo es
 similar a los más conocidos Guadalinex o Ubuntu. </span>
 
 <span class="c1">Un </span><span class="c7 c1">[entorno de
 escritorio](http://www.google.com/url?q=http%3A%2F%2Fes.wikipedia.org%2Fwiki%2FEntorno_de_escritorio&sa=D&sntz=1&usg=AFQjCNEzRLR3xF1FJHmrrk-Ze18wpD3_mQ)</span><span
-class="c1"> por lo general consiste de iconos, ventanas, barras de
+class="c1"> por lo general consiste de iconos, ventanas, barras de
 herramientas, carpetas, fondos de pantalla y widgets de escritorio. El
 entorno instalado es </span><span
 class="c7 c1">[Gnome](http://www.google.com/url?q=http%3A%2F%2Fwww.gnome.org%2F&sa=D&sntz=1&usg=AFQjCNHR4PoBOzRK6zRV6hmyrnxy4809Uw)</span><span
@@ -129,6 +128,7 @@ bajos recursos del sistema, sin dejar de ser visualmente atractivo y
 fácil de usar.</span>
 
 * Cuenta de usuario
+* 
 Posteriormente, nos aparece una pantalla de fondo azul que nos pide un usuario y contraseña. Introducimos los
 siguientes datos:
 
@@ -143,7 +143,7 @@ siguientes datos:
 
 Es posible que el sistema tarde cierto tiempo en cargarse completamente.
 
-## Poneren hora el equipo
+## Poner en hora el equipo
 
 Si la hora indicada en la derecha del panel inferior no
 es correcta deberá seguir los siguientes pasos para cambiarla.
@@ -245,11 +245,11 @@ Para usar la aplicación diríjase a:
 Seleccione en este último lugar la aplicación que desee según quiera trabajar con textos (Writer), hojas de cálculo (Calc),presentaciones (Impress), dibujos (Draw) o bases de </span><span
 class="c1">datos</span><span class="c1">. Para más información, diríjase
 a los folletos formativos </span><span class="c1">nº 5, 6, 7</span><span
-class="c1"> proporcionados.</span>
+class="c1"> proporcionados.</span>
 
 ## Gedit
 
-Gedit es una aplicación que sirve para editar ficheros de texto</span><span class="c1"> plano. 
+Gedit es una aplicación que sirve para editar ficheros de texto</span><span class="c1"> plano. 
 Con Gedit podemos crear desde simples documentos de texto sin ningún tipo de
 formato, redactar o tomar notas respecto de algo hasta poder editar
 archivos de páginas web o archivos pertenecientes a un programa.
@@ -286,7 +286,7 @@ Para usar la aplicación diríjase a:
 
 <span class="c1"></span>
 
-Para más información, diríjase al folleto formativo nº 4 proporcionado.</span>
+Para más información, diríjase al folleto formativo nº 4 proporcionado.
 
 ## Vlc
 
@@ -305,8 +305,7 @@ Para usar la aplicación diríjase a:
 
 <span class="c1"></span>
 
-Una vez abierto el programa, puede reproducir música o
-vídeo desde:
+Una vez abierto el programa, puede reproducir música o vídeo desde:
 
 <span class="c1"></span>
 
@@ -316,7 +315,7 @@ vídeo desde:
 
 <span class="c1"></span>
 
-Y seleccionar el archivo deseado. También puede crear una lista de reproducción con todos los archivos reproducibles de un directorio indicando </span><span class="c1 c26">Abrir directorio</span><span class="c1"> y seleccionando el directorio que contiene estos archivos.</span>
+Y seleccionar el archivo deseado. También puede crear una lista de reproducción con todos los archivos reproducibles de un directorio indicando </span><span class="c1 c26">Abrir directorio</span><span class="c1"> y seleccionando el directorio que contiene estos archivos.</span>
 
 Otra posibilidad, es usar la aplicación directamente desde el archivo de vídeo o audio. Si este archivo tiene el icono correspondiente a Vlc, bastará con un doble click, en caso contrario,será necesario pulsar con el botón derecho del ratón y seleccionar Abrir con / Reproductor multimedia Vlc.
 
@@ -325,7 +324,7 @@ Otra posibilidad, es usar la aplicación directamente desde el archivo de vídeo
 
 ## Paint
 
-Esta herramienta permite realizar dibujos de forma sencilla y rápida, recortar  o modificar imágenes y otras utilidades normales de un programa de dibujo libre. Normalmente es utilizado por niños y niñas ya que la interfaz es muy intuitiva y permite la creación de dibujos de forma divertida.</span><span
+Esta herramienta permite realizar dibujos de forma sencilla y rápida, recortar  o modificar imágenes y otras utilidades normales de un programa de dibujo libre. Normalmente es utilizado por niños y niñas ya que la interfaz es muy intuitiva y permite la creación de dibujos de forma divertida.</span><span
 style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 88.00px; height: 77.00px;">![](images/image10.png)</span>
 
 Para usar la aplicación diríjase a:
@@ -368,16 +367,16 @@ style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0
 
 Aparte de esta terminal, existen otras terminales (se les llaman terminales virtuales) que son iguales que esta
 que podemos ver pero la diferencia que es sólo se trabaja en modo texto en esas terminales sin ningún gráfico. Para hacer uso de ellas tendremos que ejecutar la combinación de teclas: </span><span
-class="c21 c1">Ctrl+Alt+F1</span><span class="c1"> donde el </span><span
-class="c21 c1">F1</span><span class="c1"> lo podemos sustituir por las
+class="c21 c1">Ctrl+Alt+F1</span><span class="c1"> donde el </span><span
+class="c21 c1">F1</span><span class="c1"> lo podemos sustituir por las
 siguientes teclas </span><span class="c21 c1">F2</span><span
-class="c1"> en adelante hasta </span><span class="c21 c1">F6</span><span
+class="c1"> en adelante hasta </span><span class="c21 c1">F6</span><span
 class="c1">. Para volver al modo gráfico haremos uso de la combinación:
 </span><span class="c21 c1">Ctrl+Alt+F7</span><span class="c1">.</span>
 
-<span class="c1">        </span><span
+<span class="c1">        </span><span
 class="c7 c1">[Aquí](http://www.google.com/url?q=http%3A%2F%2Fwww.inkilino.com%2Farchivos%2FComandos-Unix.pdf&sa=D&sntz=1&usg=AFQjCNEpaTUACzhT4GKtKU62eleAZYQHbQ)</span><span
-class="c1"> tiene un listado de comandos para poder usar la terminal,
+class="c1"> tiene un listado de comandos para poder usar la terminal,
 pero explicaremos los comandos más básicos y usuales.</span>
 
 -   <span class="c5 c1">cd </span><span class="c1">Nos sirve para
@@ -417,7 +416,7 @@ pero explicaremos los comandos más básicos y usuales.</span>
 
 <!-- -->
 
--   <span class="c5 c1">mv</span><span class="c1"> Con este podemos
+-   <span class="c5 c1">mv</span><span class="c1"> Con este podemos
     cambiarle el nombre a un fichero.</span>
 
 <!-- -->
@@ -426,7 +425,7 @@ pero explicaremos los comandos más básicos y usuales.</span>
 
 <!-- -->
 
--   <span class="c5 c1">rm</span><span class="c1"> Si queremos borrar un
+-   <span class="c5 c1">rm</span><span class="c1"> Si queremos borrar un
     fichero este es nuestro comando.</span>
 
 <!-- -->
@@ -444,7 +443,7 @@ pero explicaremos los comandos más básicos y usuales.</span>
 
 <!-- -->
 
--   <span class="c5 c1">cal</span><span class="c1"> Dibuja en la
+-   <span class="c5 c1">cal</span><span class="c1"> Dibuja en la
     terminal un calendario del mes actual.</span>
 
 <!-- -->
@@ -460,7 +459,7 @@ pero explicaremos los comandos más básicos y usuales.</span>
 
 -   <span class="c1">exit</span>
 
-<span class="c1">        Incluso tenemos atajos en la terminal y más
+<span class="c1">        Incluso tenemos atajos en la terminal y más
 cosas al respecto pero eso ya se escapa de este manual.</span>
 
  
@@ -470,9 +469,9 @@ cosas al respecto pero eso ya se escapa de este manual.</span>
 
 ### <span class="c1">Sistema de archivos</span> 
 
-<span class="c1">        Los documentos personales se guardan por
+<span class="c1">        Los documentos personales se guardan por
 defecto en una carpeta llamada </span><span
-class="c5 c1">home.</span><span class="c1"> Se puede acceder a esta
+class="c5 c1">home.</span><span class="c1"> Se puede acceder a esta
 carpeta desde:</span>
 
 <span class="c1"></span>
@@ -480,13 +479,13 @@ carpeta desde:</span>
 [](#)[](#)
 
 +--------------------------------------------------------------------------+
-| <span class="c21 c1">Lugares</span><span class="c21 c1"> / </span><span  |
+| <span class="c21 c1">Lugares</span><span class="c21 c1"> / </span><span  |
 | class="c9 c1">Carpetas</span>                                            |
 +--------------------------------------------------------------------------+
 
 <span class="c1"></span>
 
-<span class="c1">        Dentro del sistema de carpetas nos podemos
+<span class="c1">        Dentro del sistema de carpetas nos podemos
 mover entrando a ellas de la misma forma que con el resto de sistemas
 operativos tanto Linux como Windows.</span>
 
@@ -531,7 +530,7 @@ encuentra en la ruta:</span>
 
 ### <span class="c1">Cuenta de super</span><span class="c1">usuario</span> {.c15 .c16}
 
-<span class="c1">        Los sistemas Linux como el que ha sido
+<span class="c1">        Los sistemas Linux como el que ha sido
 instalado en el ordenador que tenga tienen distintos roles de usuario,
 al igual que en una empresa que se encuentra el director, los
 subdirectores y nos encontraríamos por ejemplo ya los empleados, cada
@@ -556,7 +555,7 @@ aplicaciones y de opciones de administración. </span>
 
 <span class="c1">Para hacer uso de la cuenta de superusuario, tenemos
 que abrir una terminal y en ella escribir la palabra </span><span
-class="c5 c1">su</span><span class="c1"> y como contraseña la indicada
+class="c5 c1">su</span><span class="c1"> y como contraseña la indicada
 en el recuadro anterior, quedando como en la imagen:</span>
 
 <span
@@ -564,7 +563,7 @@ style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0
 
 <span class="c1"></span>
 
-<span class="c1">        Una vez estemos como superusuario podremos
+<span class="c1">        Una vez estemos como superusuario podremos
 hacer todo lo que queramos, desde poder modificar ficheros tales como el
 que almacena la información de los repositorios, instalar aplicaciones o
 incluso modificar el menú de Grub para el arranque del sistema.</span>
@@ -587,7 +586,7 @@ class="c1">comando</span><span class="c1">:</span>
 <span class="c1">Instalar programas</span> {.c15 .c16}
 ------------------------------------------
 
-<span class="c1">        Cuando queremos instalar algún programa nuevo
+<span class="c1">        Cuando queremos instalar algún programa nuevo
 podemos hacerlo de muchas formas. A continuación vamos a explicar las
 tres más fáciles. Para todas ellas será necesario introducir la
 contraseña de superusuario ya que la instalación de programas es una
@@ -608,7 +607,7 @@ es:</span>
 
 ### <span class="c1">Desde gestor de paquetes </span><span class="c1">Synaptic</span> {.c15 .c16}
 
-<span class="c1">        Esta aplicación, es una de las más usadas para
+<span class="c1">        Esta aplicación, es una de las más usadas para
 instalar aplicaciones y es la que de hecho se recomienda para esta
 tarea. Nos iremos a:</span>
 
@@ -648,7 +647,7 @@ que instalar.</span>
 
 <span class="c1">Por último para proceder a la instalación pincharemos
 en el botón de </span><span class="c21 c1">Aplicar</span><span
-class="c1"> confirmando los cambios que se van a hacer en el sistema y
+class="c1"> confirmando los cambios que se van a hacer en el sistema y
 esperamos a que se termine de instalar lo que estuviera elegido.</span>
 
 <span class="c1">Nos pedirá la contraseña de superusuario, así que se la
@@ -670,13 +669,13 @@ style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0
 
 ### <span class="c1">Descargando el paquete desde la página web de la aplicación</span> {.c3}
 
-<span class="c1">        Los paquetes son archivos acabados en
-</span><span class="c5 c1">.deb</span><span class="c1 c26"> </span><span
+<span class="c1">        Los paquetes son archivos acabados en
+</span><span class="c5 c1">.deb</span><span class="c1 c26"> </span><span
 class="c1">que al ejecutarlos instalan en nuestro ordenador el programa
 de forma automática. Muchas aplicaciones tienen en su web oficial un
 enlace de descarga del archivo </span><span
 class="c5 c1">.deb</span><span class="c1 c26">.</span><span
-class="c1"> </span>
+class="c1"> </span>
 
 <span class="c1">Para iniciar basta con hacer doble click sobre el
 archivo descargado y pulsar posteriormente el botón de instalar
@@ -687,7 +686,7 @@ antes mencionada.</span>
 
 ### <span class="c1">Desde </span><span class="c1">consola</span> {.c3}
 
-<span class="c1">        Hay una forma muy sencilla de instalar un
+<span class="c1">        Hay una forma muy sencilla de instalar un
 programa y es utilizando la consola que se ha explicado antes.</span>
 
 <span class="c1">En primer lugar debemos de identificarnos como
@@ -722,7 +721,7 @@ escribir la contraseña de superusuario.</span>
 debemos usar dos órdenes, una para buscar el programa en cuestión y
 luego otra orden para instalar la aplicación.</span>
 
-<span class="c1">        Como acabamos de decir lo primero es buscar el
+<span class="c1">        Como acabamos de decir lo primero es buscar el
 programa, para ello en la terminal escribiremos el comando:</span>
 
 <span class="c1"></span>
@@ -735,7 +734,7 @@ programa, para ello en la terminal escribiremos el comando:</span>
 
 <span class="c1"></span>
 
-<span class="c1">        Con patrón de búsqueda se indica que podemos
+<span class="c1">        Con patrón de búsqueda se indica que podemos
 poner una cadena de texto y buscar todas las aplicaciones que tienen en
 su nombre esa coincidencia, por ejemplo si queremos buscar el navegador
 web Chromium escribiremos:</span>
@@ -750,7 +749,7 @@ web Chromium escribiremos:</span>
 
 <span class="c1"></span>
 
-<span class="c1">        Con ellos nos aparecerá un listado de
+<span class="c1">        Con ellos nos aparecerá un listado de
 aplicaciones que coinciden con ese nombre, entre ellas estará el
 navegador.</span>
 
@@ -758,7 +757,7 @@ navegador.</span>
 class="c5 c1">apt-get install </span><span class="c1">y la podemos usar
 de la siguiente forma:</span>
 
-<span class="c1">                </span>
+<span class="c1">                </span>
 
 [](#)[](#)
 
@@ -768,8 +767,8 @@ de la siguiente forma:</span>
 
 <span class="c1"></span>
 
-<span class="c1">        Donde </span><span class="c21 c1">\<nombre de
-la aplicación\></span><span class="c1"> es el nombre de la aplicación o
+<span class="c1">        Donde </span><span class="c21 c1">\<nombre de
+la aplicación\></span><span class="c1"> es el nombre de la aplicación o
 programa a instalar. Por ejemplo:</span>
 
 <span class="c1"></span>
@@ -782,7 +781,7 @@ programa a instalar. Por ejemplo:</span>
 
 <span class="c13 c1"></span>
 
-<span class="c13 c1">        </span><span class="c1">Sin embargo, es
+<span class="c13 c1">        </span><span class="c1">Sin embargo, es
 posible que no encuentre el programa indicado. Es debido a que el
 sistema necesita saber dónde puede encontrar ese programa para
 instalarlo y no siempre se sabe dónde se encuentra. En estos casos hay
@@ -791,15 +790,15 @@ descargar e instalar el programa. Estos “lugares” se llaman repositorios
 y el sistema tiene por defecto algunos desde los que tiene acceso a un
 gran número de programas y aplicaciones conocidas.</span>
 
-<span class="c1">        Para que nos resulte más fácil indicar el
+<span class="c1">        Para que nos resulte más fácil indicar el
 programa con la orden </span><span class="c1 c26">apt-get
-install</span><span class="c1"> podemos, al comenzar a escribir al final
+install</span><span class="c1"> podemos, al comenzar a escribir al final
 de la orden el nombre del programa, darle a la tecla de tabulación. Esta
 tecla hará que el ordenador intente completar la palabra con todos los
 programas que empiezan de esa forma y que conoce en sus repositorios. Un
 ejemplo:</span>
 
-<span class="c1">        Si queremos instalar el navegador Chromium
+<span class="c1">        Si queremos instalar el navegador Chromium
 escribimos:</span>
 
 <span class="c1"></span>
@@ -812,9 +811,9 @@ escribimos:</span>
 
 <span class="c1 c13"></span>
 
-<span class="c1">        Y pulsamos tabulador, en consola se mostrarán
+<span class="c1">        Y pulsamos tabulador, en consola se mostrarán
 aplicaciones que comienzan por </span><span
-class="c1 c26">chr</span><span class="c1"> y entre ellas la que estamos
+class="c1 c26">chr</span><span class="c1"> y entre ellas la que estamos
 buscando, permitiéndonos completar el nombre del programa.</span>
 
  {.c15 .c23}
@@ -822,24 +821,24 @@ buscando, permitiéndonos completar el nombre del programa.</span>
 <span class="c1">Sistema de archivos</span> {.c15}
 -------------------------------------------
 
-<span class="c1">Todo</span><span class="c1"> sistema operativo tiene lo
+<span class="c1">Todo</span><span class="c1"> sistema operativo tiene lo
 que se llama el sistema de archivos (o sistema de ficheros), esta parte
 del sistema operativo estructura la información guardada en una unidad
 de almacenamiento (normalmente un disco duro de una computadora), que
 luego será representada ya sea textual o gráficamente utilizando
 un</span><span
-class="c1">[ ](http://www.google.com/url?q=http%3A%2F%2Fes.wikipedia.org%2Fwiki%2FGestor_de_archivos&sa=D&sntz=1&usg=AFQjCNEt2g5AqQxcd4hSpRxWTx9d8NnD4A)</span><span
+class="c1">[ ](http://www.google.com/url?q=http%3A%2F%2Fes.wikipedia.org%2Fwiki%2FGestor_de_archivos&sa=D&sntz=1&usg=AFQjCNEt2g5AqQxcd4hSpRxWTx9d8NnD4A)</span><span
 class="c7 c1">[gestor de
 archivos](http://www.google.com/url?q=http%3A%2F%2Fes.wikipedia.org%2Fwiki%2FGestor_de_archivos&sa=D&sntz=1&usg=AFQjCNEt2g5AqQxcd4hSpRxWTx9d8NnD4A)</span><span
 class="c1">. La mayoría de los</span><span
-class="c1">[ ](http://www.google.com/url?q=http%3A%2F%2Fes.wikipedia.org%2Fwiki%2FSistemas_operativos&sa=D&sntz=1&usg=AFQjCNGUhZjf__vRbzy69RmQwiuHwVqRGA)</span><span
+class="c1">[ ](http://www.google.com/url?q=http%3A%2F%2Fes.wikipedia.org%2Fwiki%2FSistemas_operativos&sa=D&sntz=1&usg=AFQjCNGUhZjf__vRbzy69RmQwiuHwVqRGA)</span><span
 class="c7 c1">[sistemas
 operativos](http://www.google.com/url?q=http%3A%2F%2Fes.wikipedia.org%2Fwiki%2FSistemas_operativos&sa=D&sntz=1&usg=AFQjCNGUhZjf__vRbzy69RmQwiuHwVqRGA)</span><span
-class="c1"> manejan su propio sistema de archivos</span>
+class="c1"> manejan su propio sistema de archivos</span>
 
 <span class="c1">Existen diversos tipos tales como </span><span
 class="c1 c5">ext2</span><span class="c1">, </span><span
-class="c5 c1">ext3</span><span class="c1"> que son los tipos nativos de
+class="c5 c1">ext3</span><span class="c1"> que son los tipos nativos de
 Linux o FAT, NTFS de Windows. Linux tiene su forma de estructurar la
 información, para ello usa un sistema de archivos ramificado para
 organizar la información y acceder a los datos, es decir, usamos un
@@ -872,16 +871,16 @@ hasta llegar a las hojas.</span>
 funcionamiento de los equipos donados puede ponerse en contacto con la
 oficina de Software Libre:</span>
 
-<span class="c1">        Blog de la OSL: </span><span
+<span class="c1">        Blog de la OSL: </span><span
 class="c7 c1">[osl.ugr.es](http://www.google.com/url?q=http%3A%2F%2Fosl.ugr.es&sa=D&sntz=1&usg=AFQjCNEXiVH13RJwk9Aq3Am-Km298r2OtQ)</span>
 
-<span class="c1">        Oficina: </span><span class="c7 c1">[c/ Real de
+<span class="c1">        Oficina: </span><span class="c7 c1">[c/ Real de
 Cartuja nº
 36-38](https://maps.google.es/maps?f=q&source=s_q&hl=es&geocode=&q=Calle+Real+de+Cartuja,+Granada&aq=0&oq=calle+real+de+&sll=37.176487,-3.597929&sspn=0.159207,0.338173&t=h&ie=UTF8&hq=&hnear=Calle+Real+de+Cartuja,+Granada,+Andaluc%C3%ADa&ll=37.186557,-3.60007&spn=0.001252,0.002642&z=19&vpsrc=6&iwloc=A)</span>
 
-<span class="c1">        </span>
+<span class="c1">        </span>
 
-<span class="c1">        Con el director de la Oficina de Software
+<span class="c1">        Con el director de la Oficina de Software
 Libre:</span>
 
 <span class="c1">Juan Julián Merelo Guervós: </span><span
@@ -889,7 +888,7 @@ class="c7 c1"><dirosl@ugr.es></span>
 
 <span class="c1">Nuria Rico Castro </span><span
 class="c7 c1"><subdireccionsl@ugr.es></span><span
-class="c1">                                                </span><span
+class="c1">                                                </span><span
 class="c1">Teléfono: 958243000 Extensión: 20207</span>
 
 <span class="c1 c43 c30"></span>
@@ -900,34 +899,34 @@ class="c1 c43 c30">:</span>
 
 <span class="c1">Manuel Cogolludo Vallejo</span><span class="c1">:
 </span><span class="c7 c1"><makovalibre@gmail.com></span><span
-class="c1"> </span>
+class="c1"> </span>
 
 <span class="c1">Renato Ramirez Rivera: </span><span
 class="c7 c1 c30"><renatolrr@gmail.com></span><span
-class="c1 c30"> </span>
+class="c1 c30"> </span>
 
 <span class="c1">José Alonso Arias González </span><span
 class="c7 c1"><toblerone554@gmail.com></span>
 
 <div>
 
-<span class="c1 c32">- </span><span class="c1 c32"> -                  
-                                                                       
-                                  </span>
+<span class="c1 c32">- </span><span class="c1 c32"> -                  
+                                                                       
+                                  </span>
 
-<span class="c1 c32 c26">                               
-                                                           Manuel
+<span class="c1 c32 c26">                               
+                                                           Manuel
 Cogolludo </span>
 
 <span class="c1 c32 c26">Renato Luis Rivero</span>
 
 <span
-class="c1 c32 c26">                                                                                 
-           Jose Alonso Arias</span>
+class="c1 c32 c26">                                                                                 
+           Jose Alonso Arias</span>
 
-<span class="c1 c32 c26">                            </span>
+<span class="c1 c32 c26">                            </span>
 
-<span class="c1 c26 c32">                                               
-                     </span>
+<span class="c1 c26 c32">                                               
+                     </span>
 
 </div>
