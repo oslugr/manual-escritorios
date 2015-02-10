@@ -1,28 +1,7 @@
-<div>
+## Manual Gnome
 
-<span></span>
 
-<span></span>
-
-</div>
-
-<span class="c1 c37">XIV Campaña Ordenadores Libres con Software Libre:
-</span><span class="c1 c37 c26">Manual de </span><span
-class="c1 c26 c37">usuario</span>
-
-<span class="c1"></span>
-
-<span
-style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 88.00px; height: 31.00px;">![](images/image00.png)</span><span
-class="c1"> </span>
-
-<span class="c1">Esta obra está bajo una </span><span
-class="c7 c1">[licencia Creative Commons
-Atribución-NoComercial-CompartirIgual 3.0
-España](http://www.google.com/url?q=http%3A%2F%2Fcreativecommons.org%2Flicenses%2Fby-nc-sa%2F3.0%2Fes%2Fdeed.es&sa=D&sntz=1&usg=AFQjCNGkV9MBtb0OhEgQ3wuBPorWwgveUg)</span><span
-class="c1">.</span>
-
-<span>Índice</span> {.c15 .c16}
+Índice
 ===================
 
 <span class="c1"></span>
