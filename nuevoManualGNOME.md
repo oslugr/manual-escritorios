@@ -6,9 +6,9 @@
 
 </div>
 
-<span class="c1 c37">XIV Campaña Ordenadores Libres con Software Libre:
+<span class="c1 c37">
 </span><span class="c1 c37 c26">Manual de </span><span
-class="c1 c26 c37">usuario</span>
+class="c1 c26 c37">usuario Gnome</span>
 
 <span class="c1"></span>
 
@@ -22,7 +22,7 @@ Atribución-NoComercial-CompartirIgual 3.0
 España](http://www.google.com/url?q=http%3A%2F%2Fcreativecommons.org%2Flicenses%2Fby-nc-sa%2F3.0%2Fes%2Fdeed.es&sa=D&sntz=1&usg=AFQjCNGkV9MBtb0OhEgQ3wuBPorWwgveUg)</span><span
 class="c1">.</span>
 
-<span>Índice</span> {.c15 .c16}
+<span>Índice</span> 
 ===================
 
 <span class="c1"></span>
@@ -42,8 +42,7 @@ instalados](#h.5sjshs2an5fp)</span>
 
 <span class="c7 c1">[LibreOffice](#h.rgfipxe4kf4i)</span>
 
-<span class="c7 c1">[Ge](#h.hhre60hyfnle)</span><span
-class="c7 c1">dit</span>
+<span class="c7 c1">[Gedit](#h.hhre60hyfnle)</span><span>
 
 <span class="c7 c1">[Gimp](#h.s6u54z2ks9ea)</span>
 
@@ -78,38 +77,34 @@ aplicación](#h.kth6rpdumw3o)</span>
 
 <span class="c7 c1">[Contacto](#h.p3vbmqdui30j)</span>
 
- {.c15 .c23 .c16}
 
-<span>Iniciar el equipo</span> {.c15 .c16}
+
+<span>Iniciar el equipo</span> 
 ==============================
 
-<span class="c1">Al arrancar el equipo deberá de aparecer una imagen de
-la Oficina de Software Libre con dos opciones de arranque.</span>
+Al arrancar el equipo deberá de aparecer una imagen de
+la Oficina de Software Libre con dos opciones de arranque.
 
-<span class="c1"> </span>
+
 
 [](#)[](#)
 
-+--------------------------------------------------------------------------+
-| <span class="c9 c1">Para iniciar el sistema de forma normal              |
-| seleccionamos la primera opción de las dos posibles. </span>             |
-+--------------------------------------------------------------------------+
 
-<span class="c1"></span>
+Para iniciar el sistema de forma normal seleccionamos la primera opción de las dos posibles.
 
-<span class="c1">Esta primera opción se seleccionará automáticamente al
-cabo de unos segundos si no pulsamos ninguna tecla.</span>
+Esta primera opción se seleccionará automáticamente al
+cabo de unos segundos si no pulsamos ninguna tecla.
 
-<span class="c1 c30 c26">En caso de que no aparezca la imagen indicada,
+En caso de que no aparezca la imagen indicada,
 es posible que sea necesario pulsar la tecla F1. Deberemos de leer lo
 que se muestre por pantalla y seguir las instrucciones. Si no consigue
 arrancar el equipo, póngase en contacto con nosotros indicando el
 problema y el texto mostrado por pantalla (si toman una fotografía se lo
-agradeceríamos para solventar el </span><span
+agradeceríamos para solventar el <span
 class="c1 c30 c26">problema</span><span class="c1 c30 c26">).</span>
 
-<span class="c1 c30">El escritorio será algo parecido a la siguiente
-imagen donde indicamos los elementos principales:</span>
+El escritorio será algo parecido a la siguiente
+imagen donde indicamos los elementos principales:
 
 <span
 style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 580.00px; height: 326.25px;">![1](images/image02.png)</span>
@@ -133,48 +128,37 @@ class="c1">, un entorno ligero que tiene como objetivo ser rápido y de
 bajos recursos del sistema, sin dejar de ser visualmente atractivo y
 fácil de usar.</span>
 
-<span class="c1">Cuenta de usuario</span> {.c15 .c16}
------------------------------------------
+* Cuenta de usuario
+Posteriormente, nos aparece una pantalla de fondo azul que nos pide un usuario y contraseña. Introducimos los
+siguientes datos:
 
-<span class="c1">        Posteriormente, nos aparece una pantalla de
-fondo azul que nos pide un usuario y contraseña. Introducimos los
-siguientes datos:</span>
 
-<span class="c1"></span>
 
 [](#)[](#)
 
-+--------------------------------------------------------------------------+
-| <span class="c9 c1">Usuario: invitado</span>                             |
-|                                                                          |
-| <span class="c9 c1">Contraseña: invitado</span>                          |
-+--------------------------------------------------------------------------+
+* Usuario:******
+* Contraseña:******
 
 <span class="c1"></span>
 
-<span class="c1">Es posible que el sistema tarde cierto tiempo en
-cargarse completamente.</span>
+Es posible que el sistema tarde cierto tiempo en cargarse completamente.
 
-<span class="c1">Poner</span><span class="c1"> en hora el equipo</span> {.c15 .c16}
------------------------------------------------------------------------
+## Poneren hora el equipo
 
-<span class="c1">Si la hora indicada en la derecha del panel inferior no
-es correcta deberá seguir los siguientes pasos para cambiarla.</span>
+Si la hora indicada en la derecha del panel inferior no
+es correcta deberá seguir los siguientes pasos para cambiarla.
 
-<span class="c1">Diríjase a:</span>
-
-<span class="c1"></span>
+Diríjase a:
 
 [](#)[](#)
 
-+--------------------------------------------------------------------------+
-| <span class="c9 c1">Aplicaciones / Herramientas del sistema /            |
-| Preferencias / Configuración del sistema</span>                          |
-+--------------------------------------------------------------------------+
+>+ Aplicaciones / Herramientas del sistema /
+>* Preferencias / Configuración del sistema /
+
 
 <span class="c1"></span>
 
-<span class="c1">Tal y como se muestra en la siguiente imagen:</span>
+Tal y como se muestra en la siguiente imagen:
 
 <span class="c1"></span>
 
@@ -183,20 +167,19 @@ style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0
 
 <span class="c1"></span>
 
-<span class="c1">Aparecerá una ventana en la que no se nos permitirá
+Aparecerá una ventana en la que no se nos permitirá
 modificar nada. Para poder cambiar los valores tenemos que pulsar sobre
 el escudo que se muestra en la parte inferior de esta ventana. Pedirá
 una contraseña. En este caso hay que introducir la contraseña de
 superusuario (explicado en el apartado Administración del sistema /
-Cuenta de superusuario):</span>
+Cuenta de superusuario):
 
 <span class="c1"></span>
 
 [](#)[](#)
 
-+--------------------------------------------------------------------------+
-| <span class="c9 c1">Contraseña: osloslugr</span>                         |
-+--------------------------------------------------------------------------+
+* Contraseña:*******                        |
+
 
 <span class="c1"></span>
 
@@ -205,23 +188,21 @@ style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0
 
 <span class="c1"></span>
 
-<span class="c1">        Ahora podemos poner la hora y la fecha
+Ahora podemos poner la hora y la fecha
 actuales. Si vuelve a pedir una contraseña se debe de introducir la de
-superusuario, indicada en el recuadro anterior.</span>
+superusuario, indicada en el recuadro anterior.
 
-<span>Programas básicos instalados</span> {.c15 .c16}
-=========================================
+## Programas básicos instalados
 
-<span class="c1">El equipo tiene instalados por defecto diversas
+
+El equipo tiene instalados por defecto diversas
 aplicaciones libres que abarcan distintas necesidades a la hora de
 trabajar o de utilizar el ordenador. A continuación puede conocer mejor
-alguno de los más básicos y útiles.</span>
+alguno de los más básicos y útiles.>
 
-<span class="c1">IceWeasel</span> {.c15 .c16}
----------------------------------
+## IceWeasel 
 
-<span class="c1">             Iceweasel es </span><span class="c1">uno
-de los navegadores que viene con el equipo, su funcionalidad
+Iceweasel es uno de los navegadores que viene con el equipo, su funcionalidad
 prácticamente idéntica a la del gran navegador Firefox, ya que con este
 navegador podremos acceder a internet además de poder abrir incluso
 ficheros de texto y </span><span class="c1">más</span><span
@@ -230,233 +211,163 @@ style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0
 
 <span class="c1"></span>
 
-<span class="c1">Para usar la aplicación diríjase a:</span>
+Para usar la aplicación diríjase a:</span>
 
 <span class="c1"></span>
 
 [](#)[](#)
 
-+--------------------------------------------------------------------------+
-| <span class="c21 c1 c46">Aplicaciones / Internet / Iceweasel</span>      |
-+--------------------------------------------------------------------------+
+>+ Aplicaciones / Internet / Iceweasel
 
 <span class="c1"></span>
 
-<span class="c1">Para más información, diríjase al folleto formativo
+Para más información, diríjase al folleto formativo
 </span><span class="c1">nº </span><span class="c1">3
-proporcionado.</span>
+proporcionado.
 
-<span class="c1">                   LibreOffice </span> {.c15 .c16 .c47}
--------------------------------------------------------
+## LibreOffice
 
-<span class="c1">Esta suite ofimática incluye una serie de aplicaciones
-tales como Writer, Impress, Draw, Calc y Base. Estas aplicaciones le
-permitirán trabajar con textos, presentaciones y hojas de cálculos entre
-otras.</span><span
+Esta suite ofimática incluye una serie de aplicaciones tales como Writer, Impress, Draw, Calc y Base. 
+Estas aplicaciones le permitirán trabajar con textos, presentaciones y hojas de cálculos entre otras.</span><span
 style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 84.00px; height: 84.00px;">![](images/image04.png)</span>
 
-<span class="c1">Para usar la aplicación diríjase a:</span>
+Para usar la aplicación diríjase a:
 
 <span class="c1"></span>
 
 [](#)[](#)
 
-+--------------------------------------------------------------------------+
-| <span class="c9 c1">Aplicaciones / Oficina / LibreOffice Writer</span>   |
-+--------------------------------------------------------------------------+
+>+ Aplicaciones / Oficina / LibreOffice Writer
+
 
 <span class="c1"></span>
 
-<span class="c1">Seleccione en este último lugar la aplicación que desee
-según quiera trabajar con textos (Writer), hojas de cálculo (Calc),
-presentaciones (Impress), dibujos (Draw) o bases de </span><span
+Seleccione en este último lugar la aplicación que desee según quiera trabajar con textos (Writer), hojas de cálculo (Calc),presentaciones (Impress), dibujos (Draw) o bases de </span><span
 class="c1">datos</span><span class="c1">. Para más información, diríjase
 a los folletos formativos </span><span class="c1">nº 5, 6, 7</span><span
 class="c1"> proporcionados.</span>
 
-<span class="c1">Gedit</span> {.c15 .c16}
------------------------------
+## Gedit
 
-<span class="c1">                   Gedit es una aplicación que sirve
-para editar ficheros de texto</span><span class="c1"> plano. Con Gedit
-podemos crear desde simples documentos de texto sin ningún tipo de
+Gedit es una aplicación que sirve para editar ficheros de texto</span><span class="c1"> plano. 
+Con Gedit podemos crear desde simples documentos de texto sin ningún tipo de
 formato, redactar o tomar notas respecto de algo hasta poder editar
 archivos de páginas web o archivos pertenecientes a un programa.
 </span><span
 style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 67.00px; height: 40.71px;">![images.jpeg](images/image05.jpg)</span>
 
-<span class="c1">Para usar la aplicación diríjase a:</span>
+Para usar la aplicación diríjase a:
 
 <span class="c1"></span>
 
 [](#)[](#)
 
-+--------------------------------------------------------------------------+
-| <span class="c21 c1">Aplicaciones</span><span class="c21 c1"> /          |
-| </span><span class="c21 c1">Accesorios</span><span class="c21 c1"> /     |
-| Ge</span><span class="c21 c1">dit</span>                                 |
-+--------------------------------------------------------------------------+
 
-<span class="c1">Gimp</span> {.c15 .c16}
-----------------------------
+>+ Aplicaciones / Accesorios / Gedit                               |
 
-<span class="c1">Gimp es un programa de dibujo a mano alzada y retoque
-fotográfico, libre, gratuito y similar al privativo Photoshop. Te
-permite trabajar con capas, rutas, canales, tiene muchas utilidades y
+## Gimp 
+
+Gimp es un programa de dibujo a mano alzada y retoque fotográfico, libre, gratuito y similar al privativo Photoshop. Te permite trabajar con capas, rutas, canales, tiene muchas utilidades y
 herramientas: seleccionar áreas por geometría, color (varita mágica),
-forma (tijeras), capturar colorear, ampliar, reducir, rotar, deformar,
-medir distancias, mover, alinear, recortar, inclinar, perspectiva,
-volteo, texto personalizado, rellenar pintado, mezcla, degradados,
-mosaicos, pinceles, lápiz, rotulador, aerografo, goma, escritura estilo
-caligrafía (tinta), dibujo a mano alzada, clonado, saneado, enfoque,
-desenfoque, emborronar, quemar...</span><span
+forma (tijeras), capturar colorear, ampliar, reducir, rotar, deformar,medir distancias, mover, alinear, recortar, inclinar, perspectiva,volteo, texto personalizado, rellenar pintado, mezcla, degradados,
+mosaicos, pinceles, lápiz, rotulador, aerografo, goma, escritura estilo caligrafía (tinta), dibujo a mano alzada, clonado, saneado, enfoque,desenfoque, emborronar, quemar...</span><span
 style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 98.00px; height: 67.00px;">![](images/image01.jpg)</span>
 
-<span class="c1">También incluye muchos filtros y efectos para aplicar a
-los dibujos. Como quitar ojos rojos en las fotografías, distorsiones,
-sombras, detectar bordes... Lee muchísimos formatos de archivos, entre
-ellos psd de Photoshop, y puede guardar tus creaciones en xcf (formato
-predefinido), png, jpg, gif, ico, bmp, y muchos </span><span
+También incluye muchos filtros y efectos para aplicar a los dibujos. Como quitar ojos rojos en las fotografías, distorsiones,sombras, detectar bordes... Lee muchísimos formatos de archivos, entre ellos psd de Photoshop, y puede guardar tus creaciones en xcf (formato predefinido), png, jpg, gif, ico, bmp, y muchos </span><span
 class="c1">otros</span><span class="c1">.</span>
 
-<span class="c1">Para usar la aplicación diríjase a:</span>
+Para usar la aplicación diríjase a:
 
 <span class="c1"></span>
 
 [](#)[](#)
 
-+--------------------------------------------------------------------------+
-| <span class="c1"> </span><span class="c21 c1">Aplicaciones </span><span  |
-| class="c1 c21">/ Gráficos / </span><span class="c21 c1">Programa de      |
-| manipulación imágenes GNU</span>                                         |
-+--------------------------------------------------------------------------+
+>+ Aplicaciones / Gráficos / Programa de manipulación imágenes GNU
 
 <span class="c1"></span>
 
-<span class="c1">Para más información, diríjase al folleto formativo nº
-4 proporcionado.</span>
+Para más información, diríjase al folleto formativo nº 4 proporcionado.</span>
 
-<span class="c1">Vlc</span> {.c15}
----------------------------
+## Vlc
 
-<span class="c1">Vlc es un programa para reproducir tanto música o
-vídeos en una gran cantidad de formatos distintos (mp3, avi, mkv, mp4,
-ogv, etc). También permite incorporar subtítulos con formato srt a un
-vídeo arrastrando directamente el archivo de subtítulos a la imagen del
-vídeo en reproducción.</span><span
+Vlc es un programa para reproducir tanto música o vídeos en una gran cantidad de formatos distintos (mp3, avi, mkv, mp4,ogv, etc). También permite incorporar subtítulos con formato srt a un vídeo arrastrando directamente el archivo de subtítulos a la imagen del vídeo en reproducción.</span><span
 style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 74.00px; height: 74.00px;">![](images/image03.jpg)</span>
 
 <span class="c1"></span>
 
-<span class="c1">Para usar la aplicación diríjase a:</span>
+Para usar la aplicación diríjase a:
 
 <span class="c1"></span>
 
 [](#)[](#)
 
-+--------------------------------------------------------------------------+
-| <span class="c9 c1">Aplicaciones / Sonido y vídeo / Reproductor          |
-| multimedia VLC</span>                                                    |
-+--------------------------------------------------------------------------+
+>+ Aplicaciones / Sonido y vídeo / Reproductor multimedia VLC
 
 <span class="c1"></span>
 
-<span class="c1">Una vez abierto el programa, puede reproducir música o
-vídeo desde:</span>
+Una vez abierto el programa, puede reproducir música o
+vídeo desde:
 
 <span class="c1"></span>
 
 [](#)[](#)
 
-+--------------------------------------------------------------------------+
-| <span class="c9 c1">Medio / Abrir archivo</span>                         |
-+--------------------------------------------------------------------------+
+>+ Medio / Abrir archivo</span>                         |
 
 <span class="c1"></span>
 
-<span class="c1">Y seleccionar el archivo deseado. También puede crear
-una lista de reproducción con todos los archivos reproducibles de un
-directorio indicando </span><span class="c1 c26">Abrir
-directorio</span><span class="c1"> y seleccionando el directorio que
-contiene estos archivos.</span>
+Y seleccionar el archivo deseado. También puede crear una lista de reproducción con todos los archivos reproducibles de un directorio indicando </span><span class="c1 c26">Abrir directorio</span><span class="c1"> y seleccionando el directorio que contiene estos archivos.</span>
 
-<span class="c1">Otra posibilidad, es usar la aplicación directamente
-desde el archivo de vídeo o audio. Si este archivo tiene el icono
-correspondiente a Vlc, bastará con un doble click, en caso contrario,
-será necesario pulsar con el botón derecho del ratón y seleccionar
-</span><span class="c1 c26">Abrir con / Reproductor multimedia
-Vlc.</span>
+Otra posibilidad, es usar la aplicación directamente desde el archivo de vídeo o audio. Si este archivo tiene el icono correspondiente a Vlc, bastará con un doble click, en caso contrario,será necesario pulsar con el botón derecho del ratón y seleccionar Abrir con / Reproductor multimedia Vlc.
 
- {.c15 .c23 .c16}
-
+ 
 <span></span>
 
-<span class="c1">Tux </span><span class="c1">Paint</span> {.c15 .c16}
----------------------------------------------------------
+## Paint
 
-<span class="c1">Esta herramienta permite realizar dibujos de forma
-sencilla y rápida, recortar  o modificar imágenes y otras utilidades
-normales de un programa de dibujo libre. Normalmente es utilizado por
-niños y niñas ya que la interfaz es muy intuitiva y permite la creación
-de dibujos de forma divertida.</span><span
+Esta herramienta permite realizar dibujos de forma sencilla y rápida, recortar  o modificar imágenes y otras utilidades normales de un programa de dibujo libre. Normalmente es utilizado por niños y niñas ya que la interfaz es muy intuitiva y permite la creación de dibujos de forma divertida.</span><span
 style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 88.00px; height: 77.00px;">![](images/image10.png)</span>
 
-<span class="c1">Para usar la aplicación diríjase a:</span>
+Para usar la aplicación diríjase a:
 
 <span class="c1"></span>
 
 [](#)[](#)
 
-+--------------------------------------------------------------------------+
-| <span class="c21 c1">Aplicaciones</span><span class="c9 c1"> / Educación |
-| / Tux Paint</span>                                                       |
-+--------------------------------------------------------------------------+
+>+ Aplicaciones / Educación / Tux Paint
 
 <span class="c1"></span>
 
-<span class="c1">        De nuevo, tenemos la posibilidad de arrancar el
-programa a partir de una imagen que tengamos guardada. Para ello
-pinchamos con el botón derecho del ratón sobre la imagen que queremos
-abrir y seleccionamos </span><span class="c1 c26">Abrir con / Tux
-Paint.</span>
+De nuevo, tenemos la posibilidad de arrancar el programa a partir de una imagen que tengamos guardada. Para ello
+pinchamos con el botón derecho del ratón sobre la imagen que queremos abrir y seleccionamos Abrir con / Tux Paint.
 
- {.c15 .c23}
 
-<span>Consola (Terminal)</span> {.c15}
-===============================
+## Consola (Terminal)
 
-<span class="c1">        La terminal es una de las aplicaciones que
-tiene Linux con más potencia ya que a partir de esta podemos manejar
-todo el sistema, como por ejemplo ejecutar programas, instalarlos,
-editar archivos o incluso reiniciar o apagar el equipo.</span>
 
-<span class="c1">        Bien para ejecutar la terminal (o consola) nos
-dirigimos a:</span>
+La terminal es una de las aplicaciones que tiene Linux con más potencia ya que a partir de esta podemos manejar
+todo el sistema, como por ejemplo ejecutar programas, instalarlos,editar archivos o incluso reiniciar o apagar el equipo.
+
+Bien para ejecutar la terminal (o consola) nos dirigimos a:
 
 <span class="c1"></span>
 
 [](#)[](#)
 
-+--------------------------------------------------------------------------+
-| <span class="c9 c1">Aplicaciones / Accesorios / Terminal</span>          |
-+--------------------------------------------------------------------------+
+>+ Aplicaciones / Accesorios / Terminal
 
 <span class="c1"></span>
 
-<span class="c1">        O en la barra del menú del escritorio
-encontraremos el icono que hace referencia a la terminal. Esta
-representa una interfaz parecida a la siguiente:</span>
+O en la barra del menú del escritorio encontraremos el icono que hace referencia a la terminal. Esta
+representa una interfaz parecida a la siguiente:
 
 <span
 style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 526.83px; height: 307.50px;">![5.png](images/image06.png)</span>
 
 <span class="c1"></span>
 
-<span class="c1">        Aparte de esta terminal, existen otras
-terminales (se les llaman terminales virtuales) que son iguales que esta
-que podemos ver pero la diferencia que es sólo se trabaja en modo texto
-en esas terminales sin ningún gráfico. Para hacer uso de ellas tendremos
-que ejecutar la combinación de teclas: </span><span
+Aparte de esta terminal, existen otras terminales (se les llaman terminales virtuales) que son iguales que esta
+que podemos ver pero la diferencia que es sólo se trabaja en modo texto en esas terminales sin ningún gráfico. Para hacer uso de ellas tendremos que ejecutar la combinación de teclas: </span><span
 class="c21 c1">Ctrl+Alt+F1</span><span class="c1"> donde el </span><span
 class="c21 c1">F1</span><span class="c1"> lo podemos sustituir por las
 siguientes teclas </span><span class="c21 c1">F2</span><span
@@ -552,12 +463,12 @@ pero explicaremos los comandos más básicos y usuales.</span>
 <span class="c1">        Incluso tenemos atajos en la terminal y más
 cosas al respecto pero eso ya se escapa de este manual.</span>
 
- {.c15 .c16 .c23}
+ 
 
-<span>Administración del sistema</span> {.c15 .c16}
+<span>Administración del sistema</span> 
 =======================================
 
-### <span class="c1">Sistema de archivos</span> {.c15 .c16}
+### <span class="c1">Sistema de archivos</span> 
 
 <span class="c1">        Los documentos personales se guardan por
 defecto en una carpeta llamada </span><span
@@ -692,7 +603,7 @@ es:</span>
 
 +--------------------------------------------------------------------------+
 | <span class="c21 c1">Contraseña: </span><span                            |
-| class="c21 c1">osloslugr</span>                                          |
+| class="c21 c1">******</span>                                          |
 +--------------------------------------------------------------------------+
 
 ### <span class="c1">Desde gestor de paquetes </span><span class="c1">Synaptic</span> {.c15 .c16}
@@ -800,7 +711,7 @@ escribir la contraseña de superusuario.</span>
 [](#)[](#)
 
 +--------------------------------------------------------------------------+
-| <span class="c9 c1">osloslugr</span>                                     |
+| <span class="c9 c1">******</span>                                     |
 +--------------------------------------------------------------------------+
 
 <span class="c1"></span>
