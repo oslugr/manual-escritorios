@@ -61,7 +61,7 @@ Esta primera opción se seleccionará automáticamente al cabo de unos segundos 
 En caso de que no aparezca la imagen indicada, es posible que sea necesario pulsar la tecla F1. Deberemos de leer lo que se muestre por pantalla y seguir las instrucciones. Si no consigue arrancar el equipo, póngase en contacto con nosotros indicando el problema y el texto mostrado por pantalla (si toman una fotografía se lo agradeceríamos para solventar el problema).
 El escritorio será algo parecido a la siguiente imagen donde indicamos los elementos principales:
 
-*Imagen 1 de la termial*
+![](https://github.com/oslugr/manual-escritorios/blob/gnome/img/escritorio.png)
 
 
 Un sistema operativo es el conjunto de programas básicos y utilidades que hacen que funcione su equipo. El sistema operativo instalado es un Debian que es una versión de Linux. Este sistema operativo es similar a los más conocidos Guadalinex o Ubuntu. 
@@ -89,19 +89,13 @@ Diríjase a:
 
 Tal y como se muestra en la siguiente imagen:
 
-
- 2 
-
-
+![](https://github.com/oslugr/manual-escritorios/blob/gnome/img/cambio_hora.png)
 
 Aparecerá una ventana en la que no se nos permitirá modificar nada. Para poder cambiar los valores tenemos que pulsar sobre el escudo que se muestra en la parte inferior de esta ventana. Pedirá una contraseña. En este caso hay que introducir la contraseña de superusuario (explicado en el apartado Administración del sistema / Cuenta de superusuario):
 
 
 >+ Contraseña: la que sea
 	
-
- 3 
-
 
 
 Ahora podemos poner la hora y la fecha actuales. Si vuelve a pedir una contraseña se debe de introducir la de superusuario, indicada en el recuadro anterior.
