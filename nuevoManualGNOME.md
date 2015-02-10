@@ -136,8 +136,8 @@ siguientes datos:
 
 [](#)[](#)
 
-* Usuario:******
-* Contraseña:******
+`Usuario:******`
+`Contraseña:******`
 
 <span class="c1"></span>
 
@@ -178,7 +178,7 @@ Cuenta de superusuario):
 
 [](#)[](#)
 
-* Contraseña:*******                        |
+`Contraseña:******`                        |
 
 
 <span class="c1"></span>
@@ -464,369 +464,267 @@ cosas al respecto pero eso ya se escapa de este manual.</span>
 
  
 
-<span>Administración del sistema</span> 
-=======================================
+## Administración del sistema
 
-### <span class="c1">Sistema de archivos</span> 
+# Sistema de archivos
 
-<span class="c1">        Los documentos personales se guardan por
-defecto en una carpeta llamada </span><span
-class="c5 c1">home.</span><span class="c1"> Se puede acceder a esta
+Los documentos personales se guardan por defecto en una carpeta llamada */home*.Se puede acceder a esta
 carpeta desde:</span>
 
 <span class="c1"></span>
 
 [](#)[](#)
 
-+--------------------------------------------------------------------------+
-| <span class="c21 c1">Lugares</span><span class="c21 c1"> / </span><span  |
-| class="c9 c1">Carpetas</span>                                            |
-+--------------------------------------------------------------------------+
+>+ Lugares / Carpetas
 
 <span class="c1"></span>
 
-<span class="c1">        Dentro del sistema de carpetas nos podemos
-mover entrando a ellas de la misma forma que con el resto de sistemas
-operativos tanto Linux como Windows.</span>
+Dentro del sistema de carpetas nos podemos mover entrando a ellas de la misma forma que con el resto de sistemas
+operativos tanto Linux como Windows.
 
-<span class="c1">En la siguiente imagen se puede ver de forma gráfica lo
-explicado:</span>
+En la siguiente imagen se puede ver de forma gráfica loexplicado:
 
 <span
 style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 286.00px; height: 262.00px;">![](images/image09.png)</span>
 
-<span class="c1">Como vemos la información se representa como si fuera
-un árbol invertido, donde la raíz del árbol es del directorio indicado
-por </span><span class="c5 c1">/ </span><span class="c1">y a su vez
-cuelgan más directorios indicados por los recuadros y los ficheros que
-podemos acceder .</span>
+Como vemos la información se representa como si fuera un árbol invertido, donde la raíz del árbol es del directorio indicado
+por **/** y a su vez cuelgan más directorios indicados por los recuadros y los ficheros que podemos acceder.
 
-<span class="c1">Por ejemplo si accedemos a una foto llamada “osl.png”
-perteneciente al usuario “serafin” el sistema operativo pasaría por la
+Por ejemplo si accedemos a una foto llamada *osl.png* perteneciente al usuario *serafin* el sistema operativo pasaría por la
 ruta de acceso:</span>
 
 <span class="c1"></span>
 
 [](#)[](#)
 
-+--------------------------------------------------------------------------+
-| <span class="c9 c1">/home/serafin/Fotos/osl.png</span>                   |
-+--------------------------------------------------------------------------+
+>+ /home/serafin/Fotos/osl.png
 
 <span class="c1"></span>
 
-<span class="c1">Bien pues la carpeta personal del usuario “invitado” se
-encuentra en la ruta:</span>
+Bien pues la carpeta personal del usuario “invitado” se encuentra en la ruta:
 
 <span class="c1"></span>
 
 [](#)[](#)
 
-+--------------------------------------------------------------------------+
-| <span class="c9 c1">/home/invitado/</span>                               |
-+--------------------------------------------------------------------------+
+>+ /home/invitado/
 
-###  {.c15 .c16 .c36}
 
-### <span class="c1">Cuenta de super</span><span class="c1">usuario</span> {.c15 .c16}
+## Cuenta de superusuario
 
-<span class="c1">        Los sistemas Linux como el que ha sido
-instalado en el ordenador que tenga tienen distintos roles de usuario,
-al igual que en una empresa que se encuentra el director, los
-subdirectores y nos encontraríamos por ejemplo ya los empleados, cada
-uno de ellos con diferentes privilegios para hacer o deshacer cosas, en
-Linux existe lo que se llama el superusuario (sería como el director de
-la empresa), que es el usuario que tiene todos los privilegios para
-administrar y manejar el sistema a diferencia de un usuario normal (como
-el usuario invitado) que tiene acceso limitado a una serie de
-aplicaciones y de opciones de administración. </span>
+Los sistemas Linux como el que ha sido instalado en el ordenador que tenga tienen distintos roles de usuario,
+al igual que en una empresa que se encuentra el director, los subdirectores y nos encontraríamos por ejemplo ya los empleados, cada
+uno de ellos con diferentes privilegios para hacer o deshacer cosas, en Linux existe lo que se llama el superusuario (sería como el director de
+la empresa), que es el usuario que tiene todos los privilegios para administrar y manejar el sistema a diferencia de un usuario normal (como
+el usuario invitado) que tiene acceso limitado a una serie de aplicaciones y de opciones de administración.
 
 <span class="c1"></span>
 
 [](#)[](#)
 
-+--------------------------------------------------------------------------+
-| <span class="c9 c1">Usuario: root</span>                                 |
-|                                                                          |
-| <span class="c9 c1">Contraseña: osloslugr</span>                         |
-+--------------------------------------------------------------------------+
+`Usuario:*****`                                                                          |
+`Contraseña:*****`
 
 <span class="c1"></span>
 
-<span class="c1">Para hacer uso de la cuenta de superusuario, tenemos
-que abrir una terminal y en ella escribir la palabra </span><span
-class="c5 c1">su</span><span class="c1"> y como contraseña la indicada
-en el recuadro anterior, quedando como en la imagen:</span>
+Para hacer uso de la cuenta de superusuario, tenemos que abrir una terminal y en ella escribir la palabra **su** y como contraseña la indicada
+en el recuadro anterior, quedando como en la imagen:
 
 <span
 style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 457.00px; height: 264.60px;">![6](images/image12.png)</span>
 
 <span class="c1"></span>
 
-<span class="c1">        Una vez estemos como superusuario podremos
-hacer todo lo que queramos, desde poder modificar ficheros tales como el
-que almacena la información de los repositorios, instalar aplicaciones o
-incluso modificar el menú de Grub para el arranque del sistema.</span>
+Una vez estemos como superusuario podremos hacer todo lo que queramos, desde poder modificar ficheros tales como el
+que almacena la información de los repositorios, instalar aplicaciones o incluso modificar el menú de Grub para el arranque del sistema.
 
-<span class="c1">Al terminar de hacer las tareas que quisiéramos debemos
-finalizar la sesión para evitar que ningún usuario malintencionado haga
-mal uso del equipo, para ello escribiremos el </span><span
-class="c1">comando</span><span class="c1">:</span>
+Al terminar de hacer las tareas que quisiéramos debemos finalizar la sesión para evitar que ningún usuario malintencionado haga
+mal uso del equipo, para ello escribiremos el **comando**
 
 <span class="c1"></span>
 
 [](#)[](#)
 
-+--------------------------------------------------------------------------+
-| <span class="c9 c1">exit</span>                                          |
-+--------------------------------------------------------------------------+
 
- {.c15 .c23 .c16}
+`exit`                                          
 
-<span class="c1">Instalar programas</span> {.c15 .c16}
-------------------------------------------
+## Instalar programas
 
-<span class="c1">        Cuando queremos instalar algún programa nuevo
-podemos hacerlo de muchas formas. A continuación vamos a explicar las
-tres más fáciles. Para todas ellas será necesario introducir la
-contraseña de superusuario ya que la instalación de programas es una
-tarea de administración que únicamente se puede hacer si se tienen
-privilegios de administrador.</span>
+Cuando queremos instalar algún programa nuevo podemos hacerlo de muchas formas. A continuación vamos a explicar las
+tres más fáciles. Para todas ellas será necesario introducir la contraseña de superusuario ya que la instalación de programas es una
+tarea de administración que únicamente se puede hacer si se tienen privilegios de administrador.
 
-<span class="c1">Recordamos que la contraseña que hay que introducir
-es:</span>
+Recordamos que la contraseña que hay que introducir es:
 
 <span class="c1"></span>
 
 [](#)[](#)
 
-+--------------------------------------------------------------------------+
-| <span class="c21 c1">Contraseña: </span><span                            |
-| class="c21 c1">******</span>                                          |
-+--------------------------------------------------------------------------+
 
-### <span class="c1">Desde gestor de paquetes </span><span class="c1">Synaptic</span> {.c15 .c16}
+`Contraseña:******`
 
-<span class="c1">        Esta aplicación, es una de las más usadas para
-instalar aplicaciones y es la que de hecho se recomienda para esta
-tarea. Nos iremos a:</span>
+## Desde gestor de paquetes Synaptic
+
+Esta aplicación, es una de las más usadas para instalar aplicaciones y es la que de hecho se recomienda para esta tarea. 
+Nos iremos a:>
 
 <span class="c1"></span>
 
 [](#)[](#)
 
-+--------------------------------------------------------------------------+
-| <span class="c21 c1">Aplicaciones / Herramientas del sistema /           |
-| Administración / Gestor de paquetes Synaptic</span>                      |
-+--------------------------------------------------------------------------+
+
+>+ Aplicaciones / Herramientas del sistema / Administración / Gestor de paquetes Synaptic
 
 <span class="c1"></span>
 
-<span class="c1">En el panel izquierdo disponemos de las categorías de
-los programas para instalar, así que si seleccionamos una de ellas, se
-nos reflejará en el panel derecho el listado de aplicaciones
-relacionadas con esa categoría.</span>
+En el panel izquierdo disponemos de las categorías de los programas para instalar, así que si seleccionamos una de ellas, se
+nos reflejará en el panel derecho el listado de aplicaciones relacionadas con esa categoría.
 
-<span class="c1">Para instalar una aplicación concreta, debemos tener
-seleccionada la opción de </span><span class="c5 c1">Todo </span><span
-class="c1">y en el recuadro de búsqueda escribiremos el nombre de la
-aplicación a instalar, por ejemplo </span><span class="c21 c1">Inkscape
-</span><span class="c1">y conforme vayamos escribiendo el nombre del
-programa se irá actualizando el listado de programas que concuerdan con
-lo que tiene el recuadro de búsqueda. Una vez tengamos en el listado la
-aplicación que queremos, hacemos doble click en la entrada del programa
-para marcarlo para instalar, ya que podemos seleccionar varios programas
-para instalarlos todos.</span>
+Para instalar una aplicación concreta, debemos tener seleccionada la opción de **Todo** y en el recuadro de búsqueda escribiremos el nombre de la
+aplicación a instalar, por ejemplo **Inkscape** y conforme vayamos escribiendo el nombre del programa se irá actualizando el listado de programas que concuerdan con lo que tiene el recuadro de búsqueda. Una vez tengamos en el listado la aplicación que queremos, hacemos doble click en la entrada del programa para marcarlo para instalar, ya que podemos seleccionar varios programas para instalarlos todos.
 
-<span class="c1">Un programa a instalar es lógico que necesite de otros
-programas o librerías para que se pueda instalar así que si al querer
-instalar una aplicación esta requiere algo que no tengamos instalado,
-nos aparecerá una imagen indicando esta situación, así que haremos click
-en el botón de aceptar para indicar que esos programas también se tienen
-que instalar.</span>
+Un programa a instalar es lógico que necesite de otros programas o librerías para que se pueda instalar así que si al querer
+instalar una aplicación esta requiere algo que no tengamos instalado, nos aparecerá una imagen indicando esta situación, así que haremos click
+en el botón de aceptar para indicar que esos programas también se tienen que instalar.
 
-<span class="c1">Por último para proceder a la instalación pincharemos
-en el botón de </span><span class="c21 c1">Aplicar</span><span
-class="c1"> confirmando los cambios que se van a hacer en el sistema y
-esperamos a que se termine de instalar lo que estuviera elegido.</span>
+Por último para proceder a la instalación pincharemos en el botón de **Aplicar** confirmando los cambios que se van a hacer en el sistema y
+esperamos a que se termine de instalar lo que estuviera elegido.
 
-<span class="c1">Nos pedirá la contraseña de superusuario, así que se la
-proporcionamos y se nos ejecutará la aplicación, teniendo una interfaz
-parecida a la siguiente:</span>
+Nos pedirá la contraseña de superusuario, así que se la proporcionamos y se nos ejecutará la aplicación, teniendo una interfaz
+parecida a la siguiente:
 
 <span
 style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 606.00px; height: 340.88px;">![7.png](images/image08.png)</span>
 
 <span class="c1"></span>
 
-###  {.c15 .c36}
 
-<span>Administración avanzada</span> {.c15}
-====================================
 
-<span class="c1">Otras formas de instalar programas</span> {.c15}
-----------------------------------------------------------
+## Administración avanzada
 
-### <span class="c1">Descargando el paquete desde la página web de la aplicación</span> {.c3}
 
-<span class="c1">        Los paquetes son archivos acabados en
-</span><span class="c5 c1">.deb</span><span class="c1 c26"> </span><span
-class="c1">que al ejecutarlos instalan en nuestro ordenador el programa
-de forma automática. Muchas aplicaciones tienen en su web oficial un
-enlace de descarga del archivo </span><span
-class="c5 c1">.deb</span><span class="c1 c26">.</span><span
-class="c1"> </span>
+### Otras formas de instalar programas
 
-<span class="c1">Para iniciar basta con hacer doble click sobre el
-archivo descargado y pulsar posteriormente el botón de instalar
-</span><span class="c1">el </span><span class="c1">paquete que hay en la
-ventana que aparece. Al ejecutar el paquete (el archivo </span><span
-class="c5 c1">.deb</span><span class="c1">) nos pedirá la contraseña
-antes mencionada.</span>
 
-### <span class="c1">Desde </span><span class="c1">consola</span> {.c3}
+* Descargando el paquete desde la página web de la aplicación
 
-<span class="c1">        Hay una forma muy sencilla de instalar un
-programa y es utilizando la consola que se ha explicado antes.</span>
+Los paquetes son archivos acabados en **.deb** que al ejecutarlos instalan en nuestro ordenador el programa
+de forma automática. Muchas aplicaciones tienen en su web oficial un enlace de descarga del archivo **.deb**
 
-<span class="c1">En primer lugar debemos de identificarnos como
-superusuario escribiendo en consola:</span>
+Para iniciar basta con hacer doble click sobre el archivo descargado y pulsar posteriormente el botón de instalar
+el paquete que hay en la ventana que aparece. Al ejecutar el paquete (el archivo **.deb**) nos pedirá la contraseña
+antes mencionada.>
+
+### Desde consola
+
+Hay una forma muy sencilla de instalar un programa y es utilizando la consola que se ha explicado antes.
+
+En primer lugar debemos de identificarnos como
+superusuario escribiendo en consola:
 
 <span class="c1"></span>
 
 [](#)[](#)
 
-+--------------------------------------------------------------------------+
-| <span class="c1 c9">su</span>                                            |
-+--------------------------------------------------------------------------+
+`su`
 
 <span class="c1"></span>
 
-<span class="c1">A continuación nos pide una contraseña y debemos
-escribir la contraseña de superusuario.</span>
+A continuación nos pide una contraseña y debemos escribir la contraseña de superusuario.
 
 <span class="c1"></span>
 
 [](#)[](#)
 
-+--------------------------------------------------------------------------+
-| <span class="c9 c1">******</span>                                     |
-+--------------------------------------------------------------------------+
+`Contraseña:******`                                    
 
 <span class="c1"></span>
 
 <span class="c1"></span>
 
-<span class="c1">Para hacer uso de esta forma para instalar programas
-debemos usar dos órdenes, una para buscar el programa en cuestión y
-luego otra orden para instalar la aplicación.</span>
+Para hacer uso de esta forma para instalar programas debemos usar dos órdenes, una para buscar el programa en cuestión y
+luego otra orden para instalar la aplicación.
 
-<span class="c1">        Como acabamos de decir lo primero es buscar el
-programa, para ello en la terminal escribiremos el comando:</span>
+Como acabamos de decir lo primero es buscar el programa, para ello en la terminal escribiremos el comando:
 
 <span class="c1"></span>
 
 [](#)[](#)
 
-+--------------------------------------------------------------------------+
-| <span class="c9 c1">apt-cache search \<patrón de búsqueda\></span>       |
-+--------------------------------------------------------------------------+
+
+`apt-cache search \<patrón de búsqueda>`
 
 <span class="c1"></span>
 
-<span class="c1">        Con patrón de búsqueda se indica que podemos
-poner una cadena de texto y buscar todas las aplicaciones que tienen en
-su nombre esa coincidencia, por ejemplo si queremos buscar el navegador
-web Chromium escribiremos:</span>
+Con *patrón de búsqueda* se indica que podemos poner una cadena de texto y buscar todas las aplicaciones que tienen en
+su nombre esa coincidencia, por ejemplo si queremos buscar el navegador web Chromium escribiremos:
 
 <span class="c1"></span>
 
 [](#)[](#)
 
-+--------------------------------------------------------------------------+
-| <span class="c9 c1">apt-cache search chromium</span>                     |
-+--------------------------------------------------------------------------+
+`apt-cache search chromium`                     |
+
 
 <span class="c1"></span>
 
-<span class="c1">        Con ellos nos aparecerá un listado de
-aplicaciones que coinciden con ese nombre, entre ellas estará el
-navegador.</span>
+Con ellos nos aparecerá un listado de aplicaciones que coinciden con ese nombre, entre ellas estará el navegador.
 
-<span class="c1">Luego la orden que instala un programa es </span><span
-class="c5 c1">apt-get install </span><span class="c1">y la podemos usar
-de la siguiente forma:</span>
+Luego la orden que instala un programa es `apt-get install` y la podemos usar de la siguiente forma:
 
 <span class="c1">                </span>
 
 [](#)[](#)
 
-+--------------------------------------------------------------------------+
-| <span class="c9 c1">apt-get install \<nombre de la aplicación\></span>   |
-+--------------------------------------------------------------------------+
+`apt-get install \<nombre de la aplicación>`
+
 
 <span class="c1"></span>
 
-<span class="c1">        Donde </span><span class="c21 c1">\<nombre de
-la aplicación\></span><span class="c1"> es el nombre de la aplicación o
-programa a instalar. Por ejemplo:</span>
+Donde **nombre de la aplicación** es el nombre de la aplicación o programa a instalar. Por ejemplo:
 
 <span class="c1"></span>
 
 [](#)[](#)
 
-+--------------------------------------------------------------------------+
-| <span class="c21 c1">apt-get install chromium-browser</span>             |
-+--------------------------------------------------------------------------+
+
+`apt-get install chromium-browser`           
+
 
 <span class="c13 c1"></span>
 
-<span class="c13 c1">        </span><span class="c1">Sin embargo, es
-posible que no encuentre el programa indicado. Es debido a que el
-sistema necesita saber dónde puede encontrar ese programa para
-instalarlo y no siempre se sabe dónde se encuentra. En estos casos hay
-que añadir “la dirección al lugar” desde el cual el sistema puede
-descargar e instalar el programa. Estos “lugares” se llaman repositorios
-y el sistema tiene por defecto algunos desde los que tiene acceso a un
-gran número de programas y aplicaciones conocidas.</span>
+Sin embargo, es posible que no encuentre el programa indicado. Es debido a que el sistema necesita saber dónde puede encontrar ese programa para
+instalarlo y no siempre se sabe dónde se encuentra. En estos casos hay que añadir “la dirección al lugar” desde el cual el sistema puede
+descargar e instalar el programa. Estos “lugares” se llaman repositorios y el sistema tiene por defecto algunos desde los que tiene acceso a un
+gran número de programas y aplicaciones conocidas.
 
-<span class="c1">        Para que nos resulte más fácil indicar el
-programa con la orden </span><span class="c1 c26">apt-get
-install</span><span class="c1"> podemos, al comenzar a escribir al final
-de la orden el nombre del programa, darle a la tecla de tabulación. Esta
-tecla hará que el ordenador intente completar la palabra con todos los
-programas que empiezan de esa forma y que conoce en sus repositorios. Un
-ejemplo:</span>
+Para que nos resulte más fácil indicar el programa con la orden `apt-get
+install` podemos, al comenzar a escribir al final de la orden el nombre del programa, darle a la tecla de tabulación. Esta
+tecla hará que el ordenador intente completar la palabra con todos los programas que empiezan de esa forma y que conoce en sus repositorios. Un
+ejemplo:
 
-<span class="c1">        Si queremos instalar el navegador Chromium
-escribimos:</span>
+Si queremos instalar el navegador Chromium escribimos:
 
 <span class="c1"></span>
 
 [](#)[](#)
 
-+--------------------------------------------------------------------------+
-| <span class="c21 c1">apt-get install chr</span>                          |
-+--------------------------------------------------------------------------+
+
+`apt-get install chromium`
 
 <span class="c1 c13"></span>
 
-<span class="c1">        Y pulsamos tabulador, en consola se mostrarán
-aplicaciones que comienzan por </span><span
-class="c1 c26">chr</span><span class="c1"> y entre ellas la que estamos
-buscando, permitiéndonos completar el nombre del programa.</span>
+Y pulsamos tabulador, en consola se mostrarán aplicaciones que comienzan por `chr` y entre ellas la que estamos
+buscando, permitiéndonos completar el nombre del programa.
 
- {.c15 .c23}
 
-<span class="c1">Sistema de archivos</span> {.c15}
--------------------------------------------
 
-<span class="c1">Todo</span><span class="c1"> sistema operativo tiene lo
-que se llama el sistema de archivos (o sistema de ficheros), esta parte
-del sistema operativo estructura la información guardada en una unidad
-de almacenamiento (normalmente un disco duro de una computadora), que
-luego será representada ya sea textual o gráficamente utilizando
-un</span><span
+## Sistema de archivos
+
+
+Todo sistema operativo tiene lo que se llama el sistema de archivos (o sistema de ficheros), esta parte
+del sistema operativo estructura la información guardada en una unidad de almacenamiento (normalmente un disco duro de una computadora), que
+luego será representada ya sea textual o gráficamente utilizando un</span><span
 class="c1">[ ](http://www.google.com/url?q=http%3A%2F%2Fes.wikipedia.org%2Fwiki%2FGestor_de_archivos&sa=D&sntz=1&usg=AFQjCNEt2g5AqQxcd4hSpRxWTx9d8NnD4A)</span><span
 class="c7 c1">[gestor de
 archivos](http://www.google.com/url?q=http%3A%2F%2Fes.wikipedia.org%2Fwiki%2FGestor_de_archivos&sa=D&sntz=1&usg=AFQjCNEt2g5AqQxcd4hSpRxWTx9d8NnD4A)</span><span
@@ -836,43 +734,35 @@ class="c7 c1">[sistemas
 operativos](http://www.google.com/url?q=http%3A%2F%2Fes.wikipedia.org%2Fwiki%2FSistemas_operativos&sa=D&sntz=1&usg=AFQjCNGUhZjf__vRbzy69RmQwiuHwVqRGA)</span><span
 class="c1"> manejan su propio sistema de archivos</span>
 
-<span class="c1">Existen diversos tipos tales como </span><span
-class="c1 c5">ext2</span><span class="c1">, </span><span
-class="c5 c1">ext3</span><span class="c1"> que son los tipos nativos de
-Linux o FAT, NTFS de Windows. Linux tiene su forma de estructurar la
-información, para ello usa un sistema de archivos ramificado para
-organizar la información y acceder a los datos, es decir, usamos un
-árbol para localizar los ficheros, haciendo una analogía digamos que es
-parecido a si nos subiéramos a un árbol y nos moviéramos por las ramas
-hasta llegar a las hojas.</span>
+Existen diversos tipos tales como `ext2`, `ext3` que son los tipos nativos de Linux o FAT, NTFS de Windows. Linux tiene su forma de estructurar la
+información, para ello usa un sistema de archivos ramificado para organizar la información y acceder a los datos, es decir, usamos un
+árbol para localizar los ficheros, haciendo una analogía digamos que es parecido a si nos subiéramos a un árbol y nos moviéramos por las ramas
+hasta llegar a las hojas.
 
-<span class="c1">La carpeta del administrador se encuentra en:</span>
+La carpeta del administrador se encuentra en:
 
 <span class="c1"></span>
 
 [](#)[](#)
 
-+--------------------------------------------------------------------------+
-| <span class="c9 c1">/root</span>                                         |
-+--------------------------------------------------------------------------+
+
+`/root`                                        
 
 <span class="c1"></span>
 
-###  {.c3 .c36 .c45}
+
 
 <span class="c1"></span>
 
- {.c15 .c23}
 
-<span>Contacto</span> {.c15}
-=====================
 
-<span class="c1">En caso de tener alguna pregunta sobre el
-funcionamiento de los equipos donados puede ponerse en contacto con la
-oficina de Software Libre:</span>
+## Contacto
 
-<span class="c1">        Blog de la OSL: </span><span
-class="c7 c1">[osl.ugr.es](http://www.google.com/url?q=http%3A%2F%2Fosl.ugr.es&sa=D&sntz=1&usg=AFQjCNEXiVH13RJwk9Aq3Am-Km298r2OtQ)</span>
+
+En caso de tener alguna pregunta sobre el funcionamiento de los equipos donados puede ponerse en contacto con la
+oficina de Software Libre:
+
+Blog de la OSL: [osl.ugr.es](http://osl.ugr.es)
 
 <span class="c1">        Oficina: </span><span class="c7 c1">[c/ Real de
 Cartuja nº
