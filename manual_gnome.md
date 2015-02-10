@@ -1,4 +1,4 @@
-# Manual de usuario Debian Wheezy Gnome
+# Manual Gnome
 
 
 ## Índice
