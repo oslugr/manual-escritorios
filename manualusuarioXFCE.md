@@ -1,4 +1,4 @@
-II Campaña Ordenadores Libres con Software Libre: Manual de usuario
+## Manual XFCE
 
 ![](images/image00.png) 
 
