@@ -1,6 +1,6 @@
-﻿Minino: Manual de usuario
+### Minino: Manual de usuario
 
-Campañas Ordenadores Libres con Software Libre
+## Campañas Ordenadores Libres con Software Libre
 
 
 Índice 
@@ -131,7 +131,7 @@ Diríjase a:
 [](#)[](#)
 
 
- Menú de Minino / Utilidades de Minino / Hora y fecha                     
+>+ Menú de Minino / Utilidades de Minino / Hora y fecha                     
 
 
 Tal y como se muestra en la siguiente imagen:
@@ -179,7 +179,7 @@ Para usar la aplicación diríjase a:
 [](#)[](#)
 
 
- Menú de Minino / Internet / Iceweasel                                    
+>+ Menú de Minino / Internet / Iceweasel                                    
 
 
 Para más información, diríjase al folleto informativo nº 3
@@ -200,7 +200,7 @@ Para usar la aplicación diríjase a:
 [](#)[](#)
 
 
-Menú de Minino / Oficina / LibreOffice Writer                            
+>+ Menú de Minino / Oficina / LibreOffice Writer                            
 
 
 Seleccione en este último lugar la aplicación que desee según quiera
@@ -224,7 +224,7 @@ Para usar la aplicación diríjase a:
 [](#)[](#)
 
 
- Menú de Minino / Desarrollo / Geany                                      
+ >+ Menú de Minino / Desarrollo / Geany                                      
 
 
 
@@ -253,7 +253,7 @@ Para usar la aplicación diríjase a:
 [](#)[](#)
 
 
-  Menú de Minino/ Gráficos/ Gimp                                          
+ >+ Menú de Minino/ Gráficos/ Gimp                                          
 
 
 Para más información, diríjase al folleto informativo nº 4
@@ -275,7 +275,7 @@ Para usar la aplicación diríjase a:
 [](#)[](#)
 
 
- Menú de Minino / Sonido y video / Reproductor multimedia VLC             
+ >+ Menú de Minino / Sonido y video / Reproductor multimedia VLC             
 
 
 Una vez abierto el programa, puede reproducir música o vídeo desde:
@@ -283,7 +283,7 @@ Una vez abierto el programa, puede reproducir música o vídeo desde:
 [](#)[](#)
 
 
- Medio / Abrir archivo                                                    
+ >+ Medio / Abrir archivo                                                    
 
 
 Y seleccionar el archivo deseado. También puede crear una lista de
@@ -310,7 +310,7 @@ reiniciar o apagar el equipo.
 [](#)[](#)
 
 
- Menú de Minino / Accesorios / Terminal                                   
+ >+ Menú de Minino / Accesorios / Terminal                                   
 
 
         O en la barra del menú del escritorio encontraremos el icono que
@@ -386,7 +386,7 @@ llamada home. Se puede acceder a esta carpeta desde:
 [](#)[](#)
 
 
- Menú de Minino/ Administrador de archivos                                
+>+  Menú de Minino/ Administrador de archivos                                
 
 
         Dentro del sistema de carpetas nos podemos mover entrando a
@@ -408,7 +408,7 @@ usuario “serafin” el sistema operativo pasaría por la ruta de acceso:
 [](#)[](#)
 
 
- /home/serafin/Fotos/osl.png                                              
+ >+ /home/serafin/Fotos/osl.png                                              
 
 
 La carpeta personal del usuario “************” se encuentra en la ruta:
@@ -416,7 +416,7 @@ La carpeta personal del usuario “************” se encuentra en la ruta:
 [](#)[](#)
 
 
- /home/******/                                                          
+ >+ /home/******/                                                          
 
 
 ### Cuenta de superusuario 
@@ -458,7 +458,7 @@ equipo, para ello escribiremos el comando:
 [](#)[](#)
 
 
- exit                                                                     
+ * exit                                                                     
 
 
 Instalar programas 
@@ -487,7 +487,7 @@ iremos a:
 [](#)[](#)
 
 
- Menú de Minino / Sistema / Gestor de paquetes Synaptic                   
+ >+ Menú de Minino / Sistema / Gestor de paquetes Synaptic                   
 
 
 En el panel izquierdo disponemos de las categorías de los programas para
@@ -553,7 +553,7 @@ en consola:
 [](#)[](#)
 
 
- sudo su                                                                  
+ * sudo su                                                                  
 
 
 A continuación nos pide una contraseña y debemos escribir la contraseña
@@ -575,7 +575,7 @@ ello en la terminal escribiremos el comando:
 [](#)[](#)
 
 
- apt-cache search \<patrón de búsqueda\>                                  
+ * apt-cache search \<patrón de búsqueda\>                                  
 
 
         Con patrón de búsqueda se indica que podemos poner una cadena de
@@ -586,7 +586,7 @@ escribiremos:
 [](#)[](#)
 
 
- apt-cache search chromium                                                
+*  apt-cache search chromium                                                
 
 
         Con ellos nos aparecerá un listado de aplicaciones que coinciden
@@ -600,7 +600,7 @@ usar de la siguiente forma:
 [](#)[](#)
 
 
- apt-get install \<nombre de la aplicación\>                              
+ * apt-get install \<nombre de la aplicación\>                              
 
 
         Donde \<nombre de la aplicación\> es el nombre de la aplicación
@@ -609,7 +609,7 @@ o programa a instalar. Por ejemplo:
 [](#)[](#)
 
 
- apt-get install chromium-browser                                         
+ * apt-get install chromium-browser                                         
 
 
         Sin embargo, es posible que no encuentre el programa indicado.
@@ -631,7 +631,7 @@ empiezan de esa forma y que conoce en sus repositorios. Un ejemplo:
 [](#)[](#)
 
 
- apt-get install chr                                                      
+ * apt-get install chr                                                      
 
 
         Y pulsamos tabulador, en consola se mostrarán aplicaciones que
@@ -681,9 +681,9 @@ En caso de tener alguna pregunta sobre el funcionamiento de los equipos
 donados puede ponerse en contacto con la oficina de Software Libre:
 
         Blog de la OSL:
-[osl.ugr.es](http://www.google.com/url?q=http%3A%2F%2Fosl.ugr.es&sa=D&sntz=1&usg=AFQjCNEXiVH13RJwk9Aq3Am-Km298r2OtQ)
+[osl.ugr.es](http://osl.ugr.es)
 
-        Oficina: [c/ Real de Cartuja nº
+        Oficina: [C/ Real de Cartuja nº
 36-38](https://maps.google.es/maps?f=q&source=s_q&hl=es&geocode=&q=Calle+Real+de+Cartuja,+Granada&aq=0&oq=calle+real+de+&sll=37.176487,-3.597929&sspn=0.159207,0.338173&t=h&ie=UTF8&hq=&hnear=Calle+Real+de+Cartuja,+Granada,+Andaluc%C3%ADa&ll=37.186557,-3.60007&spn=0.001252,0.002642&z=19&vpsrc=6&iwloc=A)
 
         
