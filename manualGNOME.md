@@ -1,8 +1,8 @@
-## Manual Gnome
+# Manual Gnome
 
 
-Índice
-===================
+### Índice
+
 
 <span class="c1"></span>
 
@@ -59,7 +59,7 @@ aplicación](#h.kth6rpdumw3o)</span>
 
  {.c15 .c23 .c16}
 
-<span>Iniciar el equipo</span> {.c15 .c16}
+<span>Iniciar el equipo</span> 
 ==============================
 
 <span class="c1">Al arrancar el equipo deberá de aparecer una imagen de
@@ -67,7 +67,7 @@ la Oficina de Software Libre con dos opciones de arranque.</span>
 
 <span class="c1"> </span>
 
-[](#)[](#)
+
 
 +--------------------------------------------------------------------------+
 | <span class="c9 c1">Para iniciar el sistema de forma normal              |
@@ -112,7 +112,7 @@ class="c1">, un entorno ligero que tiene como objetivo ser rápido y de
 bajos recursos del sistema, sin dejar de ser visualmente atractivo y
 fácil de usar.</span>
 
-<span class="c1">Cuenta de usuario</span> {.c15 .c16}
+<span class="c1">Cuenta de usuario</span> 
 -----------------------------------------
 
 <span class="c1">        Posteriormente, nos aparece una pantalla de
@@ -121,7 +121,7 @@ siguientes datos:</span>
 
 <span class="c1"></span>
 
-[](#)[](#)
+
 
 +--------------------------------------------------------------------------+
 | <span class="c9 c1">Usuario: invitado</span>                             |
@@ -134,7 +134,7 @@ siguientes datos:</span>
 <span class="c1">Es posible que el sistema tarde cierto tiempo en
 cargarse completamente.</span>
 
-<span class="c1">Poner</span><span class="c1"> en hora el equipo</span> {.c15 .c16}
+<span class="c1">Poner</span><span class="c1"> en hora el equipo</span> 
 -----------------------------------------------------------------------
 
 <span class="c1">Si la hora indicada en la derecha del panel inferior no
@@ -144,7 +144,7 @@ es correcta deberá seguir los siguientes pasos para cambiarla.</span>
 
 <span class="c1"></span>
 
-[](#)[](#)
+
 
 +--------------------------------------------------------------------------+
 | <span class="c9 c1">Aplicaciones / Herramientas del sistema /            |
@@ -171,7 +171,7 @@ Cuenta de superusuario):</span>
 
 <span class="c1"></span>
 
-[](#)[](#)
+
 
 +--------------------------------------------------------------------------+
 | <span class="c9 c1">Contraseña: osloslugr</span>                         |
@@ -188,7 +188,7 @@ style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0
 actuales. Si vuelve a pedir una contraseña se debe de introducir la de
 superusuario, indicada en el recuadro anterior.</span>
 
-<span>Programas básicos instalados</span> {.c15 .c16}
+<span>Programas básicos instalados</span> 
 =========================================
 
 <span class="c1">El equipo tiene instalados por defecto diversas
@@ -196,7 +196,7 @@ aplicaciones libres que abarcan distintas necesidades a la hora de
 trabajar o de utilizar el ordenador. A continuación puede conocer mejor
 alguno de los más básicos y útiles.</span>
 
-<span class="c1">IceWeasel</span> {.c15 .c16}
+<span class="c1">IceWeasel</span> 
 ---------------------------------
 
 <span class="c1">             Iceweasel es </span><span class="c1">uno
@@ -213,7 +213,7 @@ style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0
 
 <span class="c1"></span>
 
-[](#)[](#)
+
 
 +--------------------------------------------------------------------------+
 | <span class="c21 c1 c46">Aplicaciones / Internet / Iceweasel</span>      |
@@ -225,7 +225,7 @@ style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0
 </span><span class="c1">nº </span><span class="c1">3
 proporcionado.</span>
 
-<span class="c1">                   LibreOffice </span> {.c15 .c16 .c47}
+<span class="c1">                   LibreOffice </span> 
 -------------------------------------------------------
 
 <span class="c1">Esta suite ofimática incluye una serie de aplicaciones
@@ -238,7 +238,7 @@ style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0
 
 <span class="c1"></span>
 
-[](#)[](#)
+
 
 +--------------------------------------------------------------------------+
 | <span class="c9 c1">Aplicaciones / Oficina / LibreOffice Writer</span>   |
@@ -253,7 +253,7 @@ class="c1">datos</span><span class="c1">. Para más información, diríjase
 a los folletos formativos </span><span class="c1">nº 5, 6, 7</span><span
 class="c1"> proporcionados.</span>
 
-<span class="c1">Gedit</span> {.c15 .c16}
+<span class="c1">Gedit</span> 
 -----------------------------
 
 <span class="c1">                   Gedit es una aplicación que sirve
@@ -268,7 +268,7 @@ style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0
 
 <span class="c1"></span>
 
-[](#)[](#)
+
 
 +--------------------------------------------------------------------------+
 | <span class="c21 c1">Aplicaciones</span><span class="c21 c1"> /          |
@@ -276,7 +276,7 @@ style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0
 | Ge</span><span class="c21 c1">dit</span>                                 |
 +--------------------------------------------------------------------------+
 
-<span class="c1">Gimp</span> {.c15 .c16}
+<span class="c1">Gimp</span> 
 ----------------------------
 
 <span class="c1">Gimp es un programa de dibujo a mano alzada y retoque
@@ -302,7 +302,7 @@ class="c1">otros</span><span class="c1">.</span>
 
 <span class="c1"></span>
 
-[](#)[](#)
+
 
 +--------------------------------------------------------------------------+
 | <span class="c1"> </span><span class="c21 c1">Aplicaciones </span><span  |
@@ -315,7 +315,7 @@ class="c1">otros</span><span class="c1">.</span>
 <span class="c1">Para más información, diríjase al folleto formativo nº
 4 proporcionado.</span>
 
-<span class="c1">Vlc</span> {.c15}
+<span class="c1">Vlc</span> 
 ---------------------------
 
 <span class="c1">Vlc es un programa para reproducir tanto música o
@@ -331,7 +331,7 @@ style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0
 
 <span class="c1"></span>
 
-[](#)[](#)
+
 
 +--------------------------------------------------------------------------+
 | <span class="c9 c1">Aplicaciones / Sonido y vídeo / Reproductor          |
@@ -345,7 +345,7 @@ vídeo desde:</span>
 
 <span class="c1"></span>
 
-[](#)[](#)
+
 
 +--------------------------------------------------------------------------+
 | <span class="c9 c1">Medio / Abrir archivo</span>                         |
@@ -366,11 +366,11 @@ será necesario pulsar con el botón derecho del ratón y seleccionar
 </span><span class="c1 c26">Abrir con / Reproductor multimedia
 Vlc.</span>
 
- {.c15 .c23 .c16}
+
 
 <span></span>
 
-<span class="c1">Tux </span><span class="c1">Paint</span> {.c15 .c16}
+<span class="c1">Tux </span><span class="c1">Paint</span> 
 ---------------------------------------------------------
 
 <span class="c1">Esta herramienta permite realizar dibujos de forma
@@ -384,7 +384,7 @@ style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0
 
 <span class="c1"></span>
 
-[](#)[](#)
+
 
 +--------------------------------------------------------------------------+
 | <span class="c21 c1">Aplicaciones</span><span class="c9 c1"> / Educación |
@@ -399,9 +399,9 @@ pinchamos con el botón derecho del ratón sobre la imagen que queremos
 abrir y seleccionamos </span><span class="c1 c26">Abrir con / Tux
 Paint.</span>
 
- {.c15 .c23}
 
-<span>Consola (Terminal)</span> {.c15}
+
+<span>Consola (Terminal)</span> 
 ===============================
 
 <span class="c1">        La terminal es una de las aplicaciones que
@@ -414,7 +414,7 @@ dirigimos a:</span>
 
 <span class="c1"></span>
 
-[](#)[](#)
+
 
 +--------------------------------------------------------------------------+
 | <span class="c9 c1">Aplicaciones / Accesorios / Terminal</span>          |
@@ -533,10 +533,10 @@ cosas al respecto pero eso ya se escapa de este manual.</span>
 
  {.c15 .c16 .c23}
 
-<span>Administración del sistema</span> {.c15 .c16}
+<span>Administración del sistema</span> 
 =======================================
 
-### <span class="c1">Sistema de archivos</span> {.c15 .c16}
+### <span class="c1">Sistema de archivos</span> 
 
 <span class="c1">        Los documentos personales se guardan por
 defecto en una carpeta llamada </span><span
@@ -545,7 +545,7 @@ carpeta desde:</span>
 
 <span class="c1"></span>
 
-[](#)[](#)
+
 
 +--------------------------------------------------------------------------+
 | <span class="c21 c1">Lugares</span><span class="c21 c1"> / </span><span  |
@@ -576,7 +576,7 @@ ruta de acceso:</span>
 
 <span class="c1"></span>
 
-[](#)[](#)
+
 
 +--------------------------------------------------------------------------+
 | <span class="c9 c1">/home/serafin/Fotos/osl.png</span>                   |
@@ -589,15 +589,15 @@ encuentra en la ruta:</span>
 
 <span class="c1"></span>
 
-[](#)[](#)
+
 
 +--------------------------------------------------------------------------+
 | <span class="c9 c1">/home/invitado/</span>                               |
 +--------------------------------------------------------------------------+
 
-###  {.c15 .c16 .c36}
+ 
 
-### <span class="c1">Cuenta de super</span><span class="c1">usuario</span> {.c15 .c16}
+### <span class="c1">Cuenta de super</span><span class="c1">usuario</span> 
 
 <span class="c1">        Los sistemas Linux como el que ha sido
 instalado en el ordenador que tenga tienen distintos roles de usuario,
@@ -612,7 +612,7 @@ aplicaciones y de opciones de administración. </span>
 
 <span class="c1"></span>
 
-[](#)[](#)
+
 
 +--------------------------------------------------------------------------+
 | <span class="c9 c1">Usuario: root</span>                                 |
@@ -644,15 +644,15 @@ class="c1">comando</span><span class="c1">:</span>
 
 <span class="c1"></span>
 
-[](#)[](#)
+
 
 +--------------------------------------------------------------------------+
 | <span class="c9 c1">exit</span>                                          |
 +--------------------------------------------------------------------------+
 
- {.c15 .c23 .c16}
 
-<span class="c1">Instalar programas</span> {.c15 .c16}
+
+<span class="c1">Instalar programas</span> 
 ------------------------------------------
 
 <span class="c1">        Cuando queremos instalar algún programa nuevo
@@ -667,14 +667,14 @@ es:</span>
 
 <span class="c1"></span>
 
-[](#)[](#)
+
 
 +--------------------------------------------------------------------------+
 | <span class="c21 c1">Contraseña: </span><span                            |
 | class="c21 c1">osloslugr</span>                                          |
 +--------------------------------------------------------------------------+
 
-### <span class="c1">Desde gestor de paquetes </span><span class="c1">Synaptic</span> {.c15 .c16}
+### <span class="c1">Desde gestor de paquetes </span><span class="c1">Synaptic</span> 
 
 <span class="c1">        Esta aplicación, es una de las más usadas para
 instalar aplicaciones y es la que de hecho se recomienda para esta
@@ -682,7 +682,7 @@ tarea. Nos iremos a:</span>
 
 <span class="c1"></span>
 
-[](#)[](#)
+
 
 +--------------------------------------------------------------------------+
 | <span class="c21 c1">Aplicaciones / Herramientas del sistema /           |
@@ -728,15 +728,15 @@ style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0
 
 <span class="c1"></span>
 
-###  {.c15 .c36}
 
-<span>Administración avanzada</span> {.c15}
+
+<span>Administración avanzada</span> 
 ====================================
 
-<span class="c1">Otras formas de instalar programas</span> {.c15}
+<span class="c1">Otras formas de instalar programas</span> 
 ----------------------------------------------------------
 
-### <span class="c1">Descargando el paquete desde la página web de la aplicación</span> {.c3}
+### <span class="c1">Descargando el paquete desde la página web de la aplicación</span> 
 
 <span class="c1">        Los paquetes son archivos acabados en
 </span><span class="c5 c1">.deb</span><span class="c1 c26"> </span><span
@@ -753,7 +753,7 @@ ventana que aparece. Al ejecutar el paquete (el archivo </span><span
 class="c5 c1">.deb</span><span class="c1">) nos pedirá la contraseña
 antes mencionada.</span>
 
-### <span class="c1">Desde </span><span class="c1">consola</span> {.c3}
+### <span class="c1">Desde </span><span class="c1">consola</span> 
 
 <span class="c1">        Hay una forma muy sencilla de instalar un
 programa y es utilizando la consola que se ha explicado antes.</span>
@@ -763,7 +763,7 @@ superusuario escribiendo en consola:</span>
 
 <span class="c1"></span>
 
-[](#)[](#)
+
 
 +--------------------------------------------------------------------------+
 | <span class="c1 c9">su</span>                                            |
@@ -776,7 +776,7 @@ escribir la contraseña de superusuario.</span>
 
 <span class="c1"></span>
 
-[](#)[](#)
+
 
 +--------------------------------------------------------------------------+
 | <span class="c9 c1">osloslugr</span>                                     |
@@ -795,7 +795,7 @@ programa, para ello en la terminal escribiremos el comando:</span>
 
 <span class="c1"></span>
 
-[](#)[](#)
+
 
 +--------------------------------------------------------------------------+
 | <span class="c9 c1">apt-cache search \<patrón de búsqueda\></span>       |
@@ -810,7 +810,7 @@ web Chromium escribiremos:</span>
 
 <span class="c1"></span>
 
-[](#)[](#)
+
 
 +--------------------------------------------------------------------------+
 | <span class="c9 c1">apt-cache search chromium</span>                     |
@@ -828,7 +828,7 @@ de la siguiente forma:</span>
 
 <span class="c1">                </span>
 
-[](#)[](#)
+
 
 +--------------------------------------------------------------------------+
 | <span class="c9 c1">apt-get install \<nombre de la aplicación\></span>   |
@@ -842,7 +842,7 @@ programa a instalar. Por ejemplo:</span>
 
 <span class="c1"></span>
 
-[](#)[](#)
+
 
 +--------------------------------------------------------------------------+
 | <span class="c21 c1">apt-get install chromium-browser</span>             |
@@ -872,7 +872,7 @@ escribimos:</span>
 
 <span class="c1"></span>
 
-[](#)[](#)
+
 
 +--------------------------------------------------------------------------+
 | <span class="c21 c1">apt-get install chr</span>                          |
@@ -885,9 +885,9 @@ aplicaciones que comienzan por </span><span
 class="c1 c26">chr</span><span class="c1"> y entre ellas la que estamos
 buscando, permitiéndonos completar el nombre del programa.</span>
 
- {.c15 .c23}
 
-<span class="c1">Sistema de archivos</span> {.c15}
+
+<span class="c1">Sistema de archivos</span> 
 -------------------------------------------
 
 <span class="c1">Todo</span><span class="c1"> sistema operativo tiene lo
@@ -919,7 +919,7 @@ hasta llegar a las hojas.</span>
 
 <span class="c1"></span>
 
-[](#)[](#)
+
 
 +--------------------------------------------------------------------------+
 | <span class="c9 c1">/root</span>                                         |
@@ -927,13 +927,13 @@ hasta llegar a las hojas.</span>
 
 <span class="c1"></span>
 
-###  {.c3 .c36 .c45}
+
 
 <span class="c1"></span>
 
- {.c15 .c23}
 
-<span>Contacto</span> {.c15}
+
+<span>Contacto</span> 
 =====================
 
 <span class="c1">En caso de tener alguna pregunta sobre el
