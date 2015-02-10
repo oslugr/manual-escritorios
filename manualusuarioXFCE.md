@@ -160,9 +160,9 @@ el apartado Administración del sistema / Cuenta de superusuario):
 pedir una contraseña se debe de introducir la de superusuario, indicada
 en el recuadro anterior.
 
- {.c15 .c17}
 
-Programas básicos instalados {.c15 .c18}
+
+Programas básicos instalados
 ============================
 
 El equipo tiene instalados por defecto diversas aplicaciones libres que
@@ -174,11 +174,12 @@ y útiles.
 
 IceWeasel 
 ---------
+![](images/image13.png)
 
              Iceweasel es uno de los navegadores que viene con el
 equipo, su funcionalidad prácticamente idéntica a la del gran navegador
 Firefox, ya que con este navegador podremos acceder a internet además de
-poder abrir incluso ficheros de texto y más.![](images/image13.png)
+poder abrir incluso ficheros de texto y más.
 
 Para usar la aplicación diríjase a:
 
@@ -190,13 +191,14 @@ Para usar la aplicación diríjase a:
 
 Para más información, diríjase al folleto formativo nº 3 proporcionado.
 
-                   LibreOffice {.c15 .c18 .c25}
+LibreOffice 
 ------------------------------
+![](images/image04.png)
 
 Esta suite ofimática incluye una serie de aplicaciones tales como
 Writer, Impress, Draw, Calc y Base. Estas aplicaciones le permitirán
 trabajar con textos, presentaciones y hojas de cálculos entre
-otras.![](images/image04.png)
+otras.
 
 Para usar la aplicación diríjase a:
 
@@ -211,10 +213,11 @@ trabajar con textos (Writer), hojas de cálculo (Calc), presentaciones
 (Impress), dibujos (Draw) o bases de datos. Para más información,
 diríjase a los folletos formativos nº 5, 6, 7 proporcionados.
 
-Geany![](images/image05.png) {.c15 .c18}
+Geany 
 ----------------------------
+![](images/image05.png)
 
-                   Geany es una aplicación que sirve para editar
+Geany es una aplicación que sirve para editar
 ficheros de texto plano. Con Geany podemos crear desde simples
 documentos de texto sin ningún tipo de formato, redactar o tomar notas
 respecto de algo hasta poder editar archivos de páginas web o archivos
@@ -229,9 +232,9 @@ Para usar la aplicación diríjase a:
 
 
 
-
 Gimp 
 ----
+![](images/image01.jpg)
 
 Gimp es un programa de dibujo a mano alzada y retoque fotográfico,
 libre, gratuito y similar al privativo Photoshop. Te permite trabajar
@@ -242,7 +245,7 @@ mover, alinear, recortar, inclinar, perspectiva, volteo, texto
 personalizado, rellenar pintado, mezcla, degradados, mosaicos, pinceles,
 lápiz, rotulador, aerografo, goma, escritura estilo caligrafía (tinta),
 dibujo a mano alzada, clonado, saneado, enfoque, desenfoque, emborronar,
-quemar...![](images/image01.jpg)
+quemar...
 
 También incluye muchos filtros y efectos para aplicar a los dibujos.
 Como quitar ojos rojos en las fotografías, distorsiones, sombras,
@@ -260,14 +263,15 @@ Para usar la aplicación diríjase a:
 
 Para más información, diríjase al folleto formativo nº 4 proporcionado.
 
-Vlc {.c15}
+Vlc 
 ---
+![](images/image03.jpg)
 
 Vlc es un programa para reproducir tanto música o vídeos en una gran
 cantidad de formatos distintos (mp3, avi, mkv, mp4, ogv, etc). También
 permite incorporar subtítulos con formato srt a un vídeo arrastrando
 directamente el archivo de subtítulos a la imagen del vídeo en
-reproducción.![](images/image03.jpg)
+reproducción.
 
 Para usar la aplicación diríjase a:
 
@@ -300,12 +304,13 @@ multimedia Vlc.
 
 Tux Paint 
 ---------
+![](images/image10.png)
 
 Esta herramienta permite realizar dibujos de forma sencilla y rápida,
 recortar  o modificar imágenes y otras utilidades normales de un
 programa de dibujo libre. Normalmente es utilizado por niños y niñas ya
 que la interfaz es muy intuitiva y permite la creación de dibujos de
-forma divertida.![](images/image10.png)
+forma divertida.
 
 Para usar la aplicación diríjase a:
 
