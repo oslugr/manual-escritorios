@@ -1,6 +1,6 @@
 ## Manual XFCE
 
-![](images/image00.png) 
+![](imgXFCE/image00.png) 
 
 Esta obra está bajo una [licencia Creative Commons
 Atribución-NoComercial-CompartirIgual 3.0
@@ -86,7 +86,7 @@ solventar el problema).
 El escritorio será algo parecido a la siguiente imagen donde indicamos
 los elementos principales:
 
-![](images/image02.png)
+![](imgXFCE/image02.png)
 
 Un [sistema
 operativo](http://www.google.com/url?q=http%3A%2F%2Fes.wikipedia.org%2Fwiki%2FSistema_operativo&sa=D&sntz=1&usg=AFQjCNEtWOudBBPRFaT4xqu2XpKDl5ZiGA) es
@@ -140,7 +140,7 @@ Diríjase a:
 
 Tal y como se muestra en la siguiente imagen:
 
-![](images/image11.png)
+![](imgXFCE/image11.png)
 
 Aparecerá una ventana en la que no se nos permitirá modificar nada. Para
 poder cambiar los valores tenemos que pulsar sobre el escudo que se
@@ -154,7 +154,7 @@ el apartado Administración del sistema / Cuenta de superusuario):
  Contraseña: ******                                                    
 
 
-![](images/image07.png)
+![](imgXFCE/image07.png)
 
         Ahora podemos poner la hora y la fecha actuales. Si vuelve a
 pedir una contraseña se debe de introducir la de superusuario, indicada
@@ -174,7 +174,7 @@ y útiles.
 
 IceWeasel 
 ---------
-![](images/image13.png)
+![](imgXFCE/image13.png)
 
              Iceweasel es uno de los navegadores que viene con el
 equipo, su funcionalidad prácticamente idéntica a la del gran navegador
@@ -193,7 +193,7 @@ Para más información, diríjase al folleto formativo nº 3 proporcionado.
 
 LibreOffice 
 ------------------------------
-![](images/image04.png)
+![](imgXFCE/image04.png)
 
 Esta suite ofimática incluye una serie de aplicaciones tales como
 Writer, Impress, Draw, Calc y Base. Estas aplicaciones le permitirán
@@ -215,7 +215,7 @@ diríjase a los folletos formativos nº 5, 6, 7 proporcionados.
 
 Geany 
 ----------------------------
-![](images/image05.png)
+![](imgXFCE/image05.png)
 
 Geany es una aplicación que sirve para editar
 ficheros de texto plano. Con Geany podemos crear desde simples
@@ -234,7 +234,7 @@ Para usar la aplicación diríjase a:
 
 Gimp 
 ----
-![](images/image01.jpg)
+![](imgXFCE/image01.jpg)
 
 Gimp es un programa de dibujo a mano alzada y retoque fotográfico,
 libre, gratuito y similar al privativo Photoshop. Te permite trabajar
@@ -265,7 +265,7 @@ Para más información, diríjase al folleto formativo nº 4 proporcionado.
 
 Vlc 
 ---
-![](images/image03.jpg)
+![](imgXFCE/image03.jpg)
 
 Vlc es un programa para reproducir tanto música o vídeos en una gran
 cantidad de formatos distintos (mp3, avi, mkv, mp4, ogv, etc). También
@@ -304,7 +304,7 @@ multimedia Vlc.
 
 Tux Paint 
 ---------
-![](images/image10.png)
+![](imgXFCE/image10.png)
 
 Esta herramienta permite realizar dibujos de forma sencilla y rápida,
 recortar  o modificar imágenes y otras utilidades normales de un
@@ -346,7 +346,7 @@ reiniciar o apagar el equipo.
 hace referencia a la terminal. Esta representa una interfaz parecida a
 la siguiente:
 
-![](images/image06.png)
+![](imgXFCE/image06.png)
 
         Aparte de esta terminal, existen otras terminales (se les llaman
 terminales virtuales) que son iguales que esta que podemos ver pero la
@@ -424,7 +424,7 @@ Linux como Windows.
 
 En la siguiente imagen se puede ver de forma gráfica lo explicado:
 
-![](images/image09.png)
+![](imgXFCE/image09.png)
 
 Como vemos la información se representa como si fuera un árbol
 invertido, donde la raíz del árbol es del directorio indicado por / y a
@@ -476,7 +476,7 @@ Para hacer uso de la cuenta de superusuario, tenemos que abrir una
 terminal y en ella escribir la palabra su y como contraseña la indicada
 en el recuadro anterior, quedando como en la imagen:
 
-![](images/image12.png)
+![](imgXFCE/image12.png)
 
         Una vez estemos como superusuario podremos hacer todo lo que
 queramos, desde poder modificar ficheros tales como el que almacena la
@@ -551,7 +551,7 @@ Nos pedirá la contraseña de superusuario, así que se la proporcionamos y
 se nos ejecutará la aplicación, teniendo una interfaz parecida a la
 siguiente:
 
-![](images/image08.png)
+![](imgXFCE/image08.png)
 
 ###  
 Administración avanzada 
