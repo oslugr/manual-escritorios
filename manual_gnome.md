@@ -1,9 +1,9 @@
-#Manual de usuario Debian Wheezy con Gnome
+# Manual de usuario Debian Wheezy con Gnome
 
 
   
  
-![Esta obra está bajo una licencia Creative Commons Atribución-NoComercial-CompartirIgual 3.0 España](https://github.com/oslugr/manual-escritorios/blob/gnome/img/licencia_CC.png)
+!["Esta obra está bajo una licencia Creative Commons Atribución-NoComercial-CompartirIgual 3.0 España"](licencia_CC.png) 
 
 ## Índice
 
