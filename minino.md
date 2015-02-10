@@ -112,9 +112,9 @@ Cuenta de usuario
 [](#)[](#)
 
 
- Usuario: ******                                                      
+* Usuario: ******                                                      
                                                                           
- Contraseña: ******                                                    
+* Contraseña: ******                                                    
 
 
 Es posible que el sistema tarde cierto tiempo en cargarse completamente.
@@ -148,7 +148,7 @@ esto una ventaja, para usuarios noveles:
 [](#)[](#)
 
 
- Contraseña: ******                                                    
+* Contraseña: ******                                                    
 
 
 ![](images/image12.png)
@@ -435,9 +435,9 @@ administración.
 [](#)[](#)
 
 
- Usuario: ******                                                        
+* Usuario: ******                                                        
                                                                           
- Contraseña: ******                                                    
+* Contraseña: ******                                                    
 
 
 Para hacer uso de la cuenta de superusuario, tenemos que abrir una
@@ -475,7 +475,7 @@ Recordamos que la contraseña que hay que introducir es:
 [](#)[](#)
 
 
- Contraseña: ******                                                    
+* Contraseña: ******                                                    
 
 
 ### Desde gestor de paquetes Synaptic 
@@ -553,7 +553,7 @@ en consola:
 [](#)[](#)
 
 
- * sudo su                                                                  
+`sudo su`                                                                  
 
 
 A continuación nos pide una contraseña y debemos escribir la contraseña
@@ -575,7 +575,7 @@ ello en la terminal escribiremos el comando:
 [](#)[](#)
 
 
- * apt-cache search \<patrón de búsqueda\>                                  
+`apt-cache search \patrón de búsqueda\`                                  
 
 
         Con patrón de búsqueda se indica que podemos poner una cadena de
@@ -586,7 +586,7 @@ escribiremos:
 [](#)[](#)
 
 
-*  apt-cache search chromium                                                
+`apt-cache search chromium`                                                
 
 
         Con ellos nos aparecerá un listado de aplicaciones que coinciden
@@ -600,7 +600,7 @@ usar de la siguiente forma:
 [](#)[](#)
 
 
- * apt-get install \<nombre de la aplicación\>                              
+`apt-get install \nombre de la aplicación\`                              
 
 
         Donde \<nombre de la aplicación\> es el nombre de la aplicación
@@ -609,7 +609,7 @@ o programa a instalar. Por ejemplo:
 [](#)[](#)
 
 
- * apt-get install chromium-browser                                         
+`apt-get install chromium-browser`                                         
 
 
         Sin embargo, es posible que no encuentre el programa indicado.
@@ -631,7 +631,7 @@ empiezan de esa forma y que conoce en sus repositorios. Un ejemplo:
 [](#)[](#)
 
 
- * apt-get install chr                                                      
+`apt-get install chr`                                                      
 
 
         Y pulsamos tabulador, en consola se mostrarán aplicaciones que
@@ -669,11 +669,10 @@ La carpeta del administrador se encuentra en:
 [](#)[](#)
 
 
- /root                                                                    
+ >+ /root                                                                    
 
 
  
-
 Contacto 
 ========
 
