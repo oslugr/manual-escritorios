@@ -2,13 +2,6 @@
 
 Campañas Ordenadores Libres con Software Libre
 
-![by-nc.eu\_petit.png](images/image01.png) 
-
-Este obra está bajo
-una[ ](http://www.google.com/url?q=http%3A%2F%2Fcreativecommons.org%2Flicenses%2Fby-sa%2F4.0%2F&sa=D&sntz=1&usg=AFQjCNGcQ-W7bG9H3gB3SCKKIe_RZG589w)
-
-[licencia de Creative Commons Reconocimiento-CompartirIgual 4.0
-Internacional](http://www.google.com/url?q=http%3A%2F%2Fcreativecommons.org%2Flicenses%2Fby-sa%2F4.0%2F&sa=D&sntz=1&usg=AFQjCNGcQ-W7bG9H3gB3SCKKIe_RZG589w)
 
 Índice 
 ======
