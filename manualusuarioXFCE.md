@@ -6,7 +6,7 @@ Esta obra está bajo una [licencia Creative Commons
 Atribución-NoComercial-CompartirIgual 3.0
 España](http://www.google.com/url?q=http%3A%2F%2Fcreativecommons.org%2Flicenses%2Fby-nc-sa%2F3.0%2Fes%2Fdeed.es&sa=D&sntz=1&usg=AFQjCNGkV9MBtb0OhEgQ3wuBPorWwgveUg).
 
-Índice {.c15 .c18}
+Índice 
 ======
 
 [Índice](#h.bdiddubucis6)
@@ -56,9 +56,9 @@ aplicación](#h.kth6rpdumw3o)
 
 [Contacto](#h.p3vbmqdui30j)
 
- {.c17 .c15}
 
-Iniciar el equipo {.c15 .c18}
+
+Iniciar el equipo 
 =================
 
 Al arrancar el equipo deberá de aparecer una imagen de la Oficina de
@@ -68,10 +68,10 @@ Software Libre con dos opciones de arranque.
 
 [](#)[](#)
 
-+--------------------------------------------------------------------------+
-| Para iniciar el sistema de forma normal seleccionamos la primera opción  |
-| de las dos posibles.                                                     |
-+--------------------------------------------------------------------------+
+
+ Para iniciar el sistema de forma normal seleccionamos la primera opción  
+ de las dos posibles.                                                     
+
 
 Esta primera opción se seleccionará automáticamente al cabo de unos
 segundos si no pulsamos ninguna tecla.
@@ -105,9 +105,9 @@ instalado es
 un entorno ligero que tiene como objetivo ser rápido y de bajos recursos
 del sistema, sin dejar de ser visualmente atractivo y fácil de usar.
 
- {.c3 .c33}
 
-Cuenta de usuario {.c15 .c18}
+
+Cuenta de usuario 
 -----------------
 
         Posteriormente, nos aparece una pantalla de fondo azul que nos
@@ -115,17 +115,16 @@ pide un usuario y contraseña. Introducimos los siguientes datos:
 
 [](#)[](#)
 
-+--------------------------------------------------------------------------+
-| Usuario: invitado                                                        |
-|                                                                          |
-| Contraseña: invitado                                                     |
-+--------------------------------------------------------------------------+
+
+ Usuario: ******                                                        
+                                                                          
+ Contraseña: ******                                                     
+
 
 Es posible que el sistema tarde cierto tiempo en cargarse completamente.
 
- {.c17 .c15}
-
-Poner en hora el equipo {.c15 .c18}
+ 
+Poner en hora el equipo 
 -----------------------
 
 Si la hora indicada en la derecha del panel inferior no es correcta
@@ -135,9 +134,9 @@ Diríjase a:
 
 [](#)[](#)
 
-+--------------------------------------------------------------------------+
-| Menú de Xfce / Sistema / Hora y fecha                                    |
-+--------------------------------------------------------------------------+
+
+ Menú de Xfce / Sistema / Hora y fecha                                    
+
 
 Tal y como se muestra en la siguiente imagen:
 
@@ -151,9 +150,9 @@ el apartado Administración del sistema / Cuenta de superusuario):
 
 [](#)[](#)
 
-+--------------------------------------------------------------------------+
-| Contraseña: osloslugr                                                    |
-+--------------------------------------------------------------------------+
+
+ Contraseña: ******                                                    
+
 
 ![](images/image07.png)
 
@@ -171,9 +170,9 @@ abarcan distintas necesidades a la hora de trabajar o de utilizar el
 ordenador. A continuación puede conocer mejor alguno de los más básicos
 y útiles.
 
- {.c17 .c15}
+ 
 
-IceWeasel {.c15 .c18}
+IceWeasel 
 ---------
 
              Iceweasel es uno de los navegadores que viene con el
@@ -185,9 +184,9 @@ Para usar la aplicación diríjase a:
 
 [](#)[](#)
 
-+--------------------------------------------------------------------------+
-| Menú de Xfce / Internet / Iceweasel                                      |
-+--------------------------------------------------------------------------+
+
+ Menú de Xfce / Internet / Iceweasel                                      
+
 
 Para más información, diríjase al folleto formativo nº 3 proporcionado.
 
@@ -203,9 +202,9 @@ Para usar la aplicación diríjase a:
 
 [](#)[](#)
 
-+--------------------------------------------------------------------------+
-| Menú de Xfce / Oficina / LibreOffice Writer                              |
-+--------------------------------------------------------------------------+
+
+ Menú de Xfce / Oficina / LibreOffice Writer                              
+
 
 Seleccione en este último lugar la aplicación que desee según quiera
 trabajar con textos (Writer), hojas de cálculo (Calc), presentaciones
@@ -225,13 +224,13 @@ Para usar la aplicación diríjase a:
 
 [](#)[](#)
 
-+--------------------------------------------------------------------------+
-| Menú de Xfce / Desarrollo / Geany                                        |
-+--------------------------------------------------------------------------+
 
- {.c17 .c15}
+ Menú de Xfce / Desarrollo / Geany                                        
 
-Gimp {.c15 .c18}
+
+
+
+Gimp 
 ----
 
 Gimp es un programa de dibujo a mano alzada y retoque fotográfico,
@@ -255,9 +254,9 @@ Para usar la aplicación diríjase a:
 
 [](#)[](#)
 
-+--------------------------------------------------------------------------+
-|  Menú de Xfce/ Gráficos/ Gimp                                            |
-+--------------------------------------------------------------------------+
+
+  Menú de Xfce/ Gráficos/ Gimp                                            
+
 
 Para más información, diríjase al folleto formativo nº 4 proporcionado.
 
@@ -274,17 +273,17 @@ Para usar la aplicación diríjase a:
 
 [](#)[](#)
 
-+--------------------------------------------------------------------------+
-| Menú de Xfce / Sonido y video / Reproductor multimedia VLC               |
-+--------------------------------------------------------------------------+
+
+ Menú de Xfce / Sonido y video / Reproductor multimedia VLC               
+
 
 Una vez abierto el programa, puede reproducir música o vídeo desde:
 
 [](#)[](#)
 
-+--------------------------------------------------------------------------+
-| Medio / Abrir archivo                                                    |
-+--------------------------------------------------------------------------+
+
+ Medio / Abrir archivo                                                    
+
 
 Y seleccionar el archivo deseado. También puede crear una lista de
 reproducción con todos los archivos reproducibles de un directorio
@@ -297,9 +296,9 @@ bastará con un doble click, en caso contrario, será necesario pulsar con
 el botón derecho del ratón y seleccionar Abrir con / Reproductor
 multimedia Vlc.
 
- {.c17 .c15}
+ 
 
-Tux Paint {.c15 .c18}
+Tux Paint 
 ---------
 
 Esta herramienta permite realizar dibujos de forma sencilla y rápida,
@@ -312,18 +311,17 @@ Para usar la aplicación diríjase a:
 
 [](#)[](#)
 
-+--------------------------------------------------------------------------+
-| Menú de Xfce / Gráficos / Tux Paint                                      |
-+--------------------------------------------------------------------------+
+ Menú de Xfce / Gráficos / Tux Paint                                      
+
 
         De nuevo, tenemos la posibilidad de arrancar el programa a
 partir de una imagen que tengamos guardada. Para ello pinchamos con el
 botón derecho del ratón sobre la imagen que queremos abrir y
 seleccionamos Abrir con / Tux Paint.
 
- {.c33 .c15}
 
-Consola (Terminal) {.c15}
+
+Consola (Terminal) 
 ==================
 
         La terminal es una de las aplicaciones que tiene Linux con más
@@ -335,9 +333,9 @@ reiniciar o apagar el equipo.
 
 [](#)[](#)
 
-+--------------------------------------------------------------------------+
-| Menú de Xfce / Accesorios / Terminal                                     |
-+--------------------------------------------------------------------------+
+
+ Menú de Xfce / Accesorios / Terminal                                     
+
 
         O en la barra del menú del escritorio encontraremos el icono que
 hace referencia a la terminal. Esta representa una interfaz parecida a
@@ -359,17 +357,17 @@ los comandos más básicos y usuales.
 
 -   cd Nos sirve para movernos a través de las carpetas.
 
--   cp /home/invitado/Descargas
+-   cp /home/******/Descargas
 
 -   ls Se usa para hacer un listado del contenido de una carpeta.
 
--   ls /home/invitado/Imágenes
+-   ls /home/******/Imágenes
 
 -   cat Este comando es útil para mostrar por pantalla el contenido de
     un fichero de texto, se suele usar junto con otros comandos más
     avanzados.
 
--   cat /home/invitado/Documentos/Leeme.txt
+-   cat /home/******/Documentos/Leeme.txt
 
 -   cp Sirve para hacer duplicar ficheros.
 
@@ -399,21 +397,21 @@ los comandos más básicos y usuales.
         Incluso tenemos atajos en la terminal y más cosas al respecto
 pero eso ya se escapa de este manual.
 
- {.c17 .c15}
+ 
 
-Administración del sistema {.c15 .c18}
+Administración del sistema
 ==========================
 
-### Sistema de archivos {.c15 .c18}
+### Sistema de archivos 
 
         Los documentos personales se guardan por defecto en una carpeta
 llamada home. Se puede acceder a esta carpeta desde:
 
 [](#)[](#)
 
-+--------------------------------------------------------------------------+
-| Menú de Xfce / Administrador de archivos                                 |
-+--------------------------------------------------------------------------+
+
+ Menú de Xfce / Administrador de archivos                                 
+
 
         Dentro del sistema de carpetas nos podemos mover entrando a
 ellas de la misma forma que con el resto de sistemas operativos tanto
@@ -433,22 +431,22 @@ usuario “serafin” el sistema operativo pasaría por la ruta de acceso:
 
 [](#)[](#)
 
-+--------------------------------------------------------------------------+
-| /home/serafin/Fotos/osl.png                                              |
-+--------------------------------------------------------------------------+
 
-Bien pues la carpeta personal del usuario “invitado” se encuentra en la
+ /home/serafin/Fotos/osl.png                                              
+
+
+Bien pues la carpeta personal del usuario “******” se encuentra en la
 ruta:
 
 [](#)[](#)
 
-+--------------------------------------------------------------------------+
-| /home/invitado/                                                          |
-+--------------------------------------------------------------------------+
 
-###  {.c6}
+ /home/******/                                                          
 
-### Cuenta de superusuario {.c15 .c18}
+
+###  
+
+### Cuenta de superusuario 
 
         Los sistemas Linux como el que ha sido instalado en el ordenador
 que tenga tienen distintos roles de usuario, al igual que en una empresa
@@ -463,11 +461,11 @@ administración.
 
 [](#)[](#)
 
-+--------------------------------------------------------------------------+
-| Usuario: root                                                            |
-|                                                                          |
-| Contraseña: osloslugr                                                    |
-+--------------------------------------------------------------------------+
+
+ Usuario: ******                                                            
+                                                                          
+ Contraseña: ******                                                    
+
 
 Para hacer uso de la cuenta de superusuario, tenemos que abrir una
 terminal y en ella escribir la palabra su y como contraseña la indicada
@@ -486,13 +484,12 @@ equipo, para ello escribiremos el comando:
 
 [](#)[](#)
 
-+--------------------------------------------------------------------------+
-| exit                                                                     |
-+--------------------------------------------------------------------------+
 
- {.c17 .c15}
+ exit                                                                     
 
-Instalar programas {.c15 .c18}
+
+
+Instalar programas 
 ------------------
 
         Cuando queremos instalar algún programa nuevo podemos hacerlo de
@@ -505,11 +502,11 @@ Recordamos que la contraseña que hay que introducir es:
 
 [](#)[](#)
 
-+--------------------------------------------------------------------------+
-| Contraseña: osloslugr                                                    |
-+--------------------------------------------------------------------------+
 
-### Desde gestor de paquetes Synaptic {.c15 .c18}
+ Contraseña: ******                                                    
+
+
+### Desde gestor de paquetes Synaptic 
 
         Esta aplicación, es una de las más usadas para instalar
 aplicaciones y es la que de hecho se recomienda para esta tarea. Nos
@@ -517,9 +514,9 @@ iremos a:
 
 [](#)[](#)
 
-+--------------------------------------------------------------------------+
-| Menú de Xfce / Sistema / Gestor de paquetes Synaptic                     |
-+--------------------------------------------------------------------------+
+
+ Menú de Xfce / Sistema / Gestor de paquetes Synaptic                     
+
 
 En el panel izquierdo disponemos de las categorías de los programas para
 instalar, así que si seleccionamos una de ellas, se nos reflejará en el
@@ -551,15 +548,14 @@ siguiente:
 
 ![](images/image08.png)
 
-###  {.c15 .c35}
-
-Administración avanzada {.c15}
+###  
+Administración avanzada 
 =======================
 
-Otras formas de instalar programas {.c15}
+Otras formas de instalar programas 
 ----------------------------------
 
-### Descargando el paquete desde la página web de la aplicación {.c15 .c18 .c32}
+### Descargando el paquete desde la página web de la aplicación 
 
         Los paquetes son archivos acabados en .deb que al ejecutarlos
 instalan en nuestro ordenador el programa de forma automática. Muchas
@@ -571,7 +567,7 @@ y pulsar posteriormente el botón de instalar paquete que hay en la
 ventana que aparece. Al ejecutar el paquete (el archivo .deb) nos pedirá
 la contraseña antes mencionada.
 
-### Desde consola {.c32 .c15 .c18}
+### Desde consola 
 
         Hay una forma muy sencilla de instalar un programa y es
 utilizando la consola que se ha explicado antes.
@@ -581,18 +577,17 @@ en consola:
 
 [](#)[](#)
 
-+--------------------------------------------------------------------------+
-| su                                                                       |
-+--------------------------------------------------------------------------+
+ su                                                                       
+
 
 A continuación nos pide una contraseña y debemos escribir la contraseña
 de superusuario.
 
 [](#)[](#)
 
-+--------------------------------------------------------------------------+
-| osloslugr                                                                |
-+--------------------------------------------------------------------------+
+
+ ******                                                                
+
 
 Para hacer uso de esta forma para instalar programas debemos usar dos
 órdenes, una para buscar el programa en cuestión y luego otra orden para
@@ -603,9 +598,9 @@ ello en la terminal escribiremos el comando:
 
 [](#)[](#)
 
-+--------------------------------------------------------------------------+
-| apt-cache search \<patrón de búsqueda\>                                  |
-+--------------------------------------------------------------------------+
+
+ apt-cache search \<patrón de búsqueda\>                                  
+
 
         Con patrón de búsqueda se indica que podemos poner una cadena de
 texto y buscar todas las aplicaciones que tienen en su nombre esa
@@ -614,9 +609,9 @@ escribiremos:
 
 [](#)[](#)
 
-+--------------------------------------------------------------------------+
-| apt-cache search chromium                                                |
-+--------------------------------------------------------------------------+
+
+ apt-cache search chromium                                                
+
 
         Con ellos nos aparecerá un listado de aplicaciones que coinciden
 con ese nombre, entre ellas estará el navegador.
@@ -628,18 +623,18 @@ usar de la siguiente forma:
 
 [](#)[](#)
 
-+--------------------------------------------------------------------------+
-| apt-get install \<nombre de la aplicación\>                              |
-+--------------------------------------------------------------------------+
+
+ apt-get install \<nombre de la aplicación\>                              
+
 
         Donde \<nombre de la aplicación\> es el nombre de la aplicación
 o programa a instalar. Por ejemplo:
 
 [](#)[](#)
 
-+--------------------------------------------------------------------------+
-| apt-get install chromium-browser                                         |
-+--------------------------------------------------------------------------+
+
+ apt-get install chromium-browser                                         
+
 
         Sin embargo, es posible que no encuentre el programa indicado.
 Es debido a que el sistema necesita saber dónde puede encontrar ese
@@ -659,17 +654,17 @@ empiezan de esa forma y que conoce en sus repositorios. Un ejemplo:
 
 [](#)[](#)
 
-+--------------------------------------------------------------------------+
-| apt-get install chr                                                      |
-+--------------------------------------------------------------------------+
+
+ apt-get install chr                                                      
+
 
         Y pulsamos tabulador, en consola se mostrarán aplicaciones que
 comienzan por chr y entre ellas la que estamos buscando, permitiéndonos
 completar el nombre del programa.
 
- {.c33 .c15}
+ 
 
-Sistema de archivos {.c15}
+Sistema de archivos 
 -------------------
 
 Todo sistema operativo tiene lo que se llama el sistema de archivos (o
@@ -697,15 +692,15 @@ La carpeta del administrador se encuentra en:
 
 [](#)[](#)
 
-+--------------------------------------------------------------------------+
-| /root                                                                    |
-+--------------------------------------------------------------------------+
 
-###  {.c6 .c32 .c43}
+ /root                                                                    
 
- {.c15 .c33}
 
-Contacto {.c15}
+###  
+
+ 
+
+Contacto 
 ========
 
 En caso de tener alguna pregunta sobre el funcionamiento de los equipos
