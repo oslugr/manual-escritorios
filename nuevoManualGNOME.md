@@ -22,14 +22,12 @@ Atribución-NoComercial-CompartirIgual 3.0
 España](http://www.google.com/url?q=http%3A%2F%2Fcreativecommons.org%2Flicenses%2Fby-nc-sa%2F3.0%2Fes%2Fdeed.es&sa=D&sntz=1&usg=AFQjCNGkV9MBtb0OhEgQ3wuBPorWwgveUg)</span><span
 class="c1">.</span>
 
-<span>Índice</span> 
-===================
+# Índice 
 
-<span class="c1"></span>
 
-<span class="c7 c1">[Índice](#h.bdiddubucis6)</span>
+* Índice
 
-<span class="c7 c1">[Iniciar el equipo](#h.xme1zer1a2q6)</span>
+* Iniciar el equipo
 
 <span class="c7 c1">[Cuenta de usuario](#h.wf1lz8cw0slt)</span>
 
