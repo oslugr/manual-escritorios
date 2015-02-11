@@ -594,7 +594,6 @@ En caso de tener alguna pregunta sobre el funcionamiento de los equipos donados 
 oficina de Software Libre:
 
 >+ Blog de la OSL: [osl.ugr.es](http://osl.ugr.es)
-
 >+ Oficina: <span class="c7 c1">[c/ Real de
 Cartuja nº
 36-38](https://maps.google.es/maps?f=q&source=s_q&hl=es&geocode=&q=Calle+Real+de+Cartuja,+Granada&aq=0&oq=calle+real+de+&sll=37.176487,-3.597929&sspn=0.159207,0.338173&t=h&ie=UTF8&hq=&hnear=Calle+Real+de+Cartuja,+Granada,+Andaluc%C3%ADa&ll=37.186557,-3.60007&spn=0.001252,0.002642&z=19&vpsrc=6&iwloc=A)</span>
