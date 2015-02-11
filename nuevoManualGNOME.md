@@ -226,9 +226,8 @@ Para más información, diríjase al folleto formativo
 proporcionado.
 
 ## LibreOffice
-</span><span
+<span class="c1"></span><span
 style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 84.00px; height: 84.00px;">![](image/image04.png)</span>
-
 Esta suite ofimática incluye una serie de aplicaciones tales como Writer, Impress, Draw, Calc y Base. 
 Estas aplicaciones le permitirán trabajar con textos, presentaciones y hojas de cálculos entre otras.
 
@@ -249,8 +248,8 @@ a los folletos formativos </span><span class="c1">nº 5, 6, 7</span><span
 class="c1"> proporcionados.</span>
 
 ## Gedit
-<span
-style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 30.00px; height: 30.00px;">![images.jpeg](image/image05.jpg)</span>
+<span class="c1"></span><span
+style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 40.00px; height: 40.00px;">![images.jpeg](image/image05.jpg)</span>
 
 Gedit es una aplicación que sirve para editar ficheros de texto</span><span class="c1"> plano. 
 Con Gedit podemos crear desde simples documentos de texto sin ningún tipo de
@@ -268,8 +267,8 @@ Para usar la aplicación diríjase a:
 >+ Aplicaciones / Accesorios / Gedit                               |
 
 ## Gimp 
-<span
-style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 40.00px; height: 30.00px;">![](image/image01.jpg)</span>
+<span class="c1"></span><span
+style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 40.00px; height: 40.00px;">![](image/image01.jpg)</span>
 
 Gimp es un programa de dibujo a mano alzada y retoque fotográfico, libre, gratuito y similar al privativo Photoshop. Te permite trabajar con capas, rutas, canales, tiene muchas utilidades y
 herramientas: seleccionar áreas por geometría, color (varita mágica),
@@ -292,7 +291,7 @@ Para usar la aplicación diríjase a:
 Para más información, diríjase al folleto formativo nº 4 proporcionado.
 
 ## Vlc
-<span
+<span class="c1"></span><span
 style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 50.00px; height: 50.00px;">![](image/image03.jpg)</span>
 
 Vlc es un programa para reproducir tanto música o vídeos en una gran cantidad de formatos distintos (mp3, avi, mkv, mp4,ogv, etc). También permite incorporar subtítulos con formato srt a un vídeo arrastrando directamente el archivo de subtítulos a la imagen del vídeo en reproducción.</span>
@@ -327,8 +326,8 @@ Otra posibilidad, es usar la aplicación directamente desde el archivo de vídeo
 <span></span>
 
 ## Paint
-<span
-style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 20.00px; height: 20.00px;">![](image/image10.png)</span>
+<span class="c1"></span><span
+style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 40.00px; height: 40.00px;">![](image/image10.png)</span>
 
 Esta herramienta permite realizar dibujos de forma sencilla y rápida, recortar  o modificar imágenes y otras utilidades normales de un programa de dibujo libre. Normalmente es utilizado por niños y niñas ya que la interfaz es muy intuitiva y permite la creación de dibujos de forma divertida.</span>
 
