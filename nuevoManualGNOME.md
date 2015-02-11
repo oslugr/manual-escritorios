@@ -7,10 +7,21 @@
 
 ## Índice
 
+<<<<<<< HEAD
 
 * Iniciar el equipo
 
 * Cuenta de usuario
+=======
+# Índice 
+
+
+* Índice
+
+* Iniciar el equipo
+
+<span class="c7 c1">[Cuenta de usuario](#h.wf1lz8cw0slt)</span>
+>>>>>>> eda2d6406e9f5f6c35be975ed171fe779f321384
 
 * Poner en hora el equipo
 
@@ -176,6 +187,7 @@ Para usar la aplicación diríjase a:
 ## LibreOffice
 <span class="c1"></span><span
 style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 84.00px; height: 84.00px;">![](image/image04.png)</span>
+
 Esta suite ofimática incluye una serie de aplicaciones tales como Writer, Impress, Draw, Calc y Base. 
 Estas aplicaciones le permitirán trabajar con textos, presentaciones y hojas de cálculos entre otras.
 
@@ -186,9 +198,7 @@ Para usar la aplicación diríjase a:
 
 
 Seleccione en este último lugar la aplicación que desee según quiera trabajar con textos (Writer), hojas de cálculo (Calc),presentaciones (Impress), dibujos (Draw) o bases de </span><span
-class="c1">datos</span><span class="c1">. Para más información, diríjase
-a los folletos formativos </span><span class="c1">nº 5, 6, 7</span><span
-class="c1"> proporcionados.</span>
+class="c1">datos</span><span class="c1">. Para más información, diríjase a los folletos formativos </span><span class="c1">nº 5, 6, 7</span><span class="c1"> proporcionados.</span>
 
 ## Gedit
 <span class="c1"></span><span
