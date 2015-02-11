@@ -771,7 +771,7 @@ Cartuja nº
 
 <span class="c1">        </span>
 
-* Con el director de la Oficina de Software Libre:
+* Con los directores de la Oficina de Software Libre:
 
 >+ Juan Julián Merelo Guervós: dirosl@ugr.es
 >+ Nuria Rico Castro: subdireccionsl@ugr.es                                                
@@ -786,7 +786,7 @@ Cartuja nº
 
 <div>
 
-<span class="c1 c32">- </span><span class="c1 c32"> -                  
+<span class="c1 c32"> </span><span class="c1 c32">                 
 
 </span>
 
