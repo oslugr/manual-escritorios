@@ -513,14 +513,12 @@ Recordamos que la contraseña que hay que introducir es:
 
 ### Desde gestor de paquetes Synaptic 
 
-        Esta aplicación, es una de las más usadas para instalar
-aplicaciones y es la que de hecho se recomienda para esta tarea. Nos
-iremos a:
+Esta aplicación, es una de las más usadas para instalar aplicaciones y es la que de hecho se recomienda para esta tarea. Nos iremos a:
 
 [](#)[](#)
 
 
- Menú de Xfce / Sistema / Gestor de paquetes Synaptic                     
+ >+ Menú de Xfce / Sistema / Gestor de paquetes Synaptic                     
 
 
 En el panel izquierdo disponemos de las categorías de los programas para
@@ -553,95 +551,71 @@ siguiente:
 
 ![](imgXFCE/image08.png)
 
-###  
-Administración avanzada 
-=======================
+  
+## Administración avanzada 
 
-Otras formas de instalar programas 
-----------------------------------
+* Otras formas de instalar programas 
 
-### Descargando el paquete desde la página web de la aplicación 
+## Descargando el paquete desde la página web de la aplicación 
 
-        Los paquetes son archivos acabados en .deb que al ejecutarlos
-instalan en nuestro ordenador el programa de forma automática. Muchas
-aplicaciones tienen en su web oficial un enlace de descarga del archivo
-.deb. 
+Los paquetes son archivos acabados en .deb que al ejecutarlos instalan en nuestro ordenador el programa de forma automática. Muchas aplicaciones tienen en su web oficial un enlace de descarga del archivo **.deb.**.
 
-Para arrancarlo basta con hacer doble click sobre el archivo descargado
-y pulsar posteriormente el botón de instalar paquete que hay en la
-ventana que aparece. Al ejecutar el paquete (el archivo .deb) nos pedirá
+Para arrancarlo basta con hacer doble click sobre el archivo descargado y pulsar posteriormente el botón de instalar paquete que hay en la ventana que aparece. Al ejecutar el paquete (el archivo .deb) nos pedirá
 la contraseña antes mencionada.
 
 ### Desde consola 
 
-        Hay una forma muy sencilla de instalar un programa y es
-utilizando la consola que se ha explicado antes.
+Hay una forma muy sencilla de instalar un programa y es utilizando la consola que se ha explicado antes.
 
-En primer lugar debemos de identificarnos como superusuario escribiendo
-en consola:
+En primer lugar debemos de identificarnos como superusuario escribiendo en consola:
 
 [](#)[](#)
 
- su                                                                       
+`su`                                                                       
 
-
-A continuación nos pide una contraseña y debemos escribir la contraseña
-de superusuario.
+A continuación nos pide una contraseña y debemos escribir la contraseña de superusuario.
 
 [](#)[](#)
 
 
- ******                                                                
+`Contraseña:******`                                                               
 
 
 Para hacer uso de esta forma para instalar programas debemos usar dos
 órdenes, una para buscar el programa en cuestión y luego otra orden para
 instalar la aplicación.
 
-        Como acabamos de decir lo primero es buscar el programa, para
-ello en la terminal escribiremos el comando:
+Como acabamos de decir lo primero es buscar el programa, para ello en la terminal escribiremos el comando:
 
 [](#)[](#)
 
 
- apt-cache search \<patrón de búsqueda\>                                  
+`apt-cache search \<patrón de búsqueda\>`                                
 
-
-        Con patrón de búsqueda se indica que podemos poner una cadena de
-texto y buscar todas las aplicaciones que tienen en su nombre esa
-coincidencia, por ejemplo si queremos buscar el navegador web Chromium
-escribiremos:
+Con **patrón de búsqueda** se indica que podemos poner una cadena de texto y buscar todas las aplicaciones que tienen en su nombre esa coincidencia, por ejemplo si queremos buscar el navegador web Chromium escribiremos:
 
 [](#)[](#)
 
+`apt-cache search chromium`                                                
 
- apt-cache search chromium                                                
+Con ellos nos aparecerá un listado de aplicaciones que coinciden con ese nombre, entre ellas estará el navegador.
 
+Luego la orden que instala un programa es `apt-get install` y la podemos usar de la siguiente forma:
 
-        Con ellos nos aparecerá un listado de aplicaciones que coinciden
-con ese nombre, entre ellas estará el navegador.
-
-Luego la orden que instala un programa es apt-get install y la podemos
-usar de la siguiente forma:
-
-                
 
 [](#)[](#)
 
+`apt-get install \<nombre de la aplicación\>`                            
 
- apt-get install \<nombre de la aplicación\>                              
 
-
-        Donde \<nombre de la aplicación\> es el nombre de la aplicación
-o programa a instalar. Por ejemplo:
+Donde **\<nombre de la aplicación\>** es el nombre de la aplicación o programa a instalar.
+Por ejemplo:
 
 [](#)[](#)
 
+`apt-get install chromium-browser`                                         
 
- apt-get install chromium-browser                                         
-
-
-        Sin embargo, es posible que no encuentre el programa indicado.
+Sin embargo, es posible que no encuentre el programa indicado.
 Es debido a que el sistema necesita saber dónde puede encontrar ese
 programa para instalarlo y no siempre se sabe dónde se encuentra. En
 estos casos hay que añadir “la dirección al lugar” desde el cual el
