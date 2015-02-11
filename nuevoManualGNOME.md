@@ -201,13 +201,13 @@ trabajar o de utilizar el ordenador. A continuación puede conocer mejor
 alguno de los más básicos y útiles.>
 
 ## IceWeasel 
+<span class="c1"></span><span
+style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 50.00px; height: 50.00px;">![](image/image13.png)</span>
 
 Iceweasel es uno de los navegadores que viene con el equipo, su funcionalidad
 prácticamente idéntica a la del gran navegador Firefox, ya que con este
 navegador podremos acceder a internet además de poder abrir incluso
-ficheros de texto y </span><span class="c1">más</span><span
-class="c1">.</span><span
-style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 59.00px; height: 59.00px;">![](image/image13.png)</span>
+ficheros de texto y </span><span class="c1">más</span>.
 
 <span class="c1"></span>
 
@@ -226,10 +226,11 @@ Para más información, diríjase al folleto formativo
 proporcionado.
 
 ## LibreOffice
+</span><span
+style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 84.00px; height: 84.00px;">![](image/image04.png)</span>
 
 Esta suite ofimática incluye una serie de aplicaciones tales como Writer, Impress, Draw, Calc y Base. 
-Estas aplicaciones le permitirán trabajar con textos, presentaciones y hojas de cálculos entre otras.</span><span
-style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 84.00px; height: 84.00px;">![](image/image04.png)</span>
+Estas aplicaciones le permitirán trabajar con textos, presentaciones y hojas de cálculos entre otras.
 
 Para usar la aplicación diríjase a:
 
@@ -248,13 +249,14 @@ a los folletos formativos </span><span class="c1">nº 5, 6, 7</span><span
 class="c1"> proporcionados.</span>
 
 ## Gedit
+<span
+style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 50.00px; height: 40.00px;">![images.jpeg](image/image05.jpg)</span>
 
 Gedit es una aplicación que sirve para editar ficheros de texto</span><span class="c1"> plano. 
 Con Gedit podemos crear desde simples documentos de texto sin ningún tipo de
 formato, redactar o tomar notas respecto de algo hasta poder editar
 archivos de páginas web o archivos pertenecientes a un programa.
-</span><span
-style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 67.00px; height: 40.71px;">![images.jpeg](image/image05.jpg)</span>
+</span>
 
 Para usar la aplicación diríjase a:
 
@@ -266,12 +268,13 @@ Para usar la aplicación diríjase a:
 >+ Aplicaciones / Accesorios / Gedit                               |
 
 ## Gimp 
+<span
+style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 50.00px; height: 40.00px;">![](image/image01.jpg)</span>
 
 Gimp es un programa de dibujo a mano alzada y retoque fotográfico, libre, gratuito y similar al privativo Photoshop. Te permite trabajar con capas, rutas, canales, tiene muchas utilidades y
 herramientas: seleccionar áreas por geometría, color (varita mágica),
 forma (tijeras), capturar colorear, ampliar, reducir, rotar, deformar,medir distancias, mover, alinear, recortar, inclinar, perspectiva,volteo, texto personalizado, rellenar pintado, mezcla, degradados,
-mosaicos, pinceles, lápiz, rotulador, aerografo, goma, escritura estilo caligrafía (tinta), dibujo a mano alzada, clonado, saneado, enfoque,desenfoque, emborronar, quemar...</span><span
-style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 98.00px; height: 67.00px;">![](image/image01.jpg)</span>
+mosaicos, pinceles, lápiz, rotulador, aerografo, goma, escritura estilo caligrafía (tinta), dibujo a mano alzada, clonado, saneado, enfoque,desenfoque, emborronar, quemar...</span>
 
 También incluye muchos filtros y efectos para aplicar a los dibujos. Como quitar ojos rojos en las fotografías, distorsiones,sombras, detectar bordes... Lee muchísimos formatos de archivos, entre ellos psd de Photoshop, y puede guardar tus creaciones en xcf (formato predefinido), png, jpg, gif, ico, bmp, y muchos </span><span
 class="c1">otros</span><span class="c1">.</span>
@@ -289,9 +292,10 @@ Para usar la aplicación diríjase a:
 Para más información, diríjase al folleto formativo nº 4 proporcionado.
 
 ## Vlc
+<span
+style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 50.00px; height: 40.00px;">![](image/image03.jpg)</span>
 
-Vlc es un programa para reproducir tanto música o vídeos en una gran cantidad de formatos distintos (mp3, avi, mkv, mp4,ogv, etc). También permite incorporar subtítulos con formato srt a un vídeo arrastrando directamente el archivo de subtítulos a la imagen del vídeo en reproducción.</span><span
-style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 74.00px; height: 74.00px;">![](image/image03.jpg)</span>
+Vlc es un programa para reproducir tanto música o vídeos en una gran cantidad de formatos distintos (mp3, avi, mkv, mp4,ogv, etc). También permite incorporar subtítulos con formato srt a un vídeo arrastrando directamente el archivo de subtítulos a la imagen del vídeo en reproducción.</span>
 
 <span class="c1"></span>
 
@@ -323,9 +327,10 @@ Otra posibilidad, es usar la aplicación directamente desde el archivo de vídeo
 <span></span>
 
 ## Paint
+<span
+style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 50.00px; height: 40.00px;">![](image/image10.png)</span>
 
-Esta herramienta permite realizar dibujos de forma sencilla y rápida, recortar  o modificar imágenes y otras utilidades normales de un programa de dibujo libre. Normalmente es utilizado por niños y niñas ya que la interfaz es muy intuitiva y permite la creación de dibujos de forma divertida.</span><span
-style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 88.00px; height: 77.00px;">![](image/image10.png)</span>
+Esta herramienta permite realizar dibujos de forma sencilla y rápida, recortar  o modificar imágenes y otras utilidades normales de un programa de dibujo libre. Normalmente es utilizado por niños y niñas ya que la interfaz es muy intuitiva y permite la creación de dibujos de forma divertida.</span>
 
 Para usar la aplicación diríjase a:
 
@@ -734,10 +739,7 @@ class="c7 c1">[sistemas
 operativos](http://www.google.com/url?q=http%3A%2F%2Fes.wikipedia.org%2Fwiki%2FSistemas_operativos&sa=D&sntz=1&usg=AFQjCNGUhZjf__vRbzy69RmQwiuHwVqRGA)</span><span
 class="c1"> manejan su propio sistema de archivos</span>
 
-Existen diversos tipos tales como `ext2`, `ext3` que son los tipos nativos de Linux o FAT, NTFS de Windows. Linux tiene su forma de estructurar la
-información, para ello usa un sistema de archivos ramificado para organizar la información y acceder a los datos, es decir, usamos un
-árbol para localizar los ficheros, haciendo una analogía digamos que es parecido a si nos subiéramos a un árbol y nos moviéramos por las ramas
-hasta llegar a las hojas.
+Existen diversos tipos tales como `ext2`, `ext3` que son los tipos nativos de Linux o FAT, NTFS de Windows. Linux tiene su forma de estructurar la información, para ello usa un sistema de archivos ramificado para organizar la información y acceder a los datos, es decir, usamos un árbol para localizar los ficheros, haciendo una analogía digamos que es parecido a si nos subiéramos a un árbol y nos moviéramos por las ramas hasta llegar a las hojas.
 
 La carpeta del administrador se encuentra en:
 
@@ -762,22 +764,22 @@ La carpeta del administrador se encuentra en:
 En caso de tener alguna pregunta sobre el funcionamiento de los equipos donados puede ponerse en contacto con la
 oficina de Software Libre:
 
-Blog de la OSL: [osl.ugr.es](http://osl.ugr.es)
+>+ Blog de la OSL: [osl.ugr.es](http://osl.ugr.es)
 
-<span class="c1">        Oficina: </span><span class="c7 c1">[c/ Real de
+>+ Oficina: <span class="c7 c1">[c/ Real de
 Cartuja nº
 36-38](https://maps.google.es/maps?f=q&source=s_q&hl=es&geocode=&q=Calle+Real+de+Cartuja,+Granada&aq=0&oq=calle+real+de+&sll=37.176487,-3.597929&sspn=0.159207,0.338173&t=h&ie=UTF8&hq=&hnear=Calle+Real+de+Cartuja,+Granada,+Andaluc%C3%ADa&ll=37.186557,-3.60007&spn=0.001252,0.002642&z=19&vpsrc=6&iwloc=A)</span>
 
 <span class="c1">        </span>
 
-Con el director de la Oficina de Software Libre:
+* Con el director de la Oficina de Software Libre:
 
 >+ Juan Julián Merelo Guervós: dirosl@ugr.es
 >+ Nuria Rico Castro: subdireccionsl@ugr.es                                                
 
 * Teléfono: 958243000 Extensión: 20207
 
-O con los técnicos informáticos encargados de los equipos donados:
+* O con los técnicos informáticos encargados de los equipos donados:
 
 >+ Manuel Cogolludo Vallejo: makovalibre@gmail.com
 >+ Renato Ramirez Rivera: renatolrr@gmail.com
