@@ -243,9 +243,7 @@ Para usar la aplicación diríjase a:
 <span class="c1"></span>
 
 Seleccione en este último lugar la aplicación que desee según quiera trabajar con textos (Writer), hojas de cálculo (Calc),presentaciones (Impress), dibujos (Draw) o bases de </span><span
-class="c1">datos</span><span class="c1">. Para más información, diríjase
-a los folletos formativos </span><span class="c1">nº 5, 6, 7</span><span
-class="c1"> proporcionados.</span>
+class="c1">datos</span><span class="c1">. Para más información, diríjase a los folletos formativos </span><span class="c1">nº 5, 6, 7</span><span class="c1"> proporcionados.</span>
 
 ## Gedit
 <span class="c1"></span><span
