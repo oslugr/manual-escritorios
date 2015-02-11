@@ -116,8 +116,8 @@ es correcta deberá seguir los siguientes pasos para cambiarla.
 Diríjase a:
 
 
->+ Aplicaciones / Herramientas del sistema 
->+ Preferencias / Configuración del sistema 
+>+ Aplicaciones / Herramientas del sistema /
+>+ Preferencias / Configuración del sistema /
 
 
 Tal y como se muestra en la siguiente imagen:
@@ -169,7 +169,7 @@ ficheros de texto y </span><span class="c1">más</span>.
 Para usar la aplicación diríjase a:
 
 
->+ Aplicaciones / Internet / Iceweasel
+>+ Aplicaciones / Internet / Iceweasel /
 
 
 ## LibreOffice
@@ -182,7 +182,7 @@ Estas aplicaciones le permitirán trabajar con textos, presentaciones y hojas de
 Para usar la aplicación diríjase a:
 
 
->+ Aplicaciones / Oficina / LibreOffice Writer
+>+ Aplicaciones / Oficina / LibreOffice Writer /
 
 
 Seleccione en este último lugar la aplicación que desee según quiera trabajar con textos (Writer), hojas de cálculo (Calc),presentaciones (Impress), dibujos (Draw) o bases de </span><span
@@ -200,7 +200,7 @@ archivos de páginas web o archivos pertenecientes a un programa.
 
 Para usar la aplicación diríjase a:
 
->+ Aplicaciones / Accesorios / Gedit                               |
+>+ Aplicaciones / Accesorios / Gedit /                           
 
 ## Gimp 
 <span class="c1"></span><span
@@ -215,7 +215,7 @@ También incluye muchos filtros y efectos para aplicar a los dibujos. Como quita
 
 Para usar la aplicación diríjase a:
 
->+ Aplicaciones / Gráficos / Programa de manipulación imágenes GNU
+>+ Aplicaciones / Gráficos / Programa de manipulación imágenes GNU /
 
 
 ## Vlc
@@ -227,12 +227,12 @@ Vlc es un programa para reproducir tanto música o vídeos en una gran cantidad 
 
 Para usar la aplicación diríjase a:
 
->+ Aplicaciones / Sonido y vídeo / Reproductor multimedia VLC
+>+ Aplicaciones / Sonido y vídeo / Reproductor multimedia VLC /
 
 Una vez abierto el programa, puede reproducir música o vídeo desde:
 
 
->+ Medio / Abrir archivo</span>                       
+>+ Medio / Abrir archivo /                       
 
 
 Y seleccionar el archivo deseado. También puede crear una lista de reproducción con todos los archivos reproducibles de un directorio indicando **Abrir directorio<** y seleccionando el directorio que contiene estos archivos.
@@ -249,7 +249,7 @@ Esta herramienta permite realizar dibujos de forma sencilla y rápida, recortar 
 Para usar la aplicación diríjase a:
 
 
->+ Aplicaciones / Educación / Tux Paint
+>+ Aplicaciones / Educación / Tux Paint /
 
 
 De nuevo, tenemos la posibilidad de arrancar el programa a partir de una imagen que tengamos guardada. Para ello
@@ -265,7 +265,7 @@ todo el sistema, como por ejemplo ejecutar programas, instalarlos,editar archivo
 Bien para ejecutar la terminal (o consola) nos dirigimos a:
 
 
->+ Aplicaciones / Accesorios / Terminal
+>+ Aplicaciones / Accesorios / Terminal /
 
 
 O en la barra del menú del escritorio encontraremos el icono que hace referencia a la terminal. Esta
@@ -381,7 +381,7 @@ Incluso tenemos atajos en la terminal y más cosas al respecto pero eso ya se es
 Los documentos personales se guardan por defecto en una carpeta llamada */home*.Se puede acceder a esta
 carpeta desde:
 
->+ Lugares / Carpetas
+>+ Lugares / Carpetas /
 
 
 Dentro del sistema de carpetas nos podemos mover entrando a ellas de la misma forma que con el resto de sistemas
@@ -399,13 +399,13 @@ Por ejemplo si accedemos a una foto llamada *osl.png* perteneciente al usuario *
 ruta de acceso:
 
 
->+ /home/serafin/Fotos/osl.png
+>+ / home / serafin / Fotos/osl.png
 
 
 Bien pues la carpeta personal del usuario **“invitado”** se encuentra en la ruta:
 
 
->+ /home/invitado/
+>+ / home / invitado /
 
 
 ## Cuenta de superusuario
@@ -436,7 +436,7 @@ mal uso del equipo, para ello escribiremos el **comando**
 
 
 `exit` 
-                                         
+
 
 ## Instalar programas
 
@@ -472,8 +472,7 @@ en el botón de aceptar para indicar que esos programas también se tienen que i
 Por último para proceder a la instalación pincharemos en el botón de **Aplicar** confirmando los cambios que se van a hacer en el sistema y
 esperamos a que se termine de instalar lo que estuviera elegido.
 
-Nos pedirá la contraseña de superusuario, así que se la proporcionamos y se nos ejecutará la aplicación, teniendo una interfaz
-parecida a la siguiente:
+Nos pedirá la contraseña de superusuario, así que se la proporcionamos y se nos ejecutará la aplicación, teniendo una interfaz parecida a la siguiente:
 
 <span
 style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 606.00px; height: 340.88px;">![7.png](image/image08.png)</span>
@@ -494,16 +493,14 @@ Los paquetes son archivos acabados en **.deb** que al ejecutarlos instalan en nu
 de forma automática. Muchas aplicaciones tienen en su web oficial un enlace de descarga del archivo **.deb**
 
 Para iniciar basta con hacer doble click sobre el archivo descargado y pulsar posteriormente el botón de instalar
-el paquete que hay en la ventana que aparece. Al ejecutar el paquete (el archivo **.deb**) nos pedirá la contraseña
-antes mencionada.
+el paquete que hay en la ventana que aparece. Al ejecutar el paquete (el archivo **.deb**) nos pedirá la contraseña antes mencionada.
 
 
 ### Desde consola
 
 Hay una forma muy sencilla de instalar un programa y es utilizando la consola que se ha explicado antes.
 
-En primer lugar debemos de identificarnos como
-superusuario escribiendo en consola:
+En primer lugar debemos de identificarnos como superusuario escribiendo en consola:
 
 
 `su`
@@ -515,17 +512,15 @@ A continuación nos pide una contraseña y debemos escribir la contraseña de su
 `Contraseña:******`                                    
 
 
-Para hacer uso de esta forma para instalar programas debemos usar dos órdenes, una para buscar el programa en cuestión y
-luego otra orden para instalar la aplicación.
+Para hacer uso de esta forma para instalar programas debemos usar dos órdenes, una para buscar el programa en cuestión y luego otra orden para instalar la aplicación.
 
 Como acabamos de decir lo primero es buscar el programa, para ello en la terminal escribiremos el comando:
 
 
-`apt-cache search \<patrón de búsqueda>`
+`apt-cache search \ <patrón de búsqueda>`
 
 
-Con *patrón de búsqueda* se indica que podemos poner una cadena de texto y buscar todas las aplicaciones que tienen en
-su nombre esa coincidencia, por ejemplo si queremos buscar el navegador web Chromium escribiremos:
+Con *patrón de búsqueda* se indica que podemos poner una cadena de texto y buscar todas las aplicaciones que tienen en su nombre esa coincidencia, por ejemplo si queremos buscar el navegador web Chromium escribiremos:
 
 
 `apt-cache search chromium`                     |
@@ -610,8 +605,7 @@ Cartuja nº
 
 >+ Juan Julián Merelo Guervós: dirosl@ugr.es
 >+ Nuria Rico Castro: subdireccionsl@ugr.es                                                
-
-* Teléfono: 958243000 Extensión: 20207
+>+ Teléfono: 958243000 Extensión: 20207
 
 * O con los técnicos informáticos encargados de los equipos donados:
 
