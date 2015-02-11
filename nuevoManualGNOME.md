@@ -333,7 +333,7 @@ Esta herramienta permite realizar dibujos de forma sencilla y rápida, recortar 
 
 Para usar la aplicación diríjase a:
 
-<span class="c1"></span>
+
 
 [](#)[](#)
 
