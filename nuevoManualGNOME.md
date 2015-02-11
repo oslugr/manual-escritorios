@@ -1,27 +1,15 @@
 # Manual de usuario Gnome
 
-
-
-
-
-
 ## Índice
 
-<<<<<<< HEAD
 
 * Iniciar el equipo
 
 * Cuenta de usuario
-=======
-# Índice 
-
-
-* Índice
 
 * Iniciar el equipo
 
-<span class="c7 c1">[Cuenta de usuario](#h.wf1lz8cw0slt)</span>
->>>>>>> eda2d6406e9f5f6c35be975ed171fe779f321384
+* Cuenta de usuario
 
 * Poner en hora el equipo
 
