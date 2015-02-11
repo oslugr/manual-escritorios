@@ -163,7 +163,7 @@ Tal y como se muestra en la siguiente imagen:
 <span class="c1"></span>
 
 <span
-style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 613.00px; height: 344.81px;">![2](/img/images/imagen00.png)</span>
+style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 613.00px; height: 344.81px;">![2](/image/imagen00.png)</span>
 
 <span class="c1"></span>
 
