@@ -773,21 +773,21 @@ Cartuja nº
 Con el director de la Oficina de Software Libre:
 
 >+ Juan Julián Merelo Guervós: dirosl@ugr.es
-Nuria Rico Castro: subdireccionsl@ugr.es                                                
+>+ Nuria Rico Castro: subdireccionsl@ugr.es                                                
 
 * Teléfono: 958243000 Extensión: 20207
 
 O con los técnicos informáticos encargados de los equipos donados:
 
 >+ Manuel Cogolludo Vallejo: makovalibre@gmail.com
-Renato Ramirez Rivera: renatolrr@gmail.com
-José Alonso Arias González: toblerone554@gmail.com
+>+ Renato Ramirez Rivera: renatolrr@gmail.com
+>+ José Alonso Arias González: toblerone554@gmail.com
 
 <div>
 
 <span class="c1 c32">- </span><span class="c1 c32"> -                  
-                                                                       
-                                  </span>
+
+</span>
 
 <span class="c1 c32 c26">                               
 
@@ -799,6 +799,6 @@ José Alonso Arias González: toblerone554@gmail.com
 <span class="c1 c32 c26">                            </span>
 
 <span class="c1 c26 c32">                                               
-                     </span>
+</span>
 
 </div>
