@@ -1,10 +1,5 @@
-## Manual XFCE
+# Manual XFCE
 
-![](imgXFCE/image00.png) 
-
-Esta obra está bajo una [licencia Creative Commons
-Atribución-NoComercial-CompartirIgual 3.0
-España](http://www.google.com/url?q=http%3A%2F%2Fcreativecommons.org%2Flicenses%2Fby-nc-sa%2F3.0%2Fes%2Fdeed.es&sa=D&sntz=1&usg=AFQjCNGkV9MBtb0OhEgQ3wuBPorWwgveUg).
 
 ## Índice 
 
