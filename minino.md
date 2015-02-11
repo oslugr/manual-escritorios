@@ -1,10 +1,7 @@
-### Minino: Manual de usuario
-
-## Campañas Ordenadores Libres con Software Libre
+# Manual MININO
 
 
-Índice 
-======
+## Índice
 
 [Índice](#h.bdiddubucis6)
 
