@@ -106,7 +106,7 @@ El escritorio será algo parecido a la siguiente
 imagen donde indicamos los elementos principales:
 
 <span
-style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 580.00px; height: 326.25px;">![1](images/image02.png)</span>
+style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 580.00px; height: 326.25px;">![1](image/image02.png)</span>
 
 <span class="c1">Un </span><span class="c7 c1">[sistema
 operativo](http://www.google.com/url?q=http%3A%2F%2Fes.wikipedia.org%2Fwiki%2FSistema_operativo&sa=D&sntz=1&usg=AFQjCNEtWOudBBPRFaT4xqu2XpKDl5ZiGA)</span><span
@@ -128,7 +128,7 @@ bajos recursos del sistema, sin dejar de ser visualmente atractivo y
 fácil de usar.</span>
 
 * Cuenta de usuario
-* 
+
 Posteriormente, nos aparece una pantalla de fondo azul que nos pide un usuario y contraseña. Introducimos los
 siguientes datos:
 
@@ -184,7 +184,7 @@ Cuenta de superusuario):
 <span class="c1"></span>
 
 <span
-style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 587.00px; height: 330.19px;">![3](images/image07.png)</span>
+style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 587.00px; height: 330.19px;">![3](image/image07.png)</span>
 
 <span class="c1"></span>
 
@@ -207,7 +207,7 @@ prácticamente idéntica a la del gran navegador Firefox, ya que con este
 navegador podremos acceder a internet además de poder abrir incluso
 ficheros de texto y </span><span class="c1">más</span><span
 class="c1">.</span><span
-style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 59.00px; height: 59.00px;">![](images/image13.png)</span>
+style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 59.00px; height: 59.00px;">![](image/image13.png)</span>
 
 <span class="c1"></span>
 
@@ -229,7 +229,7 @@ proporcionado.
 
 Esta suite ofimática incluye una serie de aplicaciones tales como Writer, Impress, Draw, Calc y Base. 
 Estas aplicaciones le permitirán trabajar con textos, presentaciones y hojas de cálculos entre otras.</span><span
-style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 84.00px; height: 84.00px;">![](images/image04.png)</span>
+style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 84.00px; height: 84.00px;">![](image/image04.png)</span>
 
 Para usar la aplicación diríjase a:
 
@@ -254,7 +254,7 @@ Con Gedit podemos crear desde simples documentos de texto sin ningún tipo de
 formato, redactar o tomar notas respecto de algo hasta poder editar
 archivos de páginas web o archivos pertenecientes a un programa.
 </span><span
-style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 67.00px; height: 40.71px;">![images.jpeg](images/image05.jpg)</span>
+style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 67.00px; height: 40.71px;">![images.jpeg](image/image05.jpg)</span>
 
 Para usar la aplicación diríjase a:
 
@@ -271,7 +271,7 @@ Gimp es un programa de dibujo a mano alzada y retoque fotográfico, libre, gratu
 herramientas: seleccionar áreas por geometría, color (varita mágica),
 forma (tijeras), capturar colorear, ampliar, reducir, rotar, deformar,medir distancias, mover, alinear, recortar, inclinar, perspectiva,volteo, texto personalizado, rellenar pintado, mezcla, degradados,
 mosaicos, pinceles, lápiz, rotulador, aerografo, goma, escritura estilo caligrafía (tinta), dibujo a mano alzada, clonado, saneado, enfoque,desenfoque, emborronar, quemar...</span><span
-style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 98.00px; height: 67.00px;">![](images/image01.jpg)</span>
+style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 98.00px; height: 67.00px;">![](image/image01.jpg)</span>
 
 También incluye muchos filtros y efectos para aplicar a los dibujos. Como quitar ojos rojos en las fotografías, distorsiones,sombras, detectar bordes... Lee muchísimos formatos de archivos, entre ellos psd de Photoshop, y puede guardar tus creaciones en xcf (formato predefinido), png, jpg, gif, ico, bmp, y muchos </span><span
 class="c1">otros</span><span class="c1">.</span>
@@ -291,7 +291,7 @@ Para más información, diríjase al folleto formativo nº 4 proporcionado.
 ## Vlc
 
 Vlc es un programa para reproducir tanto música o vídeos en una gran cantidad de formatos distintos (mp3, avi, mkv, mp4,ogv, etc). También permite incorporar subtítulos con formato srt a un vídeo arrastrando directamente el archivo de subtítulos a la imagen del vídeo en reproducción.</span><span
-style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 74.00px; height: 74.00px;">![](images/image03.jpg)</span>
+style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 74.00px; height: 74.00px;">![](image/image03.jpg)</span>
 
 <span class="c1"></span>
 
@@ -325,7 +325,7 @@ Otra posibilidad, es usar la aplicación directamente desde el archivo de vídeo
 ## Paint
 
 Esta herramienta permite realizar dibujos de forma sencilla y rápida, recortar  o modificar imágenes y otras utilidades normales de un programa de dibujo libre. Normalmente es utilizado por niños y niñas ya que la interfaz es muy intuitiva y permite la creación de dibujos de forma divertida.</span><span
-style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 88.00px; height: 77.00px;">![](images/image10.png)</span>
+style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 88.00px; height: 77.00px;">![](image/image10.png)</span>
 
 Para usar la aplicación diríjase a:
 
@@ -361,7 +361,7 @@ O en la barra del menú del escritorio encontraremos el icono que hace referenci
 representa una interfaz parecida a la siguiente:
 
 <span
-style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 526.83px; height: 307.50px;">![5.png](images/image06.png)</span>
+style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 526.83px; height: 307.50px;">![5.png](image/image06.png)</span>
 
 <span class="c1"></span>
 
@@ -485,7 +485,7 @@ operativos tanto Linux como Windows.
 En la siguiente imagen se puede ver de forma gráfica loexplicado:
 
 <span
-style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 286.00px; height: 262.00px;">![](images/image09.png)</span>
+style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 286.00px; height: 262.00px;">![](image/image09.png)</span>
 
 Como vemos la información se representa como si fuera un árbol invertido, donde la raíz del árbol es del directorio indicado
 por **/** y a su vez cuelgan más directorios indicados por los recuadros y los ficheros que podemos acceder.
@@ -531,7 +531,7 @@ Para hacer uso de la cuenta de superusuario, tenemos que abrir una terminal y en
 en el recuadro anterior, quedando como en la imagen:
 
 <span
-style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 457.00px; height: 264.60px;">![6](images/image12.png)</span>
+style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 457.00px; height: 264.60px;">![6](image/image12.png)</span>
 
 <span class="c1"></span>
 
@@ -594,7 +594,7 @@ Nos pedirá la contraseña de superusuario, así que se la proporcionamos y se n
 parecida a la siguiente:
 
 <span
-style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 606.00px; height: 340.88px;">![7.png](images/image08.png)</span>
+style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 606.00px; height: 340.88px;">![7.png](image/image08.png)</span>
 
 <span class="c1"></span>
 
@@ -770,33 +770,18 @@ Cartuja nº
 
 <span class="c1">        </span>
 
-<span class="c1">        Con el director de la Oficina de Software
-Libre:</span>
+Con el director de la Oficina de Software Libre:
 
-<span class="c1">Juan Julián Merelo Guervós: </span><span
-class="c7 c1"><dirosl@ugr.es></span>
+>+ Juan Julián Merelo Guervós: dirosl@ugr.es
+Nuria Rico Castro: subdireccionsl@ugr.es                                                
 
-<span class="c1">Nuria Rico Castro </span><span
-class="c7 c1"><subdireccionsl@ugr.es></span><span
-class="c1">                                                </span><span
-class="c1">Teléfono: 958243000 Extensión: 20207</span>
+* Teléfono: 958243000 Extensión: 20207
 
-<span class="c1 c43 c30"></span>
+O con los técnicos informáticos encargados de los equipos donados:
 
-<span class="c1 c30 c43">O con los técnicos informáticos encargados de
-los equipos </span><span class="c1 c43 c30">donados</span><span
-class="c1 c43 c30">:</span>
-
-<span class="c1">Manuel Cogolludo Vallejo</span><span class="c1">:
-</span><span class="c7 c1"><makovalibre@gmail.com></span><span
-class="c1"> </span>
-
-<span class="c1">Renato Ramirez Rivera: </span><span
-class="c7 c1 c30"><renatolrr@gmail.com></span><span
-class="c1 c30"> </span>
-
-<span class="c1">José Alonso Arias González </span><span
-class="c7 c1"><toblerone554@gmail.com></span>
+>+ Manuel Cogolludo Vallejo: makovalibre@gmail.com
+Renato Ramirez Rivera: renatolrr@gmail.com
+José Alonso Arias González: toblerone554@gmail.com
 
 <div>
 
@@ -805,14 +790,11 @@ class="c7 c1"><toblerone554@gmail.com></span>
                                   </span>
 
 <span class="c1 c32 c26">                               
-                                                           Manuel
-Cogolludo </span>
 
-<span class="c1 c32 c26">Renato Luis Rivero</span>
 
-<span
-class="c1 c32 c26">                                                                                 
-           Jose Alonso Arias</span>
+
+
+
 
 <span class="c1 c32 c26">                            </span>
 
