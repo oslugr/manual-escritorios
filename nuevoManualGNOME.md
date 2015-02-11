@@ -1,81 +1,56 @@
-<div>
+# Manual de usuario Gnome
 
-<span></span>
 
-<span></span>
 
-</div>
 
-<span class="c1 c37">
-</span><span class="c1 c37 c26">Manual de </span><span
-class="c1 c26 c37">usuario Gnome</span>
 
-<span class="c1"></span>
 
-<span
-style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 88.00px; height: 31.00px;">![](/image/image00.png)</span><span
-class="c1"> </span>
+## Índice
 
-<span class="c1">Esta obra está bajo una </span><span
-class="c7 c1">[licencia Creative Commons
-Atribución-NoComercial-CompartirIgual 3.0
-España](http://www.google.com/url?q=http%3A%2F%2Fcreativecommons.org%2Flicenses%2Fby-nc-sa%2F3.0%2Fes%2Fdeed.es&sa=D&sntz=1&usg=AFQjCNGkV9MBtb0OhEgQ3wuBPorWwgveUg)</span><span
-class="c1">.</span>
 
-<span>Índice</span> 
-===================
+* Iniciar el equipo
 
-<span class="c1"></span>
+* Cuenta de usuario
 
-<span class="c7 c1">[Índice](#h.bdiddubucis6)</span>
+* Poner en hora el equipo
 
-<span class="c7 c1">[Iniciar el equipo](#h.xme1zer1a2q6)</span>
+* Programas básicos instalados
 
-<span class="c7 c1">[Cuenta de usuario](#h.wf1lz8cw0slt)</span>
+* IceWeasel
 
-<span class="c7 c1">[Poner en hora el equipo](#h.1m8wxir7z11b)</span>
+* LibreOffice
 
-<span class="c7 c1">[Programas básicos
-instalados](#h.5sjshs2an5fp)</span>
+* Gedit
 
-<span class="c7 c1">[IceWeasel](#h.c62wsg6iawpm)</span>
+* Gimp
 
-<span class="c7 c1">[LibreOffice](#h.rgfipxe4kf4i)</span>
+* Vlc
 
-<span class="c7 c1">[Gedit](#h.hhre60hyfnle)</span><span>
+* Tux Paint
 
-<span class="c7 c1">[Gimp](#h.s6u54z2ks9ea)</span>
+* Administración del sistema
 
-<span class="c7 c1">[Vlc](#h.udr5ube9mle)</span>
+* Sistema de archivos
 
-<span class="c7 c1">[Tux Paint](#h.b0nqkzlv4ni6)</span>
+* Cuenta de superusuario
 
-<span class="c7 c1">[Administración del sistema](#h.p9vfao72ffa0)</span>
+* Consola (Terminal)
 
-<span class="c7 c1">[Sistema de archivos](#h.kjxe44r3z6n9)</span>
+* Instalar programas
 
-<span class="c7 c1">[Cuenta de superusuario](#h.j2yobd3gkeft)</span>
+* Desde gestor de paquetes Synaptic
 
-<span class="c7 c1">[Consola (Terminal)](#h.yt9wt3ysp1sh)</span>
+* Administración avanzada
 
-<span class="c7 c1">[Instalar programas](#h.52h8i9kqxom1)</span>
+* Otras formas de instalar programas
 
-<span class="c7 c1">[Desde gestor de paquetes
-Synaptic](#h.fh7b8tqgdov7)</span>
+* Descargando el paquete desde la página web de la aplicación
 
-<span class="c7 c1">[Administración avanzada](#h.35cxd3xid94p)</span>
+* Desde consola
 
-<span class="c7 c1">[Otras formas de instalar
-programas](#h.8tr3k0e184t9)</span>
+* Sistema de archivos
 
-<span class="c7 c1">[Descargando el paquete desde la página web de la
-aplicación](#h.kth6rpdumw3o)</span>
-
-<span class="c7 c1">[Desde consola](#h.l2vtn0ozihpt)</span>
-
-<span class="c7 c1">[Sistema de archivos](#h.xdrvc65yvcba)</span>
-
-<span class="c7 c1">[Contacto](#h.p3vbmqdui30j)</span>
+* Contacto
 
 
 
@@ -83,11 +58,6 @@ aplicación](#h.kth6rpdumw3o)</span>
 
 Al arrancar el equipo deberá de aparecer una imagen de
 la Oficina de Software Libre con dos opciones de arranque.
-
-
-
-[](#)[](#)
-
 
 Para iniciar el sistema de forma normal seleccionamos la primera opción de las dos posibles.
 
@@ -99,8 +69,7 @@ es posible que sea necesario pulsar la tecla F1. Deberemos de leer lo
 que se muestre por pantalla y seguir las instrucciones. Si no consigue
 arrancar el equipo, póngase en contacto con nosotros indicando el
 problema y el texto mostrado por pantalla (si toman una fotografía se lo
-agradeceríamos para solventar el <span
-class="c1 c30 c26">problema</span><span class="c1 c30 c26">).</span>
+agradeceríamos para solventar el problema.
 
 El escritorio será algo parecido a la siguiente
 imagen donde indicamos los elementos principales:
@@ -133,15 +102,12 @@ Posteriormente, nos aparece una pantalla de fondo azul que nos pide un usuario y
 siguientes datos:
 
 
-
-[](#)[](#)
-
 `Usuario:******`
 `Contraseña:******`
 
-<span class="c1"></span>
 
 Es posible que el sistema tarde cierto tiempo en cargarse completamente.
+
 
 ## Poner en hora el equipo
 
@@ -150,20 +116,17 @@ es correcta deberá seguir los siguientes pasos para cambiarla.
 
 Diríjase a:
 
-[](#)[](#)
 
->+ Aplicaciones / Herramientas del sistema /
->* Preferencias / Configuración del sistema /
+>+ Aplicaciones / Herramientas del sistema 
+>+ Preferencias / Configuración del sistema 
 
-
-<span class="c1"></span>
 
 Tal y como se muestra en la siguiente imagen:
 
 <span class="c1"></span>
 
 <span
-style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 613.00px; height: 344.81px;">![2](/image/imagen00.png)</span>
+style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 613.00px; height: 344.81px;">![](/image/image000.png)</span>
 
 <span class="c1"></span>
 
@@ -174,17 +137,12 @@ una contraseña. En este caso hay que introducir la contraseña de
 superusuario (explicado en el apartado Administración del sistema /
 Cuenta de superusuario):
 
-<span class="c1"></span>
 
-[](#)[](#)
+`Contraseña:******`                      
 
-`Contraseña:******`                        |
-
-
-<span class="c1"></span>
 
 <span
-style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 587.00px; height: 330.19px;">![3](image/image07.png)</span>
+style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 587.00px; height: 330.19px;">![](image/image07.png)</span>
 
 <span class="c1"></span>
 
@@ -192,13 +150,12 @@ Ahora podemos poner la hora y la fecha
 actuales. Si vuelve a pedir una contraseña se debe de introducir la de
 superusuario, indicada en el recuadro anterior.
 
-## Programas básicos instalados
+
+# Programas básicos instalados
 
 
-El equipo tiene instalados por defecto diversas
-aplicaciones libres que abarcan distintas necesidades a la hora de
-trabajar o de utilizar el ordenador. A continuación puede conocer mejor
-alguno de los más básicos y útiles.>
+El equipo tiene instalados por defecto diversas aplicaciones libres que abarcan distintas necesidades a la hora de
+trabajar o de utilizar el ordenador. A continuación puede conocer mejor alguno de los más básicos y útiles.
 
 ## IceWeasel 
 <span class="c1"></span><span
@@ -209,21 +166,12 @@ prácticamente idéntica a la del gran navegador Firefox, ya que con este
 navegador podremos acceder a internet además de poder abrir incluso
 ficheros de texto y </span><span class="c1">más</span>.
 
-<span class="c1"></span>
 
-Para usar la aplicación diríjase a:</span>
+Para usar la aplicación diríjase a:
 
-<span class="c1"></span>
-
-[](#)[](#)
 
 >+ Aplicaciones / Internet / Iceweasel
 
-<span class="c1"></span>
-
-Para más información, diríjase al folleto formativo
-</span><span class="c1">nº </span><span class="c1">3
-proporcionado.
 
 ## LibreOffice
 <span class="c1"></span><span
@@ -233,14 +181,9 @@ Estas aplicaciones le permitirán trabajar con textos, presentaciones y hojas de
 
 Para usar la aplicación diríjase a:
 
-<span class="c1"></span>
-
-[](#)[](#)
 
 >+ Aplicaciones / Oficina / LibreOffice Writer
 
-
-<span class="c1"></span>
 
 Seleccione en este último lugar la aplicación que desee según quiera trabajar con textos (Writer), hojas de cálculo (Calc),presentaciones (Impress), dibujos (Draw) o bases de </span><span
 class="c1">datos</span><span class="c1">. Para más información, diríjase
@@ -259,11 +202,6 @@ archivos de páginas web o archivos pertenecientes a un programa.
 
 Para usar la aplicación diríjase a:
 
-<span class="c1"></span>
-
-[](#)[](#)
-
-
 >+ Aplicaciones / Accesorios / Gedit                               |
 
 ## Gimp 
@@ -273,22 +211,14 @@ style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0
 Gimp es un programa de dibujo a mano alzada y retoque fotográfico, libre, gratuito y similar al privativo Photoshop. Te permite trabajar con capas, rutas, canales, tiene muchas utilidades y
 herramientas: seleccionar áreas por geometría, color (varita mágica),
 forma (tijeras), capturar colorear, ampliar, reducir, rotar, deformar,medir distancias, mover, alinear, recortar, inclinar, perspectiva,volteo, texto personalizado, rellenar pintado, mezcla, degradados,
-mosaicos, pinceles, lápiz, rotulador, aerografo, goma, escritura estilo caligrafía (tinta), dibujo a mano alzada, clonado, saneado, enfoque,desenfoque, emborronar, quemar...</span>
+mosaicos, pinceles, lápiz, rotulador, aerografo, goma, escritura estilo caligrafía (tinta), dibujo a mano alzada, clonado, saneado, enfoque,desenfoque, emborronar, quemar...
 
-También incluye muchos filtros y efectos para aplicar a los dibujos. Como quitar ojos rojos en las fotografías, distorsiones,sombras, detectar bordes... Lee muchísimos formatos de archivos, entre ellos psd de Photoshop, y puede guardar tus creaciones en xcf (formato predefinido), png, jpg, gif, ico, bmp, y muchos </span><span
-class="c1">otros</span><span class="c1">.</span>
+También incluye muchos filtros y efectos para aplicar a los dibujos. Como quitar ojos rojos en las fotografías, distorsiones,sombras, detectar bordes... Lee muchísimos formatos de archivos, entre ellos psd de Photoshop, y puede guardar tus creaciones en xcf (formato predefinido), png, jpg, gif, ico, bmp, y muchos otros.
 
 Para usar la aplicación diríjase a:
 
-<span class="c1"></span>
-
-[](#)[](#)
-
 >+ Aplicaciones / Gráficos / Programa de manipulación imágenes GNU
 
-<span class="c1"></span>
-
-Para más información, diríjase al folleto formativo nº 4 proporcionado.
 
 ## Vlc
 <span class="c1"></span><span
@@ -296,35 +226,22 @@ style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0
 
 Vlc es un programa para reproducir tanto música o vídeos en una gran cantidad de formatos distintos (mp3, avi, mkv, mp4,ogv, etc). También permite incorporar subtítulos con formato srt a un vídeo arrastrando directamente el archivo de subtítulos a la imagen del vídeo en reproducción.</span>
 
-<span class="c1"></span>
 
 Para usar la aplicación diríjase a:
 
-<span class="c1"></span>
-
-[](#)[](#)
-
 >+ Aplicaciones / Sonido y vídeo / Reproductor multimedia VLC
-
-<span class="c1"></span>
 
 Una vez abierto el programa, puede reproducir música o vídeo desde:
 
-<span class="c1"></span>
 
-[](#)[](#)
+>+ Medio / Abrir archivo</span>                       
 
->+ Medio / Abrir archivo</span>                         |
 
-<span class="c1"></span>
-
-Y seleccionar el archivo deseado. También puede crear una lista de reproducción con todos los archivos reproducibles de un directorio indicando </span><span class="c1 c26">Abrir directorio</span><span class="c1"> y seleccionando el directorio que contiene estos archivos.</span>
+Y seleccionar el archivo deseado. También puede crear una lista de reproducción con todos los archivos reproducibles de un directorio indicando **Abrir directorio<** y seleccionando el directorio que contiene estos archivos.
 
 Otra posibilidad, es usar la aplicación directamente desde el archivo de vídeo o audio. Si este archivo tiene el icono correspondiente a Vlc, bastará con un doble click, en caso contrario,será necesario pulsar con el botón derecho del ratón y seleccionar Abrir con / Reproductor multimedia Vlc.
 
  
-<span></span>
-
 ## Paint
 <span
 style="max-width:40%;">![](image/image10.png)</span>
@@ -334,15 +251,11 @@ Esta herramienta permite realizar dibujos de forma sencilla y rápida, recortar 
 Para usar la aplicación diríjase a:
 
 
-
-[](#)[](#)
-
 >+ Aplicaciones / Educación / Tux Paint
 
-<span class="c1"></span>
 
 De nuevo, tenemos la posibilidad de arrancar el programa a partir de una imagen que tengamos guardada. Para ello
-pinchamos con el botón derecho del ratón sobre la imagen que queremos abrir y seleccionamos Abrir con / Tux Paint.
+pinchamos con el botón derecho del ratón sobre la imagen que queremos abrir y seleccionamos **Abrir con / Tux Paint**.
 
 
 ## Consola (Terminal)
@@ -353,13 +266,9 @@ todo el sistema, como por ejemplo ejecutar programas, instalarlos,editar archivo
 
 Bien para ejecutar la terminal (o consola) nos dirigimos a:
 
-<span class="c1"></span>
-
-[](#)[](#)
 
 >+ Aplicaciones / Accesorios / Terminal
 
-<span class="c1"></span>
 
 O en la barra del menú del escritorio encontraremos el icono que hace referencia a la terminal. Esta
 representa una interfaz parecida a la siguiente:
@@ -463,8 +372,7 @@ pero explicaremos los comandos más básicos y usuales.</span>
 
 -   <span class="c1">exit</span>
 
-<span class="c1">        Incluso tenemos atajos en la terminal y más
-cosas al respecto pero eso ya se escapa de este manual.</span>
+Incluso tenemos atajos en la terminal y más cosas al respecto pero eso ya se escapa de este manual.
 
  
 
@@ -473,15 +381,10 @@ cosas al respecto pero eso ya se escapa de este manual.</span>
 # Sistema de archivos
 
 Los documentos personales se guardan por defecto en una carpeta llamada */home*.Se puede acceder a esta
-carpeta desde:</span>
-
-<span class="c1"></span>
-
-[](#)[](#)
+carpeta desde:
 
 >+ Lugares / Carpetas
 
-<span class="c1"></span>
 
 Dentro del sistema de carpetas nos podemos mover entrando a ellas de la misma forma que con el resto de sistemas
 operativos tanto Linux como Windows.
@@ -495,21 +398,14 @@ Como vemos la información se representa como si fuera un árbol invertido, dond
 por **/** y a su vez cuelgan más directorios indicados por los recuadros y los ficheros que podemos acceder.
 
 Por ejemplo si accedemos a una foto llamada *osl.png* perteneciente al usuario *serafin* el sistema operativo pasaría por la
-ruta de acceso:</span>
+ruta de acceso:
 
-<span class="c1"></span>
-
-[](#)[](#)
 
 >+ /home/serafin/Fotos/osl.png
 
-<span class="c1"></span>
 
-Bien pues la carpeta personal del usuario “invitado” se encuentra en la ruta:
+Bien pues la carpeta personal del usuario **“invitado”** se encuentra en la ruta:
 
-<span class="c1"></span>
-
-[](#)[](#)
 
 >+ /home/invitado/
 
@@ -522,14 +418,10 @@ uno de ellos con diferentes privilegios para hacer o deshacer cosas, en Linux ex
 la empresa), que es el usuario que tiene todos los privilegios para administrar y manejar el sistema a diferencia de un usuario normal (como
 el usuario invitado) que tiene acceso limitado a una serie de aplicaciones y de opciones de administración.
 
-<span class="c1"></span>
-
-[](#)[](#)
 
 `Usuario:*****`                                                                          |
 `Contraseña:*****`
 
-<span class="c1"></span>
 
 Para hacer uso de la cuenta de superusuario, tenemos que abrir una terminal y en ella escribir la palabra **su** y como contraseña la indicada
 en el recuadro anterior, quedando como en la imagen:
@@ -537,7 +429,6 @@ en el recuadro anterior, quedando como en la imagen:
 <span
 style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 457.00px; height: 264.60px;">![6](image/image12.png)</span>
 
-<span class="c1"></span>
 
 Una vez estemos como superusuario podremos hacer todo lo que queramos, desde poder modificar ficheros tales como el
 que almacena la información de los repositorios, instalar aplicaciones o incluso modificar el menú de Grub para el arranque del sistema.
@@ -545,12 +436,9 @@ que almacena la información de los repositorios, instalar aplicaciones o inclus
 Al terminar de hacer las tareas que quisiéramos debemos finalizar la sesión para evitar que ningún usuario malintencionado haga
 mal uso del equipo, para ello escribiremos el **comando**
 
-<span class="c1"></span>
 
-[](#)[](#)
-
-
-`exit`                                          
+`exit` 
+                                         
 
 ## Instalar programas
 
@@ -560,26 +448,18 @@ tarea de administración que únicamente se puede hacer si se tienen privilegios
 
 Recordamos que la contraseña que hay que introducir es:
 
-<span class="c1"></span>
-
-[](#)[](#)
-
 
 `Contraseña:******`
+
 
 ## Desde gestor de paquetes Synaptic
 
 Esta aplicación, es una de las más usadas para instalar aplicaciones y es la que de hecho se recomienda para esta tarea. 
 Nos iremos a:>
 
-<span class="c1"></span>
-
-[](#)[](#)
-
 
 >+ Aplicaciones / Herramientas del sistema / Administración / Gestor de paquetes Synaptic
 
-<span class="c1"></span>
 
 En el panel izquierdo disponemos de las categorías de los programas para instalar, así que si seleccionamos una de ellas, se
 nos reflejará en el panel derecho el listado de aplicaciones relacionadas con esa categoría.
@@ -617,7 +497,8 @@ de forma automática. Muchas aplicaciones tienen en su web oficial un enlace de 
 
 Para iniciar basta con hacer doble click sobre el archivo descargado y pulsar posteriormente el botón de instalar
 el paquete que hay en la ventana que aparece. Al ejecutar el paquete (el archivo **.deb**) nos pedirá la contraseña
-antes mencionada.>
+antes mencionada.
+
 
 ### Desde consola
 
@@ -626,76 +507,46 @@ Hay una forma muy sencilla de instalar un programa y es utilizando la consola qu
 En primer lugar debemos de identificarnos como
 superusuario escribiendo en consola:
 
-<span class="c1"></span>
-
-[](#)[](#)
 
 `su`
 
-<span class="c1"></span>
 
 A continuación nos pide una contraseña y debemos escribir la contraseña de superusuario.
 
-<span class="c1"></span>
-
-[](#)[](#)
 
 `Contraseña:******`                                    
 
-<span class="c1"></span>
-
-<span class="c1"></span>
 
 Para hacer uso de esta forma para instalar programas debemos usar dos órdenes, una para buscar el programa en cuestión y
 luego otra orden para instalar la aplicación.
 
 Como acabamos de decir lo primero es buscar el programa, para ello en la terminal escribiremos el comando:
 
-<span class="c1"></span>
-
-[](#)[](#)
-
 
 `apt-cache search \<patrón de búsqueda>`
 
-<span class="c1"></span>
 
 Con *patrón de búsqueda* se indica que podemos poner una cadena de texto y buscar todas las aplicaciones que tienen en
 su nombre esa coincidencia, por ejemplo si queremos buscar el navegador web Chromium escribiremos:
 
-<span class="c1"></span>
-
-[](#)[](#)
 
 `apt-cache search chromium`                     |
 
-
-<span class="c1"></span>
 
 Con ellos nos aparecerá un listado de aplicaciones que coinciden con ese nombre, entre ellas estará el navegador.
 
 Luego la orden que instala un programa es `apt-get install` y la podemos usar de la siguiente forma:
 
-<span class="c1">                </span>
-
-[](#)[](#)
 
 `apt-get install \<nombre de la aplicación>`
 
 
-<span class="c1"></span>
-
 Donde **nombre de la aplicación** es el nombre de la aplicación o programa a instalar. Por ejemplo:
 
-<span class="c1"></span>
-
-[](#)[](#)
 
 
 `apt-get install chromium-browser`           
 
-
-<span class="c13 c1"></span>
 
 Sin embargo, es posible que no encuentre el programa indicado. Es debido a que el sistema necesita saber dónde puede encontrar ese programa para
 instalarlo y no siempre se sabe dónde se encuentra. En estos casos hay que añadir “la dirección al lugar” desde el cual el sistema puede
@@ -709,14 +560,9 @@ ejemplo:
 
 Si queremos instalar el navegador Chromium escribimos:
 
-<span class="c1"></span>
-
-[](#)[](#)
-
 
 `apt-get install chromium`
 
-<span class="c1 c13"></span>
 
 Y pulsamos tabulador, en consola se mostrarán aplicaciones que comienzan por `chr` y entre ellas la que estamos
 buscando, permitiéndonos completar el nombre del programa.
@@ -742,18 +588,9 @@ Existen diversos tipos tales como `ext2`, `ext3` que son los tipos nativos de Li
 
 La carpeta del administrador se encuentra en:
 
-<span class="c1"></span>
-
-[](#)[](#)
-
 
 `/root`                                        
 
-<span class="c1"></span>
-
-
-
-<span class="c1"></span>
 
 
 
@@ -783,23 +620,3 @@ Cartuja nº
 >+ Manuel Cogolludo Vallejo: makovalibre@gmail.com
 >+ Renato Ramirez Rivera: renatolrr@gmail.com
 >+ José Alonso Arias González: toblerone554@gmail.com
-
-<div>
-
-<span class="c1 c32"> </span><span class="c1 c32">                 
-
-</span>
-
-<span class="c1 c32 c26">                               
-
-
-
-
-
-
-<span class="c1 c32 c26">                            </span>
-
-<span class="c1 c26 c32">                                               
-</span>
-
-</div>
