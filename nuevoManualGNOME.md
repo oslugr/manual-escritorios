@@ -327,8 +327,7 @@ Otra posibilidad, es usar la aplicación directamente desde el archivo de vídeo
 
 ## Paint
 <span class="c1"></span><span
-style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 40.00px; height: 40.00px;">![](image/image10.png)</span>
-<img src="/oslugr/manual-escritorios/raw/gnome/image/image10.png" alt="" style="max-width:100%;">
+style="max-width:40%;">![](image/image10.png)</span>
 
 Esta herramienta permite realizar dibujos de forma sencilla y rápida, recortar  o modificar imágenes y otras utilidades normales de un programa de dibujo libre. Normalmente es utilizado por niños y niñas ya que la interfaz es muy intuitiva y permite la creación de dibujos de forma divertida.</span>
 
