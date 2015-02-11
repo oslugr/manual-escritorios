@@ -326,7 +326,7 @@ Otra posibilidad, es usar la aplicación directamente desde el archivo de vídeo
 <span></span>
 
 ## Paint
-<span class="c1"></span><span
+<span
 style="max-width:40%;">![](image/image10.png)</span>
 
 Esta herramienta permite realizar dibujos de forma sencilla y rápida, recortar  o modificar imágenes y otras utilidades normales de un programa de dibujo libre. Normalmente es utilizado por niños y niñas ya que la interfaz es muy intuitiva y permite la creación de dibujos de forma divertida.</span>
