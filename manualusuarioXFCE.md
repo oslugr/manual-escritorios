@@ -63,7 +63,7 @@ El escritorio será algo parecido a la siguiente imagen donde indicamos los elem
 ![](imgXFCE/image02.png)
 
 Un sistema operativo es el conjunto de programas básicos y utilidades que hacen que funcione su
-equipo. El sistema operativo instalado es un [Debian](http://www.google.com/url?q=http%3A%2F%2Fwww.debian.org%2Findex.es.html&sa=D&sntz=1&usg=AFQjCNFxyDgMl_RUu6sQA8mKEIB8WHSqxQ) que es una versión de Linux. Este sistema operativo es similar a los más
+equipo. El sistema operativo instalado es un [Debian](http://www.google.com/url?q=http%3A%2F%2Fwww.debian.org%2Findex.es.html&sa=D&sntz=1&usg=AFQjCNFxyDgMl_RUu6sQA8mKEIB8WHSqxQ) que es una versión de Linux. Este sistema operativo es similar a los más
 conocidos Guadalinex o Ubuntu.
 
 Un [entorno de escritorio por lo general consiste de iconos, ventanas, barras de herramientas,
@@ -136,7 +136,7 @@ Seleccione en este último lugar la aplicación que desee según quiera trabajar
 
 ![](imgXFCE/image05.png)
 
-Geany es una aplicación que sirve para editar ficheros de texto plano. Con Geany podemos crear desde simples
+Geany es una aplicación que sirve para editar ficheros de texto plano. Con Geany podemos crear desde simples
 documentos de texto sin ningún tipo de formato, redactar o tomar notas respecto de algo hasta poder editar archivos de páginas web o archivos pertenecientes a un programa.
 
 Para usar la aplicación diríjase a:
@@ -174,7 +174,7 @@ Una vez abierto el programa, puede reproducir música o vídeo desde:
 
 >+ Medio / Abrir archivo                                                    
 
-Y seleccionar el archivo deseado. También puede crear una lista de reproducción con todos los archivos reproducibles de un directorio indicando Abrir directorio y seleccionando el directorio que contiene
+Y seleccionar el archivo deseado. También puede crear una lista de reproducción con todos los archivos reproducibles de un directorio indicando Abrir directorio y seleccionando el directorio que contiene
 estos archivos.
 
 Otra posibilidad, es usar la aplicación directamente desde el archivo de vídeo o audio. Si este archivo tiene el icono correspondiente a Vlc, bastará con un doble click, en caso contrario, será necesario pulsar con
@@ -210,7 +210,7 @@ O en la barra del menú del escritorio encontraremos el icono que hace referenci
 Aparte de esta terminal, existen otras terminales (se les llaman terminales virtuales) que son iguales que esta que podemos ver pero la diferencia que es sólo se trabaja en modo texto en esas terminales sin
 ningún gráfico. Para hacer uso de ellas tendremos que ejecutar la combinación de teclas: **Ctrl+Alt+F1** donde el **F1** lo podemos sustituir por las siguientes teclas **F2** en adelante hasta **F6**. Para volver al modo gráfico haremos uso de la combinación: **Ctrl+Alt+F7**.
 
-[Aquí](http://www.google.com/url?q=http%3A%2F%2Fwww.inkilino.com%2Farchivos%2FComandos-Unix.pdf&sa=D&sntz=1&usg=AFQjCNEpaTUACzhT4GKtKU62eleAZYQHbQ) tiene un listado de comandos para poder usar la terminal, pero explicaremos
+[Aquí](http://www.google.com/url?q=http%3A%2F%2Fwww.inkilino.com%2Farchivos%2FComandos-Unix.pdf&sa=D&sntz=1&usg=AFQjCNEpaTUACzhT4GKtKU62eleAZYQHbQ) tiene un listado de comandos para poder usar la terminal, pero explicaremos
 los comandos más básicos y usuales.
 
 -   cd Nos sirve para movernos a través de las carpetas.
@@ -231,11 +231,11 @@ los comandos más básicos y usuales.
 
 -   cp Leeme.txt Leeme.txt.copia
 
--   mv Con este podemos cambiarle el nombre a un fichero.
+-   mv Con este podemos cambiarle el nombre a un fichero.
 
 -   mv Equipos.txt Ordenadores.txt
 
--   rm Si queremos borrar un fichero este es nuestro comando.
+-   rm Si queremos borrar un fichero este es nuestro comando.
 
 -   rm Leeme.txt
 
@@ -243,7 +243,7 @@ los comandos más básicos y usuales.
 
 -   date
 
--   cal Dibuja en la terminal un calendario del mes actual.
+-   cal Dibuja en la terminal un calendario del mes actual.
 
 -   cal
 
@@ -289,7 +289,7 @@ que tiene todos los privilegios para administrar y manejar el sistema a diferenc
 >+ Usuario: ******                                                            
 >+ Contraseña: ******                                                    
 
-Para hacer uso de la cuenta de superusuario, tenemos que abrir una terminal y en ella escribir la palabra su y como contraseña la indicada en el recuadro anterior, quedando como en la imagen:
+Para hacer uso de la cuenta de superusuario, tenemos que abrir una terminal y en ella escribir la palabra su y como contraseña la indicada en el recuadro anterior, quedando como en la imagen:
 
 ![](imgXFCE/image12.png)
 
@@ -337,7 +337,7 @@ Nos pedirá la contraseña de superusuario, así que se la proporcionamos y se n
 
 ## Descargando el paquete desde la página web de la aplicación 
 
-Los paquetes son archivos acabados en .deb que al ejecutarlos instalan en nuestro ordenador el programa de forma automática. Muchas aplicaciones tienen en su web oficial un enlace de descarga del archivo **.deb.**.
+Los paquetes son archivos acabados en .deb que al ejecutarlos instalan en nuestro ordenador el programa de forma automática. Muchas aplicaciones tienen en su web oficial un enlace de descarga del archivo **.deb.**.
 
 Para arrancarlo basta con hacer doble click sobre el archivo descargado y pulsar posteriormente el botón de instalar paquete que hay en la ventana que aparece. Al ejecutar el paquete (el archivo .deb) nos pedirá
 la contraseña antes mencionada.
@@ -389,7 +389,7 @@ Si queremos instalar el navegador *Chromium* escribimos:
 
 `apt-get install chr`                                                      
 
-Y pulsamos tabulador, en consola se mostrarán aplicaciones que comienzan por chr y entre ellas la que estamos buscando, permitiéndonos completar el nombre del programa.
+Y pulsamos tabulador, en consola se mostrarán aplicaciones que comienzan por chr y entre ellas la que estamos buscando, permitiéndonos completar el nombre del programa.
 
  
 ## Sistema de archivos 
@@ -397,10 +397,10 @@ Y pulsamos tabulador, en consola se mostrarán aplicaciones que comienzan por ch
 
 Todo sistema operativo tiene lo que se llama el sistema de archivos (o sistema de ficheros), esta parte del sistema operativo estructura la información guardada en una unidad de almacenamiento (normalmente un
 disco duro de una computadora), que luego será representada ya sea textual o gráficamente utilizando
-un[ ](http://www.google.com/url?q=http%3A%2F%2Fes.wikipedia.org%2Fwiki%2FGestor_de_archivos&sa=D&sntz=1&usg=AFQjCNEt2g5AqQxcd4hSpRxWTx9d8NnD4A)[gestor de archivos](http://www.google.com/url?q=http%3A%2F%2Fes.wikipedia.org%2Fwiki%2FGestor_de_archivos&sa=D&sntz=1&usg=AFQjCNEt2g5AqQxcd4hSpRxWTx9d8NnD4A).
+un[ ](http://www.google.com/url?q=http%3A%2F%2Fes.wikipedia.org%2Fwiki%2FGestor_de_archivos&sa=D&sntz=1&usg=AFQjCNEt2g5AqQxcd4hSpRxWTx9d8NnD4A)[gestor de archivos](http://www.google.com/url?q=http%3A%2F%2Fes.wikipedia.org%2Fwiki%2FGestor_de_archivos&sa=D&sntz=1&usg=AFQjCNEt2g5AqQxcd4hSpRxWTx9d8NnD4A).
 La mayoría de
-los[ ](http://www.google.com/url?q=http%3A%2F%2Fes.wikipedia.org%2Fwiki%2FSistemas_operativos&sa=D&sntz=1&usg=AFQjCNGUhZjf__vRbzy69RmQwiuHwVqRGA)[sistemas
-operativos](http://www.google.com/url?q=http%3A%2F%2Fes.wikipedia.org%2Fwiki%2FSistemas_operativos&sa=D&sntz=1&usg=AFQjCNGUhZjf__vRbzy69RmQwiuHwVqRGA) manejan su propio sistema de archivos
+los[ ](http://www.google.com/url?q=http%3A%2F%2Fes.wikipedia.org%2Fwiki%2FSistemas_operativos&sa=D&sntz=1&usg=AFQjCNGUhZjf__vRbzy69RmQwiuHwVqRGA)[sistemas
+operativos](http://www.google.com/url?q=http%3A%2F%2Fes.wikipedia.org%2Fwiki%2FSistemas_operativos&sa=D&sntz=1&usg=AFQjCNGUhZjf__vRbzy69RmQwiuHwVqRGA) manejan su propio sistema de archivos
 
 Existen diversos tipos tales como **ext2**, **ext3** que son los tipos nativos de **Linux** o **FAT**, **NTFS** de Windows. Linux tiene su forma de estructurar la información, para ello usa un sistema de archivos ramificado para organizar la información y acceder a los datos, es decir, usamos un árbol para localizar los ficheros, haciendo una analogía digamos que es parecido a si nos subiéramos a un árbol y nos moviéramos por las ramas hasta llegar a las hojas.
 
@@ -423,7 +423,7 @@ donados puede ponerse en contacto con la oficina de Software Libre:
 * Con los directores de la Oficina de Software Libre:
 
 >+ Juan Julián Merelo Guervós: [dirosl@ugr.es](mailto:dirosl@ugr.es)
->+ Nuria rico Castro: [subdirosl@osl.ugr.es](mailto:subdirosl@ugr.es)
+>+ Nuria rico Castro: [subdireccionsl@osl.ugr.es](mailto:subdireccionsl@ugr.es)
 >+ Teléfono: 958243000 Extensión: 20207
 
 * O con los técnicos informáticos encargados de los equipos donados:
