@@ -423,7 +423,7 @@ donados puede ponerse en contacto con la oficina de Software Libre:
 * Con los directores de la Oficina de Software Libre:
 
 >+ Juan Julián Merelo Guervós: [dirosl@ugr.es](mailto:dirosl@ugr.es)
->+ Nuria rico Castro: [subdireccionsl@osl.ugr.es](mailto:subdireccionsl@ugr.es)
+>+ Nuria rico Castro: [subdireccionsl@ugr.es](mailto:subdireccionsl@ugr.es)
 >+ Teléfono: 958243000 Extensión: 20207
 
 * O con los técnicos informáticos encargados de los equipos donados:
