@@ -172,7 +172,6 @@ Para usar la aplicación diríjase a:
 
 Una vez abierto el programa, puede reproducir música o vídeo desde:
 
-
 >+ Medio / Abrir archivo                                                    
 
 Y seleccionar el archivo deseado. También puede crear una lista de reproducción con todos los archivos reproducibles de un directorio indicando Abrir directorio y seleccionando el directorio que contiene
@@ -218,7 +217,7 @@ los comandos más básicos y usuales.
 
 -   cp /home/******/Descargas
 
--   ls Se usa para hacer un listado del contenido de una carpeta.
+-   ls   Se usa para hacer un listado del contenido de una carpeta.
 
 -   ls /home/******/Imágenes
 
@@ -248,22 +247,19 @@ los comandos más básicos y usuales.
 
 -   cal
 
--   exit Bien nos sirve para cerrar la terminal o para cerrar la sesión
-    del superusuario.
+-   exit Bien nos sirve para cerrar la terminal o para cerrar la sesión  del superusuario.
 
 -   exit
 
-        Incluso tenemos atajos en la terminal y más cosas al respecto
-pero eso ya se escapa de este manual.
+Incluso tenemos atajos en la terminal y más cosas al respecto pero eso ya se escapa de este manual.
 
  
-
 ## Administración del sistema
 
 
 ### Sistema de archivos 
 
-Los documentos personales se guardan por defecto en una carpeta llamada home. Se puede acceder a esta carpeta desde:
+Los documentos personales se guardan por defecto en una carpeta llamada **Home**. Se puede acceder a esta carpeta desde:
 
 >+ Menú de Xfce / Administrador de archivos                                 
 
@@ -277,13 +273,12 @@ Como vemos la información se representa como si fuera un árbol invertido, dond
 
 Por ejemplo si accedemos a una foto llamada **“osl.png”** perteneciente al usuario **“serafin”** el sistema operativo pasaría por la ruta de acceso:
 
-
 >+ /home/serafin/Fotos/osl.png                                             
 
 Bien pues la carpeta personal del usuario “******” se encuentra en la ruta:
 
-
 >+ /home/******/                                                          
+
 
 ### Cuenta de superusuario 
 
@@ -293,7 +288,6 @@ que tiene todos los privilegios para administrar y manejar el sistema a diferenc
 
 >+ Usuario: ******                                                            
 >+ Contraseña: ******                                                    
-
 
 Para hacer uso de la cuenta de superusuario, tenemos que abrir una terminal y en ella escribir la palabra su y como contraseña la indicada en el recuadro anterior, quedando como en la imagen:
 
@@ -305,8 +299,8 @@ Al terminar de hacer las tareas que quisiéramos debemos finalizar la sesión pa
 
 `exit`                                                                     
 
-## Instalar programas 
 
+## Instalar programas 
 
 Cuando queremos instalar algún programa nuevo podemos hacerlo de muchas formas. A continuación vamos a explicar las tres más fáciles. Para todas ellas será necesario introducir la contraseña de superusuario
 ya que la instalación de programas es una tarea de administración que únicamente se puede hacer si se tienen privilegios de administrador.
@@ -320,7 +314,6 @@ Recordamos que la contraseña que hay que introducir es:
 Esta aplicación, es una de las más usadas para instalar aplicaciones y es la que de hecho se recomienda para esta tarea. Nos iremos a:
 
 >+ Menú de Xfce / Sistema / Gestor de paquetes Synaptic                     
-
 
 En el panel izquierdo disponemos de las categorías de los programas para instalar, así que si seleccionamos una de ellas, se nos reflejará en el panel derecho el listado de aplicaciones relacionadas con esa categoría.
 
@@ -348,6 +341,7 @@ Los paquetes son archivos acabados en .deb que al ejecutarlos instalan en nuest
 
 Para arrancarlo basta con hacer doble click sobre el archivo descargado y pulsar posteriormente el botón de instalar paquete que hay en la ventana que aparece. Al ejecutar el paquete (el archivo .deb) nos pedirá
 la contraseña antes mencionada.
+
 
 ### Desde consola 
 
@@ -378,9 +372,7 @@ Con ellos nos aparecerá un listado de aplicaciones que coinciden con ese nombre
 
 Luego la orden que instala un programa es `apt-get install` y la podemos usar de la siguiente forma:
 
-
 `apt-get install \<nombre de la aplicación\>`                            
-
 
 Donde **\<nombre de la aplicación\>** es el nombre de la aplicación o programa a instalar.
 Por ejemplo:
@@ -436,6 +428,6 @@ donados puede ponerse en contacto con la oficina de Software Libre:
 
 * O con los técnicos informáticos encargados de los equipos donados:
 
-Manuel Cogolludo Vallejo: [makovalibre@gmail.com](mailto:makovalibre@gmail.com)
-Renato Ramirez Romero: [renatolrr@gmail.com](mailto:renatolrr@gmail.com)
-José Alonso 
+>+ Manuel Cogolludo Vallejo: [makovalibre@gmail.com](mailto:makovalibre@gmail.com)
+>+ Renato Ramirez Romero: [renatolrr@gmail.com](mailto:renatolrr@gmail.com)
+>+ José Alonso Arias González: [toblerone554@gmail.com](mailto:toblerone554@gmail.com)
